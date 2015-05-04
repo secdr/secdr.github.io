@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-05-03T23:59:54-07:00</updated>
+  <updated>2015-05-04T00:12:29-07:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[About Us]]></title>
-    <link href="http://secdr.github.io/blog/2015/05/03/about-us/"/>
+    <link href="http://secdr.github.io/2015/05/03/about-us/"/>
     <updated>2015-05-03T23:23:28-07:00</updated>
-    <id>http://secdr.github.io/blog/2015/05/03/about-us</id>
+    <id>http://secdr.github.io/2015/05/03/about-us</id>
     <content type="html"><![CDATA[<p>SecDr 由一群攻读信息安全的博士生组成，主要交流科研写作与生活，侧重于以下几方面内容：</p>
 
 <ul>

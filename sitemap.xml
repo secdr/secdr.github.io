@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://secdr.github.io/blog/2015/05/03/about-us/</loc>
+    <loc>http://secdr.github.io/2015/05/03/about-us/</loc>
     <lastmod>2015-05-03T23:23:28-07:00</lastmod>
   </url>
   <url>
@@ -11,6 +11,6 @@
     <loc>http://secdr.github.io/</loc>
   </url>
   <url>
-    <loc>http://secdr.github.io/blog/categories/group/</loc>
+    <loc>http://secdr.github.io/categories/group/</loc>
   </url>
 </urlset>
