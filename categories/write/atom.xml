@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[SecDr]]></title>
-  <link href="http://secdr.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Write | SecDr]]></title>
+  <link href="http://secdr.github.io/categories/write/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
   <updated>2015-05-04T00:42:30-07:00</updated>
   <id>http://secdr.github.io/</id>
@@ -23,7 +23,7 @@
 
 <p>四大杂志社巨头分别是东毒、西邪、南丐、北帝，哈哈，我开玩笑的啦！咳咳，我正经一点，分别是——Springer，ELSEVIER, WILEY和Taylor&amp;Francis Group。很陌生吧？那么看了下面的LOGO，那马头，那棵树熟悉不？后面两个（一个咒语和一掌阿拉神灯）就看着眼生了。</p>
 
-<p><img src="http://secdr.github.io/upload/fourpress.png" alt="four press" /></p>
+<p><img src="/upload/fourpress.png" alt="four press" /></p>
 
 <p>这几家杂志社，有三个共性——大龄、任性、有钱！</p>
 
@@ -31,7 +31,7 @@
 
 <p>先讲新婚不久的Springer，1841年生，170多岁了，你很莫然地看着我，好吧，我们换个说法，慈禧那会的事情，Springer诞生的时候，慈禧还没有死老公，不对，确切说还在穿开裆裤。也就是说Springer和慈禧是看着同样的动画片《喜羊羊》长大的！</p>
 
-<p><img src="http://secdr.github.io/upload/pressdev.png" alt="pressdev" /></p>
+<p><img src="/upload/pressdev.png" alt="pressdev" /></p>
 
 <p>WILEY笑了，1807年生，当时嘉庆皇帝正在兴致勃勃地抄和珅家，他万万没有想到国外的一个叫WILEY的杂志社诞生了，不然他肯定从和珅家拿点当贺礼送过去。嘉庆是谁？（历史学的不好吧？）嘉庆大老婆生了道光，道光是咸丰他爹，而慈禧是咸丰的老婆，所以算下来,WILEY:“Springer小朋友，快来认老祖宗！”</p>
 
@@ -80,93 +80,6 @@
 <p>终于把这四大杂志社都蜻蜓点水般地带过了，也许大家吹牛皮侃大山时能用上吧！如有错误，请大家多多指正！</p>
 
 <p>原文出自<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU1NjUyNw==&amp;mid=203877137&amp;idx=1&amp;sn=298714542e7011ffe9fcc551f51d3169&amp;scene=1">国际学术期刊的四大巨头</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Security Conference Summary]]></title>
-    <link href="http://secdr.github.io/2015/05/04/security-conference-summary/"/>
-    <updated>2015-05-04T00:33:35-07:00</updated>
-    <id>http://secdr.github.io/2015/05/04/security-conference-summary</id>
-    <content type="html"><![CDATA[<h3>Top security conference</h3>
-
-<ol>
-<li><a href="http://www.ieee-security.org/TC/SP-Index.html">IEEE Symposium on Security and Privacy</a> (S&amp;P (Oakland));</li>
-<li><a href="http://www.acm.org/sigs/sigsac/ccs/">ACM Conference on Computer and Communications Security</a>(CCS);</li>
-<li><a href="http://www.iacr.org/conferences/">International Cryptology Conference</a> (Crypt);</li>
-<li><a href="http://www.iacr.org/conferences/">European Cryptology Conference</a> (Eurocrypt);</li>
-<li><a href="https://www.usenix.org/conferences/byname/108">Usenix Security Symposium</a> (Security);</li>
-<li><a href="http://www.isoc.org/isoc/conferences/ndss/">SOC Network and Distributed System Security Symposium</a> (NDSS);</li>
-<li><a href="http://www.raid-symposium.org/">International Symposium on  Research in Attacks, Intrusions and Defenses</a> (RAID);</li>
-</ol>
-
-
-<h3>the other conferences you can ref the follow two links:</h3>
-
-<ol>
-<li><a href="http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm">Computer Security Conference Ranking and Statistic</a>;</li>
-<li><a href="http://icsd.i2r.a-star.edu.sg/staff/jianying/conference-ranking.html">Top Crypto and Security Conferences Ranking</a>.</li>
-</ol>
-
-
-<h3>the recent security events and conference:</h3>
-
-<ol>
-<li><a href="http://www.ieee-security.org/Calendar/cipher-hypercalendar.html">IEEE Cipher&rsquo;s Calendar of Security and Privacy Related Events</a>;</li>
-<li><a href="http://www.uclouvain.be/crypto/callforpapers/forthcoming">UCL Crypto Group  | Call for papers</a>;</li>
-<li><a href="http://www.concise-courses.com/security/conferences-of-2015">Information Security Conferences of 2015</a>;</li>
-<li><a href="https://secore.info/conferences">SEcore Conferences list</a>;</li>
-<li><a href="https://www.duosecurity.com/resources/calendar">Duo Security’s information security calendar</a>;</li>
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[安全论文搜索引擎汇总]]></title>
-    <link href="http://secdr.github.io/2015/05/04/security-paper-search-engine/"/>
-    <updated>2015-05-04T00:28:30-07:00</updated>
-    <id>http://secdr.github.io/2015/05/04/security-paper-search-engine</id>
-    <content type="html"><![CDATA[<p>如果你经常需要查找一些基于关键字的安全论文，可以通过如下的论文检索工具进行搜索：</p>
-
-<ol>
-<li><a href="http://www.informatik.uni-trier.de/~ley/db/">The DBLP Computer Science Bibliography</a>;</li>
-<li><a href="http://scholar.google.com/">Google Scholar</a>;</li>
-<li><a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Xexplore</a>;</li>
-<li><a href="http://cdblp.cn/domain_detail_ccf.php?domain_ccf_id=8">ScholarSpace</a>;</li>
-<li><a href="http://arxiv.org/multi?group=grp_cs&amp;%2Ffind=Search">arxiv</a>;</li>
-<li><a href="http://65.54.113.26/Search?query=Security&amp;SearchDomain=2">Microsoft Academic</a></li>
-</ol>
-
-
-<p>尤其需要注意Google Scholar和arxiv, 前者主要过来检索论文，后者主要用来跟踪最新动态，当然你可以通过RSS DBLP的个人首页。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[关于SecDr]]></title>
-    <link href="http://secdr.github.io/2015/05/03/about-us/"/>
-    <updated>2015-05-03T23:23:28-07:00</updated>
-    <id>http://secdr.github.io/2015/05/03/about-us</id>
-    <content type="html"><![CDATA[<p>SecDr 由一群攻读信息安全的博士生组成，主要交流科研写作与生活，侧重于以下几方面内容：</p>
-
-<ul>
-<li>论文写作技巧；</li>
-<li>期刊「SCI，EI」与会议「顶会，普会」的投稿；</li>
-<li>优质论文阅读与分享；</li>
-<li>最新安全动向交流；</li>
-</ul>
-
-
-<h3>如何加入</h3>
-
-<pre><code>请发送个人简历/网站地址到邮件：secdr@qq.com
-</code></pre>
-
-<h3>交流群</h3>
-
-<pre><code>QQ群：337323707
-</code></pre>
 ]]></content>
   </entry>
   
