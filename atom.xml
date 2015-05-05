@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-05-05T12:36:35-07:00</updated>
+  <updated>2015-05-05T12:37:11-07:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -23,6 +23,9 @@
 <p>IEEE S&amp;P是Rank A的国际信息安全顶级会议，又称Oakland会议，尽管今年（2015）的会议召开还在五月份，不过<a href="http://www.ieee-security.org/TC/SP2015/program.html">官网</a>已经给出了会议程序列表，将进行三天，每天4个Session，每个Session都会将相似方向的最新安全研究成果进行展示。关注顶会的论文和Session方向对安全研究人员是非常必要的。在程序列表中，出现了三篇国内相关的文章，一篇一作来自中科院的Le Guan（本科室友，在国内读博期间分别发了两篇顶会了，很不错的成果，恭喜，另一篇在NDSS 2014上）；另一篇一作来自浙江大学的Boyuan He,看了下他们<a href="http://list.zju.edu.cn/">实验室主页</a>，果然也是有真正学术大牛在引导；最后一篇非一作，来自上海交大。</p>
 
 <p>下面分别列出各个Session的论文，对于感兴趣的部分会简单的介绍一下。由于Session太多，将分三个博文分别进行介绍。由于会议主要论文将分三天报告完，因此每篇博文将介绍一天的论文。这篇先介绍第一天的论文，四个Session，共20篇文章。</p>
+
+<!--more-->
+
 
 <h3>Session 1：Hardware-Aided Security</h3>
 
