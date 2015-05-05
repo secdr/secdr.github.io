@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://secdr.github.io/2015/05/05/ieeesp2015papers/</loc>
+    <lastmod>2015-05-05T12:28:40-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://secdr.github.io/2015/05/05/how-to-publish-in-top-journals/</loc>
     <lastmod>2015-05-05T12:24:51-07:00</lastmod>
   </url>
@@ -61,5 +65,8 @@
   </url>
   <url>
     <loc>http://secdr.github.io/categories/life/</loc>
+  </url>
+  <url>
+    <loc>http://secdr.github.io/categories/paper/</loc>
   </url>
 </urlset>
