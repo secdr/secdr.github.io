@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://secdr.github.io/2015/05/18/sci-replace-words/</loc>
+    <lastmod>2015-05-18T00:24:38-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://secdr.github.io/2015/05/14/how-to-write-abstract/</loc>
     <lastmod>2015-05-14T10:36:52-07:00</lastmod>
   </url>
@@ -72,8 +76,5 @@
   </url>
   <url>
     <loc>http://secdr.github.io/categories/paper/</loc>
-  </url>
-  <url>
-    <loc>http://secdr.github.io/posts/2/</loc>
   </url>
 </urlset>
