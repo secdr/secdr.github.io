@@ -1,91 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>发表SCI或EI类英文文章的一些投稿经验 - SecDr</title>
-  <meta name="author" content="SecDr">
-
-  
-  <meta name="description" content="首先一定要注意杂志的发表范围, 超出范围的千万别投,要不就是浪费时间;另外，每个杂志都有他们的具体格式要求，一定要按照他们的要求把论文写好，免得浪费时间，前些时候，我的一个同事向一个著名的英文杂志投稿，由于格式问题，人家过两个星期就退回来了，而且说了很多难听的话， &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://secdr.github.io/2015/05/04/experiment-with-submit-paper/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="SecDr" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">SecDr</a></h1>
-  
-    <h2>致力于信息安全科研交流平台</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="secdr.github.io">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">首页</a></li>
-  <li><a href="/2015/05/03/about-us/">关于</a></li>
-  <li><a href="/blog/archives">归档</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article class="hentry" role="article">
-  
-  <header>
+  <title><![CDATA[Category: Submit | SecDr]]></title>
+  <link href="http://secdr.github.io/categories/submit/atom.xml" rel="self"/>
+  <link href="http://secdr.github.io/"/>
+  <updated>2015-06-02T00:42:14-07:00</updated>
+  <id>http://secdr.github.io/</id>
+  <author>
+    <name><![CDATA[SecDr]]></name>
     
-      <h1 class="entry-title">发表SCI或EI类英文文章的一些投稿经验</h1>
-    
-    
-      <p class="meta">
-        
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cover Letter详解及相关模板]]></title>
+    <link href="http://secdr.github.io/2015/06/01/cover-letterxiang-jie-ji-xiang-guan-mo-ban/"/>
+    <updated>2015-06-01T23:52:53-07:00</updated>
+    <id>http://secdr.github.io/2015/06/01/cover-letterxiang-jie-ji-xiang-guan-mo-ban</id>
+    <content type="html"><![CDATA[<p>1、 什么是cover letter？</p>
+
+<p>指的是投稿信</p>
+
+<p>2、cover letter的内容主要包括那些？</p>
+
+<p>应该简述所投稿件的核心内容、主要发现和意义，拟投期刊，对稿件处理有无特殊要求等（如“not to review” list）。另外，请附上主要作者的中文姓名、通讯地址、电话、传真和e-mail地址。此外有的杂志要求推荐几位审稿人及其联系方式。以及谁已经阅读过该文（当然是牛人）。
+我投的那个杂志是要求说明你论文研究的意义，以及与这个杂志的相关性，另外还有的可能要写明你没有一搞多投等。此外临床实验要求写明符合伦理学要求。</p>
+
+<p>3、 如何写cover letter？</p>
+
+<p>各个杂志的具体要求是不一样的，在杂志的guide for authors一般会有要求。如果没有具体的要求，大家可按照通用要求处理。</p>
+
+<!--more-->
 
 
+<p>4、常用模板：</p>
+
+<p>（1）Cover letter</p>
+
+<pre><code>Dear Mr. **
+
+1/. The work described has not been submitted elsewhere for publication, in whole or in part, and all the authors listed have approved the manuscript that is enclosed.
+
+2/. I have read and have abided by the statement of ethical standards for manuscripts submitted to Neuroscience.
+
+kind regards.
+Your sincerely,
+通讯作者
+</code></pre>
+
+<p>（2）</p>
+
+<pre><code>Dear Dr. 主编name:
+We submit our manuscript entitled " 文章title" to 杂志名for publication.
+接着简单介绍你文章的主要创新点和意义，不易过多，但要突出新意和关键点。
+All authors have seen the manuscript and approved to submit to your journal. 
+Thank you very much for your attention and consideration. 
+
+Sincerely yours, 
+通讯作者
+</code></pre>
+
+<p>（3）</p>
+
+<pre><code>Dear Dr. 主编name:
+We submit our manuscript entitled " 文章title" to 杂志名for publication.
+接着简单介绍你文章的主要创新点和意义，不易过多，但要突出新意和关键点。
+All authors have seen the manuscript and approved to submit to your journal. 
+Thank you very much for your attention and consideration. 
+
+Sincerely yours, 
+通讯作者
+</code></pre>
+
+<p>（4）</p>
+
+<pre><code>Dr. ***
+Editor-in-Chief, ***
+(add address) January 22, 2003 
+
+Dear Dr. **,
+
+Enclosed herewith please find 3 copies of a MS by: ‘***. *** and ***’ entitled: “**********”, which we would like to submit for publication in the ‘******'.
+
+Looking forward to your decision,
+With kind personal regards,
+Sincerely yours,
+
+*****
+Professor of ***
+</code></pre>
+
+<p>（5）</p>
+
+<pre><code>Dear Prof. Gil:
+This is a manuscript by**and **entitled “.......”. It is submitted to be considered for publication as a “...” in your journal. This paper is new. Neither the entire paper nor any part of its content has been published or has been accepted elsewhere. It is not being submitted to any other journal.
+We believe the paper may be of particular interest to the readers of your journal as it ........
+Correspondence should be addressed to **at the following address, phone and fax number, and email address:
+...
+Thanks very much for your attention to our paper. 
+Sincerely yours,
+**
+</code></pre>
+
+<p>5、 例文：下面例文都来自丁香园战友，在此一并感谢。</p>
+
+<p>（一）</p>
+
+<pre><code>Date: Sep 15, 2003
+Dear Editors:
+
+On behalf of my co-authors, I am submitting the enclosed material “ TITLE ” for possible publication in JOURNAL. 
+
+We certify that we have participated sufficiently in the work to take public responsibility for the appropriateness of the experimental design and method, and the collection, analysis, and interpretation of the data.
+
+We have reviewed the final version of the manuscript and approve it for publication. To the best of our knowledge and belief, this manuscript has not been published in whole or in part nor is it being considered for publication elsewhere.
+
+Best Regards.
+
+Yours Sincerely,
+
+NAME,ADRESS,EMAIL,FAX
+</code></pre>
+
+<p>（二）</p>
+
+<pre><code>Dear Dr Regino Perez-Polo：
+Enclosed are a manuscript by su jian, yang kun, chen zhihua．Su jian titled“Hypothermia after Acute Ischemic Stroke
+”．It is submitted to be considered for publication as a“review" in your journal．This paper is～•Neither the entire paper nor any part of its content has been published or has been accepted elsewhere ．It is not being submitted to any other journal．
+We believe the paper may be of particular interest to the readers of your journal.
+Correspondence and phone calls about the paper should be directed to Su jian at the following address，phone and fax number，and e-mail address：
+
+Su jian
+Institute:, 
+Adress:
+Tel：
+Fax:
+E-mail：
+Thanks very much for your attention to our paper．
+Sincerely yours，
+Su jian
+</code></pre>
+
+<p>（三）</p>
+
+<pre><code>Dear Editor,
+
+We would like to submit the enclosed manuscript entitled "GDNF Acutely Modulates Neuronal Excitability and A-type Potassium Channels in Midbrain Dopaminergic Neurons", which we wish to be considered for publication in Nature Neuroscience. 
+
+GDNF has long been thought to be a potent neurotrophic factor for the survival of midbrain dopaminergic neurons, which are degenerated in Parkinson’s disease. In this paper, we report an unexpected, acute effect of GDNF on A-type potassium channels, leading to a potentiation of neuronal excitability, in the dopaminergic neurons in culture as well as in adult brain slices. Further, we show that GDNF regulates the K+ channels through a mechanism that involves activation of MAP kinase. Thus, this study has revealed, for the first time, an acute modulation of ion channels by GDNF. Our findings challenge the classic view of GDNF as a long-term survival factor for midbrain dopaminergic neurons, and suggest that the normal function of GDNF is to regulate neuronal excitability, and consequently dopamine release. These results may also have implications in the treatment of Parkinson’s disease. 
+
+Due to a direct competition and conflict of interest, we request that Drs. XXX of Harvard Univ., and YY of Yale Univ. not be considered as reviewers. With thanks for your consideration, I am 
+
+Sincerely yours,
+</code></pre>
+
+<p>（四）</p>
+
+<pre><code>Dear **.
+We would like to submit the enclosed manuscript entitled " *** ", which we wish to be considered for publication in **journal. 
+We believe that two aspects of this manuscript will make it interesting to general readers of **journal. First, ***. Second, ***. Further, ***.
+Thank you very much your considering our manuscript for potential publication. I'm looking forward to hearing from you soon.
+
+Best wishes.
+</code></pre>
+
+<p>（五）</p>
+
+<pre><code>To: SOLA Chief Editor
+Division of Geoenvironmental Sciences
+University of Tsukuba
+Tsukuba 305-8572, JAPAN
+E-Mail: sola@sakura.cc.tsukuba.ac.jp
+Dear Sirs,
+I am sending herewith a copy of the manuscript, which I would like to submit to SOLA, the Electronic Journal of the Meteorological Society of Japan.
+The paper is entitled:
+Energy Spectrum Proportional to the Squared Phase Speed of
+Rossby Modes in the General Circulation of the Atmosphere
+by H. L. Tanaka, Yasushi Watarai, and Takahiro Kanda.
+Copy of the Abstract:
+In this study, energy spectrum of the large-scale atmospheric motions is examined in the framework of the 3D normal mode decomposition. The horizontal scale of disturbance is measured by the phase speed of a Rossby mode c. According to the analysis result for the barotropic component of the atmosphere, we obtain a characteristic energy spectrum with distinct slopes for the turbulence and wave regimes separated by the spherical Rhines speed. In order to explain the observational finding that the energy spectrum is proportional to c^2, we put forward a hypothesis based on the criterion of Rossby wave breaking such that the local meridional gradient of potential vorticity becomes negative, dq/dy &lt; 0, somewhere in the domain. With a constant m describing a total mass of the atmosphere for unit area, we have shown that the barotropic energy spectrum of the general circulation E can be represented as E=mc^2.
+Corresponding Author:
+Dr. Hiroshi L. Tanaka
+Division of Geoenvironmental Sciences
+University of Tsukuba
+Tsukuba 305-8572, JAPAN
+Tel: +81-29-853-4502
+Fax: +81-29-853-6879
+E-Mail: tanaka@sakura.cc.tsukuba.ac.jp
+I hereby certify that this paper consists of original, unpublished work which is not under consideration for publication elsewhere.
+Desired Editors in Charge:
+Kimoto, Masahide University of Tokyo
+Mak, Mankin University of Illinois
+Five Potential Reviewers:
+Name-1, e-mail address-1
+Name-2, e-mail address-2
+Name-3, e-mail address-3
+Name-4, e-mail address-4
+Name-5, e-mail address-5
+The original manuscript and figures will be transferred, following the instruction by the Editorial Committee when the paper is accepted. I hope your favorable consideration for publication to SOLA.
+Sincerely,
+Hiroshi L. Tanaka
+Attachment: PDF file of the manuscript.
+</code></pre>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[论文返修有用的开场白]]></title>
+    <link href="http://secdr.github.io/2015/06/01/response-letter-sentence/"/>
+    <updated>2015-06-01T23:16:42-07:00</updated>
+    <id>http://secdr.github.io/2015/06/01/response-letter-sentence</id>
+    <content type="html"><![CDATA[<p>又总结了一部分万能的开场白，足以体现我们对杂志社编辑和审稿人的尊重。</p>
+
+<p>1、It is with excitement that I resubmit to you a revised version of manuscript “文章题目” for the &ldquo;杂志名&rdquo;. Thank you for giving me the opportunity to revise and resubmit this manuscript. In keeping with my last communication with you, I am resubmitting this revision before the agreed upon deadline, March 16, 2012. I appreciate the time and detail provided by each reviewer and by you and have incorporated the suggested changes into the manuscript to the best of my ability. The manuscript has certainly benefited from these insightful revision suggestions. I look forward to working with you and the reviewers to move this manuscript closer to publication in the 杂志名. （这段拍马屁的写得真长哇，憋不出来的可以参考下）</p>
+
+<p>2、I have responded specifically to each suggestion below, beginning with your own. To make the changes easier to identify where necessary, I have numbered them.</p>
+
+<!--more-->
 
 
-<time class='entry-date' datetime='2015-05-04T12:07:44-07:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>4</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>12:07 pm</span></time>
-        
-      </p>
-    
-  </header>
+<p>3、I am pleased to resubmit for publication the revised version of 文章在杂志社的编号 “文章题目”. I appreciated the constructive criticisms of the Associate Editor and the reviewers. I have addressed each of their concerns as outlined below. （这样的开场白简单点）</p>
+
+<p>4、Sincerest thanks for your response and reviewers comments on our manuscript. We sincerely apologise for the great time it has taken us to respond to these comments (due to force majeaure with first author), and hope that a revised version of the manuscript will still be considered by 杂志名. We have modified the paper in response to the extensive and insightful reviewer comments. We have added additional explanations for non-haematologists and additional table (Table 1) to fully address the reviewer’s comments. Furthermore we have rewritten sections of the manuscript and we hope that this comply with the referee’s remarks. We will respond to the comments point counter point. （这段挺长的，还就返修时间过长进行了致歉）</p>
+
+<p>5、Thank you for reading our manuscript and reviewing it, which will help us improve it to a better scientific level. We revised our manuscript, and quite a lot of changes have taken place. So we have sent the revised manuscript, and a version containing all the changes to be visible.</p>
+
+<p>At the following, the points mentioned by the reviewers will be discussed: (其实我比较喜欢这种简单直白的开场）</p>
+
+<p>6、The authors would like to thank the reviewers for their time and their valuable comments. Before addressing each of the comments below, we would like to make a general remark regarding the intent of the manuscript and the choice of the journal.</p>
+
+<p>We chose &ldquo;XX杂志社&rdquo; because it is an applied journal publishing papers that will help clinical medical physicists perform their responsibilities more effectively and efficiently, and for the increased benefit of the patient. We feel that this journal is appropriate for our manuscript that we intend to be a practical paper which is helpful for a hospital physicist.</p>
+
+<p>We deliberately went into more details in parts of the introduction and the methods section explaining specifics of CBCT, since the target audience might not be interested in the more fundamental papers in other journals covering the topic. We obviously need to quote all sources correctly and will do so at the places where we had missed before. （让我亮瞎眼的拍马屁，想抄的尽管抄）</p>
+
+<p>7、Please find enclosed the response to the comments of reviewers. The manuscript has been carefully revised in response to the reviewers’comments and suggestions; detailed responses to their comments are below. Our reply is in italic font, whereas the reviewers’ specific comments are not italicized. We thank the reviewers for their suggestions, which have significantly improved this m/s.</p>
+
+<p>总结了一部分万能的套话，足以体现我们对杂志社编辑和审稿人的尊重。
+1、According to the associate editor and reviewers’ comments, we have made extensive modifications to our manuscript and supplemented extra data to make our results convincing.
+2、In this revised version, changes to our manuscript were all highlighted within the document by using red colored text.
+3、Thank you for your nice comments on our article. According to your suggestions, we have supplemented several data here and corrected several mistakes in our previous draft. Based on your comments, we also attached a point-by-point letter to you and the other two reviewers. We have made extensive revisions to our previous draft. The detailed point-by-point responses are listed below.
+4、Thanks for your help. We feel really sorry for our carelessness.
+5、Thank you for your reminding. You and the other two reviewers’ comments are all of great importance to our article. All of these comments have contributed a lot to improve the quality of our article. After this revision, we have written a point-by-point response letter to you as you can see above. Meanwhile, we also wrote a point-by-point response letter to the other two nice reviewers to acknowledge their helps and denote where we made revisions.
+6、We feel great thanks for your professional review work on our article. As you are concerned, there are several problems that need to be addressed. According to your nice suggestions, we have made extensive corrections to our previous draft. We have added necessary data to supplement our results and edited our article extensively. The detailed corrections are listed below.
+7、We feel sorry that we did not provide enough information about XXXX.
+8、it is really a giant mistake to the whole quality of our article. We feel sorry for our carelessness. We have corrected it and we also feel great thanks for your point out.
+9、thanks for your suggestions. We feel sorry for our poor writings, however, we do invite a friend of us who is a native English speaker from USA help polish our article. Due to our friend’s help, the article was edited extensively. And we hope the revised manuscript could be acceptable for you.
+10、thanks for your careful checks. We are sorry for our carelessness. Based on your comments, we have made the corrections to make the unit harmonized within the whole manuscript.
+11、your suggestion really means a lot to us. Yes, it would be more understandable if we XXX.
+12、According to your suggestion, we have corrected the “XXX” into “XXX”.
+13、 thanks for your correction. It was indeed a serious grammatical error. And we have corrected it according to your suggestion.
+14、thanks for your suggestions. We feel sorry for the improper wording. We have used “XXXX” as you suggested.
+15、According to the reviewer’s comments, we have revised the manuscript extensively. If there are any other modifications we could make, we would like very much to modify them and we really appreciate your help. “xxxx” is a journal of great popularity and prestige. We hope that our manuscript could be considered for publication in your journal. Thank you very much for your help.</p>
+
+<p>原文地址：<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU1NjUyNw==&amp;mid=208866198&amp;idx=1&amp;sn=d363bd37e629dbdbe01de3a14a9710ae&amp;scene=5#rd">论文返修（response letter）最尼玛有用的开场白</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[论文返修那些事儿]]></title>
+    <link href="http://secdr.github.io/2015/05/21/paper-response-thing/"/>
+    <updated>2015-05-21T16:43:32-07:00</updated>
+    <id>http://secdr.github.io/2015/05/21/paper-response-thing</id>
+    <content type="html"><![CDATA[<p>审稿人也是人，不要无故地增加他们的痛苦，今天来讲一讲写response letter有哪些注意事项。</p>
+
+<h3>Do&rsquo;s</h3>
+
+<ol>
+<li>与从事相关领域的朋友、导师或师兄师姐讨论，听取他们的意见（在医院的小伙伴就不用试这一条了，多半不是没人理就是白讨论，个人意见，勿拍);</li>
+<li>完整地地回复审稿人的意见，不要遗漏任何问题；</li>
+<li>如果你不同意审稿人的意见，请保持礼貌；</li>
+<li>如果需要，可以引用参考文献或未发表的数据来支持自己的观点；</li>
+<li>不要拖沓，收到返修后要尽快写回复，并且把改过的地方标识出来。</li>
+</ol>
 
 
-<div class="entry-content"><ol>
+<h3>Don’ts</h3>
+
+<ol>
+<li>不要跟审稿人争论每一个问题，在一些无关紧要的小细节上，在并不影响文章价值的前提下，让一让审稿人；</li>
+<li>不要把审稿人的批评当做是个人攻击；</li>
+<li>如果审稿人要看原始数据，不要拒绝；</li>
+<li>不要使用“we completely disagree”、“the referee obviously does not know this field”这样的话，会伤了审稿人的心。</li>
+</ol>
+
+
+<!--more-->
+
+
+<p>可以使用委婉在回复，如下：</p>
+
+<pre><code>We agree with the referee that……,but
+The referee is right to point out….,yet
+In accordance with the referees’wishes,we have now changed this sentence to…
+Whilst we agree with the referee that……..
+It is true that…,but
+We acknowledge that our paper might have been…., but
+We too were disappointed by the low response rate…
+We agree that this is an important area that requires furthr research…..
+We support the referee's assertion that….,although
+With all due respect to the reviewer,we felt that this point is  not correct…
+</code></pre>
+
+<h3>文章几种状态的应对方法：</h3>
+
+<p>Accept with minor revision</p>
+
+<p>如果你很幸运，只要小修，这种情况下，不要argue太多，速度改了回复给杂志社，在主编还对你的文章有所印象时，速度返修往往也是速度接收。</p>
+
+<p>Major revisions needed</p>
+
+<p>这种情况下，有三条黄金原则：礼貌、完整、证据。不要低估大修的工作量，可以需要好几天铺在此事上。如果是大修，看上去没有什么接收的希望，也不要放弃，有些作者就这样放弃然后一字不改地投到别的杂志去，同领域的专家就那么几个，搞不好你的文章又送给同一个审稿人，华丽丽地忽视了他的意见，他会很不高兴的。即使改投杂志，也要根据上一本杂志的返修意见好好修改完文章后再投。</p>
+
+<p>Journal requests a complete rewrite</p>
+
+<p>这种情况下，你要好好思量下重新写文章是否值得。如果审稿人和主编告诉了你要如何改这篇文章，表示杂志社还是想要你的文章的，如果你照办了，拒绝你是要下多大狠心。但是如果审稿人只是冷冰冰的让你重写文章，没有给具体的建设性的意见，最好改投杂志，也许投入和产出不成正比。</p>
+
+<p>Unsure if reject or possible resubmission?</p>
+
+<p>比如这样的审稿意见“ we cannot accept your paper in its current form, but if you do decide to resubmit, then we would only consider a substantial revision”好像是个拒绝的言辞，但是又不确定，又好像是再给一次机会。这种情况下最好写邮件给杂志社，问问他们到底是如何想的，然后再决定，自个人揣测杂志社的意思不如写封邮件。</p>
+
+<p>The outright rejection</p>
+
+<p>如果你确实很想在这本杂志发文章，那么可以写信给杂志社，要求换责任主编再审，前提是你有足够的自信，当然希望是很渺茫的，好吧，希望是非常渺茫的。另一种告诉就是别再哭鼻子了，赶紧再投别的杂志吧，投之前请按照拒稿意见好好地修改你的文章，避免因为同样的问题被拒稿。</p>
+
+<p>如果审稿人错了如何办？</p>
+
+<p>审稿人不是上帝，也会犯错误。有时他们只是不仔细，你懂的，有可能是学生审的，不要写成“if the referee had bothered to read our paper” 之类的，可以写“we agree that this is an important point and we have already addressed it on page A, paragraph B, line C”.有时就是审稿人犯二了，附和他们是一件很傻的事情，这时候，把证据列出来就好了，杂志社主编会还你一个公道。</p>
+
+<p>如果审稿人对你有歧视如何办？</p>
+
+<p>这时候给杂志社写邮件，抱怨下这个问题，并要求重新送审。</p>
+
+<p>The dreaded “reduce the paper by 30%” request（以及类似这种情况）</p>
+
+<p>这个过程还是很痛苦的，因为你会觉得丢弃任何一部分都很心痛，这时候可以找个朋友来帮忙（针对有选择障碍的小伙伴），看下哪一部分的内容要去掉，另外，温馨提示，前言和讨论是比较好删字的地方。</p>
+
+<p>原文出处<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU1NjUyNw==&amp;mid=208389651&amp;idx=1&amp;sn=393a45ea966160a74f04d6f75bf147c3&amp;scene=5#rd">论文返修那些事儿，你都明白么</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[论文返修模板]]></title>
+    <link href="http://secdr.github.io/2015/05/21/response-letter-template/"/>
+    <updated>2015-05-21T16:24:15-07:00</updated>
+    <id>http://secdr.github.io/2015/05/21/response-letter-template</id>
+    <content type="html"><![CDATA[<p>提供论文返修的几类模板：</p>
+
+<h3>例 1：</h3>
+
+<p>Dear Prof. XXXX,</p>
+
+<p>Thank you very much for your letter and the comments from the referees about our
+paper submitted to XXXX (MS Number XXXX).</p>
+
+<p>We have checked the manuscript and revised it according to the comments. We submit
+here the revised manuscript as well as a list of changes.</p>
+
+<p>If you have any question about this paper, please don’t hesitate to let me know.
+Sincerely yours,</p>
+
+<!--more-->
+
+
+<h3>例 2：</h3>
+
+<p>Dear Editor and Reviewers:</p>
+
+<p>Thank you for your letter and for the reviewers’ comments concerning our manuscript
+entitled “Paper Title” (ID: 文章稿号). Those comments are all valuable and very
+helpful for revising and improving our paper, as well as the important guiding
+significance to our researches. We have studied comments carefully and have made
+correction which we hope meet with approval. Revised portion are marked in red in
+the paper. The main corrections in the paper and the responds to the reviewer’s
+comments are as flowing:</p>
+
+<p>Responds to the reviewer’s comments:</p>
+
+<p>Reviewer #1:</p>
+
+<ol>
+<li><p>Response to comment: (……简要列出意见……)</p>
+
+<p>Response: ××××××</p></li>
+<li><p>Response to comment: (……简要列出意见……)</p>
+
+<p>Response: ××××××
+……</p></li>
+</ol>
+
+
+<p>逐条意见回答，切忌一定不能有遗漏</p>
+
+<p>针对不同的问题有下列几个礼貌术语可适当用用：</p>
+
+<pre><code>We are very sorry for our negligence of ……...
+We are very sorry for our incorrect writing ……...
+It is really true as Reviewer suggested that……
+We have made correction according to the Reviewer’s comments.
+We have re-written this part according to the Reviewer’s suggestion
+As Reviewer suggested that……
+Considering the Reviewer’s suggestion, we have ……
+</code></pre>
+
+<p>最后特意感谢一下这个审稿人的意见：</p>
+
+<p>Special thanks to you for your good comments.</p>
+
+<p>Reviewer #2:</p>
+
+<pre><code>同上述
+</code></pre>
+
+<p>Reviewer #3:</p>
+
+<pre><code> ××××××
+</code></pre>
+
+<p>Other changes:</p>
+
+<pre><code>1. Line 60-61, the statements of “……” were corrected as “…………”
+2. Line 107, “……” was added
+3. Line 129, “……” was deleted
+××××××
+</code></pre>
+
+<p>We tried our best to improve the manuscript and made some changes in the
+manuscript. These changes will not influence the content and framework of the
+paper. And here we did not list the changes but marked in red in revised paper.
+We appreciate for Editors/Reviewers’ warm work earnestly, and hope that the
+correction will meet with approval.</p>
+
+<p>Once again, thank you very much for your comments and suggestions.</p>
+
+<h3>例 3：</h3>
+
+<p>Dear Professor XXX,</p>
+
+<p>Many thanks for your email of 24 Jun 2013, regarding the revision and advice of the
+above paper in XXX 杂志. Overall the comments have been fair, encouraging and
+constructive. We have learned much from it.</p>
+
+<p>After carefully studying the reviewer’ comments and your advice, we have made
+corresponding changes to the paper. Our response of the comments is enclosed.</p>
+
+<pre><code>(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+</code></pre>
+
+<p>Besides the above changes, we have corrected some expression errors.</p>
+
+<p>Thank you very much for the excellent and professional revision of our manuscript.
+If you need any other information, please contact me immediately by email. My email
+account is <strong><em>, and Tel.is </em></strong>, and Fax is +***.</p>
+
+<p>Yours sincerely,</p>
+
+<h3>例 4：</h3>
+
+<p>Dear Professor XXX,</p>
+
+<p>We very much appreciate the careful reading of our manuscript and valuable
+suggestions of the reviewer. We have carefully considered the comments and have
+revised the manuscript accordingly.</p>
+
+<p>The manuscript is revised submission (×××－××××) with new line and
+page numbers in the text, some grammar and spelling errors had also been corrected.
+Furthermore, the relevant regulations had been made in the original manuscript
+according to the comments of reviewers, and the major revised portions were marked
+in red bold. We also responded point by point to each reviewer comments as listed
+below, along with a clear indication of the location of the revision.</p>
+
+<p>Hope these will make it more acceptable for publication.</p>
+
+<p>List of Major Changes:</p>
+
+<pre><code>1).........
+2).........
+3).........
+</code></pre>
+
+<p>Response to Reviewers:</p>
+
+<pre><code>1).........
+2).........
+3).........
+</code></pre>
+
+<h3>例 5：</h3>
+
+<p>Thank you very much for your letter and advice on our manuscript. We have
+resubmited new version of graphsin accordance with recommendations of the
+technical editor. We have addressed the comments raised by the reviewers, and the
+amendments are highlighted in red in the revised manuscript. We hope that the
+revision is acceptable and look forward to hearing from you soon.</p>
+
+<p>Below, please find the comments in black, followed by our responses in red.
+Exact changes in the manuscript are also presented in red font.</p>
+
+<h3>例 6：</h3>
+
+<p>Dear editors,</p>
+
+<p>Thank you for your kind comments on our manuscript entitled “XX 文章名”. We have
+carefully revised the manuscript according to the reviewer’s comments. Based on the
+suggestions, we have made an extensive modification on the revised manuscript.
+Detailed revision was shown as follows. The changes to our manuscript within the
+document were aslo highlighted by using red colored text.</p>
+
+<ol>
+<li><p>As to the related articles published in Asian Pacific Journal of Cancer Prevention,
+we have always been reading the latest papers that were published in APJCP. In fact, several high-quality papers arouse us great interest before we drafted our manuscript. From our intensive reading of these papers published in APJCP, we get better understanding of the hotspots in breast cancer research. We also get a
+wider view of the regulatory networks that contribute to XXXX. For example, one
+paper entitled “XXXX” showed that metastasis-related molecules could be
+regulated by microRNAs in human tumor metastasis process. This paper led us to
+hypothesize that XXX, a metastasis-associated protein, might also be linked to
+microRNA regulations in breast cancer. Hence, this paper provided a novel clue
+for us to uncover the mechanisms underlying XXXX cancer metastasis. Based on
+all these instructive papers, we have herein added these references to our article in
+the revised version (please see P6, Line 15; P12, Line17; P14, Line 21-22; P15,
+Line 1-4).</p></li>
+<li><p>For the reference format within the article, we are sorry for our incorrect citation
+format. And in this revised version, we have checked carefully of all the citations.
+All citations within the article were formatted into “Family Name et al., Year” for
+over two-author papers, or “Family Name, Year” for only one-author papers.</p></li>
+<li><p>For the reference format after the text, we also feel sorry for our carelessness.
+Previously, we didn’t notice the special format of APJCP. In the revised version,
+we have corrected all the reference formats to meet the requirements of APJCP.
+All the detailed corrections could be seen in the Reference section in which
+changes were marked by red.</p></li>
+</ol>
+
+
+<p>Thank you again for your positive comments on our manuscript. APJCP is an
+influential journal which aims to improve our understanding of cancer prevention.
+From all the papers published in your journal, readers have been learning a lot.
+Hopefully, we could have our article been considered of publication in your
+journal. Should there been any other corrections we could make, please feel free
+to contact us.</p>
+
+<p>Name</p>
+
+<p>Date</p>
+
+<p>此文转载与<a href="http://pan.baidu.com/s/1gdEbG4r">实验室万事屋</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[发表SCI或EI类英文文章的一些投稿经验]]></title>
+    <link href="http://secdr.github.io/2015/05/04/experiment-with-submit-paper/"/>
+    <updated>2015-05-04T12:07:44-07:00</updated>
+    <id>http://secdr.github.io/2015/05/04/experiment-with-submit-paper</id>
+    <content type="html"><![CDATA[<ol>
 <li><p>首先一定要注意杂志的发表范围, 超出范围的千万别投,要不就是浪费时间;另外，每个杂志都有他们的具体格式要求，一定要按照他们的要求把论文写好，免得浪费时间，前些时候，我的一个同事向一个著名的英文杂志投稿，由于格式问题，人家过两个星期就退回来了，而且说了很多难听的话，说投稿前首先就应该看清楚他们的格式要求；</p></li>
 <li><p>论文写作一定要言简意赅,特别是摘要,引言和结论部分,特别是摘要和结论不能重复,发现有很多论文这两部分没有差别, 个人认为, 摘要是引人入胜的&#8221;药引子&#8221;,要留悬念;而结论是你论文得出的有证据的东西,要简单明了(很多人写了一大堆,把推测的结果都写上,这种论文质量很差); 另外,很多人认为数据越多, 发表的可能性越大,但经过读一些论文, 发现很多人的论文很烂, 感觉就是数据的简单堆积,所以,论文的重点应该在观点上,保证一篇论文一个新观点,已经足够了.</p></li>
 <li><p>投稿时,一定要找和你做研究内容相近领域的专家作评阅人,最好是国外的,不是说国内的不好,但就怕有人和你(或你老板)有过节,而且国内的很多所谓专家水平一般,且小心眼;</p></li>
@@ -1282,113 +1753,7 @@ SCI论文全攻略之构思与撰文
 <li><p>绝对不能全面否定前人的成果，即使在你看来前人的结论完全不对。这是对前人工作最起码的尊重，英文叫做给别人的工作credits.所以文章不要出现非常negative的评价，比如Their results are wrong, very questionable, have no commensence, etc.遇到这类情况，可以婉转地提出：Their studies may be more reasonable if they had……considered this situation.Their results could be better convinced if they……Or Their conclusion may remain some uncertanties.</p></li>
 </ol>
 
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
+]]></content>
+  </entry>
   
-
-<span class="byline author vcard">Posted by <span class="fn">SecDr</span></span>
-
-      
-
-
-
-
-<time class='entry-date' datetime='2015-05-04T12:07:44-07:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>4</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>12:07 pm</span></time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/categories/submit/'>submit</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://secdr.github.io/2015/05/04/experiment-with-submit-paper/" data-via="" data-counturl="http://secdr.github.io/2015/05/04/experiment-with-submit-paper/" >Tweet</a>
-  
-  
-  
-</div>
-
-    
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/2015/05/04/how-to-select-and-read-paper/" title="Previous Post: 如何选择和阅读研究文献">&laquo; 如何选择和阅读研究文献</a>
-      
-      
-        <a class="basic-alignment right" href="/2015/05/05/how-to-publish-in-top-journals/" title="Next Post: 如何在国际学术期刊上发表论文">如何在国际学术期刊上发表论文 &raquo;</a>
-      
-    </p>
-  </footer>
-</article>
-
-</div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>关于</h1>
-  <p>SecDr致力于信息安全科研交流平台，QQ交流群:337323707.</p>
-</section>
-<section>
-    <h1>分类</h1>
-    <ul>
-        <li><a href="http://secdr.github.io/categories/write" title="论文写作">论文写作</a>
-        </li>
-        <li><a href="http://secdr.github.io/categories/submit" title="论文投稿">论文投稿</a>
-        </li>
-        <li><a href="http://secdr.github.io/categories/conference" title="期刊会议">期刊会议</a>
-        </li>
-        <li><a href="http://secdr.github.io/categories/paper" title="论文评鉴">论文评鉴</a>
-        </li>
-        <li><a href="http://secdr.github.io/categories/trend" title="安全趋势">安全趋势</a>
-        </li>
-        <li><a href="http://secdr.github.io/categories/life" title="科研生活">科研生活</a>
-        </li>
-        <li><a href="http://secdr.github.io/categories/group" title="组织公告">组织公告</a>
-        </li>
-    </ul>
-</section>
-  
-</aside>
-
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2015 - SecDr -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
