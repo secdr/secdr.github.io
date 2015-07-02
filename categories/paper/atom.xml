@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Paper | SecDr]]></title>
   <link href="http://secdr.github.io/categories/paper/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-06-16T13:38:23-07:00</updated>
+  <updated>2015-07-01T23:21:49-07:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -294,6 +294,60 @@
 <p>（3）Leave Me Alone: App-level Protection Against Runtime Information Gathering on Android</p>
 
 <p>Stealing of sensitive information from apps is always considered to be one of the most critical threats to Android security. Recent studies show that this can happen even to the apps without explicit implementation flaws, through exploiting some design weaknesses of the operating system, e.g., shared communication channels such as audio and Bluetooth, and side channels like CPU, memory, network-data usages, etc. In all these attacks, a malicious app needs to run side-by-side with the target app (the victim) to collect its runtime information. Examples include recording phone conversations from the phone app, gathering network-data usages of WebMD to infer the disease condition the user looks at, etc（攻击例子）. This runtime-information-gathering (RIG) threat is both realistic and serious, as demonstrated by prior research and our new findings, which reveal that the adversary monitoring daily operations of popular Android-based home security systems can easily figure out when the house is empty and the user is not looking at surveillance cameras, and even turn off the alarm delivered to the user&rsquo;s phone. To defend against this new category of attacks, we propose a novel technique that changes neither the operating system nor the target apps, and provides immediate protection as soon as an ordinary app (with only normal and dangerous permissions) is installed（本文提出的防止攻击的新技术）. This new approach, called App Guardian（称为App守卫）, thwarts a malicious app&rsquo;s runtime monitoring attempt by pausing all suspicious background processes when the target app (called principal) is running in the foreground, and resuming them after the app stops and its runtime environment is cleaned up. Our technique leverages a unique feature of Android, on which third-party apps running in the background are often considered to be disposable and can be stopped anytime with only a minor performance and utility implication. We further limit such an impact by only focusing on a small set of suspicious background apps, which are identified based upon their behaviors inferred from their side channels, such as thread names, CPU scheduling data and kernel time. App Guardian is also carefully designed to choose the right moments to start and end the protection procedure, and effectively protect itself against malicious apps. Our experimental studies show that this new technique defeated all known RIG attacks, ranging from phone taping to keylogging through various side channels. In the meantime, the inconvenience it introduces is found to be minimal, with negligible impacts on the utility of legitimate apps and the performance of the OS.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Good Papers]]></title>
+    <link href="http://secdr.github.io/2015/05/03/good-papers/"/>
+    <updated>2015-05-03T23:25:28-07:00</updated>
+    <id>http://secdr.github.io/2015/05/03/good-papers</id>
+    <content type="html"><![CDATA[<h3>最新论文列表</h3>
+
+<p>本页面会定期推荐个人认为一些不错的安全论文，有兴趣的同行可以「Google标题」下载后阅读，如果阅读完后有写读后笔记，请麻烦留言并附上地址。</p>
+
+<h4>2015-02期</h4>
+
+<pre><code>待添加
+</code></pre>
+
+<h4>2015-01期</h4>
+
+<pre><code>Ad Injection at Scale- Assessing Deceptive Advertisement Modifications
+That Ain’t You- Blocking Spearphishing Emails Before They Are Sent
+Stickler- Defending Against Malicious CDNs in an Unmodified Browser
+May I? - Content Security Policy Endorsement for Browser Extensions
+
+Detecting Malicious Landing Pages in Malware Distribution Networks
+An Empirical Analysis of Malware Blacklists
+Breaking Bad- Detecting malicious domains using word segmentation
+WE KNOW IT BEFORE YOU DO- PREDICTING MALICIOUS DOMAINS
+Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+From Throw-Away Traffic to Bots- Detecting the Rise of DGA-Based Malware
+PoisonAmplifier- A Guided Approach of Discovering Compromised Websites through Reversing Search Poisoning Attacks
+
+Some Vulnerabilities Are Different Than Others Studying Vulnerabilities and Attack Surfaces in the Wild
+Characterizing Google Hacking- A First Large-Scale Quantitative Study
+The Attack of the Clones- A Study of the Impact of Shared Code on Vulnerability Patching
+The Role of Cloud Services in Malicious Software- Trends and Insights
+Detecting Logic Vulnerabilities in E-Commerce Applications
+Detection of Malware by using Sequence Alignment Strategy and Data Mining Techniques
+Meerkat-  Detecting Website Defacements through Image-based Object Recognition
+Classification of Malicious Domain Names using Support Vector Machine and Bi-gram Method
+DSpin- Detecting Automatically Spun Content on the Web
+
+Measuring and Detecting Malware Downloads in Live Network Traffic
+Anagram- A Content Anomaly Detector Resistant to Mimicry Attack
+Machine Learning Classification over Encrypted Data
+A Close Look on n-Grams in Intrusion Detection- Anomaly Detection vs. Classification
+Detecting Unknown Network Attacks Using Language Models
+
+Detection of Early-Stage Enterprise Infection by Mining Large-Scale Log Data
+Your Reputation Precedes You- History, Reputation, and the Chrome Malware Warning
+
+Privacy Implications of Presence Sharing in Mobile Messaging Applications
+Algorithmically Bypassing Censorship on Sina Weibo with Nondeterministic Homophone Substitutions
+</code></pre>
 ]]></content>
   </entry>
   
