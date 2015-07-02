@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-07-01T23:35:11-07:00</updated>
+  <updated>2015-07-01T23:36:37-07:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -3160,13 +3160,11 @@ Cut. Plan a revision session in which your only goal is to cut.</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Good Papers]]></title>
+    <title type="html"><![CDATA[最新论文推荐列表]]></title>
     <link href="http://secdr.github.io/2015/05/03/good-papers/"/>
     <updated>2015-05-03T23:25:28-07:00</updated>
     <id>http://secdr.github.io/2015/05/03/good-papers</id>
-    <content type="html"><![CDATA[<h3>最新论文列表</h3>
-
-<p>本页面会定期推荐个人认为一些不错的安全论文，有兴趣的同行可以「Google标题」下载后阅读，如果阅读完后有写读后笔记，请麻烦留言并附上地址。</p>
+    <content type="html"><![CDATA[<p>本页面会定期推荐个人认为一些不错的安全论文，有兴趣的同行可以「Google标题」下载后阅读，如果阅读完后有写读后笔记，请麻烦留言并附上地址。</p>
 
 <h4>2015-02期</h4>
 
