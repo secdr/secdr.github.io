@@ -27,3 +27,11 @@ categories: conference
 3. [Information Security Conferences of 2015](http://www.concise-courses.com/security/conferences-of-2015);
 4. [SEcore Conferences list](https://secore.info/conferences);
 5. [Duo Security’s information security calendar](https://www.duosecurity.com/resources/calendar);
+
+### Journals on computer security
+
+1. [University of Cambridge Security Group list](https://www.cl.cam.ac.uk/research/security/journals.html);
+2. [San Jose State University list](cs..edu/~stamp/securityJournals.html);
+
+
+

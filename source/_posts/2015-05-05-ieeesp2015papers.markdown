@@ -1,0 +1,366 @@
+---
+layout: post
+title: "IEEE S&P 2015会议论文预读"
+date: 2015-05-05 12:28:40 -0700
+comments: true
+categories: paper
+---
+
+作者及原文：[微月信-IEEE S&P 2015会议论文预读](http://www.vonwei.com/post/IEEESP2015Papers1.html)
+
+
+IEEE S&P是Rank A的国际信息安全顶级会议，又称Oakland会议，尽管今年（2015）的会议召开还在五月份，不过[官网](http://www.ieee-security.org/TC/SP2015/program.html)已经给出了会议程序列表，将进行三天，每天4个Session，每个Session都会将相似方向的最新安全研究成果进行展示。关注顶会的论文和Session方向对安全研究人员是非常必要的。在程序列表中，出现了三篇国内相关的文章，一篇一作来自中科院的Le Guan（本科室友，在国内读博期间分别发了两篇顶会了，很不错的成果，恭喜，另一篇在NDSS 2014上）；另一篇一作来自浙江大学的Boyuan He,看了下他们[实验室主页](http://list.zju.edu.cn/)，果然也是有真正学术大牛在引导；最后一篇非一作，来自上海交大。
+
+下面分别列出各个Session的论文，对于感兴趣的部分会简单的介绍一下。由于Session太多，将分三个博文分别进行介绍。由于会议主要论文将分三天报告完，因此每篇博文将介绍一天的论文。这篇先介绍第一天的论文，四个Session，共20篇文章。
+<!--more-->
+
+### Session 1：Hardware-Aided Security
+
+这个Session主要讨论硬件辅助的安全，如使用处理器比较新的硬件事务内存HTM，SGX等技术。该Session共五篇论文，其中第一个作报告的就是Le Guan。
+
+（1）Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory
+
+第一篇来自中科院的Le Guan。现在很多密码系统的实现都是将密钥明文加载到内存中进行密码运算，这样私钥容易遭受内存泄露攻击，这种攻击可以通过软件方式实现（如OpenSSL的心血漏洞），也可以通过硬件方式实现（如冷启动攻击）。这篇论文提出的解决方案可以保护RSA私钥免遭上面的两类攻击。使用的方法就是基于硬件事务内存（hardware transactional memory - HTM），该论文是最先想到用HTM来保护敏感数据，以防止内存泄露攻击。论文实现的系统称为Mimosa，含羞草，很有意思的名字，这里就不猜测了。
+
+（2）CHERI：A Hybrid Capability-System Architecture for Scalable Software Compartmentalization
+
+（3）VC3: Trustworthy Data Analytics in the Cloud using SGX
+
+本文提出了第一个实用的框架：允许用户在云上运行分布式的MapReduce计算，同时保证代码和数据的机密性，以及计算结果的正确性和完整性。该框架VC3运行在没有修改的Hadoop上，不过将Hadoop、OS和Hypervisor都排除在TCB（可信计算基）之外，这样即便Hadoop、OS和Hypervisor这些大系统组件被攻破，也不会影响VC3的机密性和完整性。VC3使用SGX处理器进行内存区域隔离，并部署新的协议来保证分布式MapReduce计算的安全。
+
+
+（4）Virtual Proofs of Reality and Their Physical Implementation
+
+虚拟现实证明及其物理实现，之前没有接触过这个概念，不过看起来很有意思。讨论的问题是：如何通过数字通信通道来证明物理语句（或者物理陈述），证明在两个隔离的本地系统之间进行（一个为证明者prover，另一个为验证者verifier）。证明的物理语句例子如，“证明者系统的一个特定对象的温度是X摄氏度”，“证明者系统的两个特定对象的距离为X”，“证明者系统的一个特定对象已经被不可逆的改变或者毁坏”。通过对这些例子的分析，本文的处理方法超越了经典安全传感器的范围。本文另一个独特的方面是其底层安全模型：既不假设证明者系统的安全密钥，也不假设其系统传感器硬件的防篡改和可信性（verifier不一定信任这些传感器硬件）。本文将这类新安全协议称为“虚拟现实证明”，或者“虚拟证明”，记为VP协议。为了分析提出的新概念，本文基于温度敏感的集成电路、无序光散射媒体以及量子系统来给出VPs例子。相应的协议向verifier证明prover系统特定物理对象的温度、相对位置，或者毁坏/修改。这些物理对象通常由verifier准备，并在VP协议之前交给prover。本文工作触及（部分进行了扩展）密码和安全领域的几个概念，包含物理不可克隆函数（PUF，physical unclonable functions），量子密码学（quantum cryptography），交互证明系统（interactive proof systems），以及最近的物理零知识证明（physical zero-knowledge proofs）。
+ 
+
+（5）Using Hardware Features for Increased Debugging Transparency
+
+
+### Session 2: Cryptocurrencies and Cybercrime
+
+第二个session主要关注密码货币和网络犯罪方面。这个session也是跟踪最近一段时间比较热门的比特币，安全研究者主要分析其系统属性。也有五篇论文，如下
+
+（1）Every Second Counts: Quantifying the Negative Externalities of Cybercrime via Typosquatting
+
+每天都有很多人称为网络犯罪的受害者，通常我们对受害系统的数量或者攻击者的利润都有比较好的了解，但是对人们承担的危害却了解不够。实际上，减少这种危害才是很多安全干预的最终目标。这些危害是如何犯下的，哪些犯罪造成这种危害，哪类攻击需要导致承受多少危害，为了有效减小危害的发生，这些都是需要了解的问题。本文提出了一种策略，可以对网络犯罪导致的危害进行量化，开发的新技术称为“意图推断（intent inference）”。意图推断可以达到三个目标：定义一个新的度量标准对用户遭受的危害进行量化；开发一个新的方法用来确定伪造域名；量化由各种伪造域名攻击者造成的危害。
+
+ 
+
+（2）SoK: Bitcoin and second-generation cryptocurrencies
+
+提到密码货币当然不可不提比特币Bitcoin，可以说是历史上最成功的密码货币，但是其大起大落确实富了不少人，也估计让不少人破产。比特币的经济价值就不多说了，在学术界很多论文开始研究比特币的安全性，发现攻击并提出替代方案。对比特币的兴趣形成了很多开源社区，而且很多修改或者扩展版本也被提出来。本文第一个提出对第二代密码现金的系统阐述，包含比特币以及很多变种。通过本文，可以对密码现金的系统属性有更加深刻的认知。
+
+
+（3）The Miner's Dilemma
+
+比特币火起来时，很多人开始去炒币，但据说真正赚钱的还是最早一批的挖矿者。挖矿形成了很多矿池（Pool），每个成员贡献其计算能力并分享奖励。而且很多大型的矿池都是开放性的，也就是任何人都可以参与进去分一杯羹。不过已经被证明矿池也是存在攻击的，一个成员可以无缝加入矿池中，但却不贡献其力量，这样矿池的收益被攻击者恭喜，每个真正参与计算的会有所损失。本文通过定义和分析游戏，对矿池的攻击进行了分析。
+
+
+（4）Bitcoin over Tor isn't a good idea
+
+这篇文章主要考虑比特币的匿名性。为了达到匿名性，有研究者提出可以通过Tor来连接比特币网络。Tor（https://www.torproject.org/）是第二代洋葱路由（onion routing）的一种实现，用户通过Tor可以在因特网上进行匿名交流。这篇文章证明组合Tor和比特币并不是一个好主意，容易导致新的攻击。
+
+ 
+
+（5）Ad Injection at Scale: Assessing Deceptive Advertisement Modifications
+
+这篇文章主要关注Web Injection。
+
+### Session 3: Protocols and Network Security
+
+这个session主要是关注网络安全，研究网络中的一些安全协议的安全性，找到攻击并提出改进建议。不管怎样，网络安全也是很传统也永远不会过时的一个安全领域。不过，网络安全研究的范围很广，远不是下面五篇文章能涉及全面的。
+
+（1）Connection-Oriented DNS to Improve Privacy and Security
+
+DNS看起来对非链接的UDP协议来说很完美，实际上这个选择会导致很多问题：窃听，破坏隐私；源地址欺骗，使得DoS攻击更容易；注入攻击等。这篇文章提出DNS-X来解决这些问题。
+
+ 
+
+（2）SoK: Secure Messaging
+
+斯诺登事件发生后，关于国家对个人通信信息的窃听已经引起大家的重视，很多解决方案也声称能够提供安全和隐私信息。这包含很多新项目的出现，而且很多广泛使用的工具也增加了安全特征。过去两年巨大的压力要求快速交付安全解决方案，这导致了各种不同的威胁模型，不完整的目标，可疑的安全要求，对安全通行方面存在的密码相关文献缺乏广泛的视角。这篇文章，作者系统化总结并评估了当前的安全消息解决方案，并提出了一个评估框架来分析它们的安全性、可用性、容易接受等属性。本文既考虑学术界的解决方案，也考虑其它非学术文献但创新且有意思的方法。主要考虑了三个关键的挑战：可信建立（trust establishment）、安全会话（conversation security）和传输隐私（transport privacy）。可信建立方法提供强大的安全和隐私保护功能，但是在可用性和接受方面却表现很糟糕；不过，一些没有在学术界得到仔细研究的混合方法有可能在实际中提供更好的平衡。相比起来，一旦可信建立起来，大部分两方会话安全也能得到保证，不过多方会话还需要更加实际的解决方案。最后，传输隐私在不损失太多性能的情况下看起来是最难实现的问题。
+
+
+（3）Temporal Lensing and its Application in Pulsing Denial-of-Service Attacks
+
+Temporal Lensing 这个技术也是第一次听说，先科普一下。"temporal lensing": a technique that concentrates a relatively low-bandwidth flood into a short, high-bandwidth pulse. 怎么用到DoS攻击里面就不是很了解了。
+
+ 
+
+（4）How Secure and Quick is QUIC? Provable Security and Performance Analyses
+
+QUIC（Quick UDP Internet Connections）是Google 2013年开发的一个安全传输协议，能减少网络延迟同时提供类似TLS的安全属性。本文主要是对该协议进行分析，包含可证明安全和性能评估。分析发现了QUIC协议存在的一些安全问题。
+
+
+（5）Secure Track Verification
+
+The paper proposes a new approach for securely verifying sequences of location claims from mobile nodes. 安全位置验证机制。
+
+
+### Session 4: Cryptographic Protocols
+
+第四个session介绍密码协议方面的最新成果了，密码协议表面简单，可以里面的密码机制却很难，因此一般研究这块的主要以偏理论为主了。对于搞工程的，可以了解一下这些密码机制的作用还是很重要的，说不定哪天真能用上。
+
+（1）Riposte: An Anonymous Messaging System Handling Millions of Users
+
+这篇文章介绍了一个新的匿名广播消息系统，称为Riposte，并进行了原型实现，理论中比较偏工程的了。该系统可以防止流量分析攻击（traffic-analysis attacks），防止恶意客户端的匿名拒绝服务攻击，而且规模能达到百万级用户的匿名集合。使用了PIR（Private Information Retrieval）和安全多方计算MPC中的相关技术。
+
+ 
+
+（2）Geppetto: Versatile Verifiable Computation
+
+云计算引发了对可验证计算（Verifiable Computation）协议的兴趣，通过VC，一个弱客户端可以安全地外包计算给远程方。最近理论和实际上的改进已经大大降低了客户端验证计算结果正确性的开销，不过提供证明的开销还是不实际。这篇文章提出了一系列的补充技术来减少证明者的负担，同时增加证明者的灵活性。
+
+ 
+
+（3）ADSNARK: Nearly Practical and Privacy-Preserving Proofs on Authenticated Data
+
+认证数据的隐私证明，方法很理论，不过应用场景却比较实际（如可穿戴计算wearable computing, 智能计量smart metering, or 通用的B2B交互general business-to-business interactions）。凡是与隐私相关的研究都需要一定的密码积累吧。
+
+ 
+
+（4）Secure Sampling of Public Parameters for Succinct Zero Knowledge Proofs
+
+非交互式零知识证明（NIZKs）是一个非常有用的密码学工具，具有很多有前景的应用。不过，简单的NIZKs机制需要一个可信方来生成和发布公共参数，这些参数供所有证明者和验证者使用。这就出现一个问题，该可信方在实际可能并不可信或者根本不存在。本文主要关注这个问题，提出如何安全发布公共参数的解决方案。
+
+ 
+
+（5）Forward Secure Asynchronous Messaging from Puncturable Encryption
+
+本文提出一个新的机制，能实现forward secure encryption和forward messaging systems（如email和SMS）。
+
+In a forward secure encryption scheme, a user periodically updates her secret key so that past messages remain confidential in the event that her key is compromised. A primary contribution of our work is to introduce a new form of encryption that we name puncturable encryption（提出了一种新的加密形式）. Using a puncturable encryption scheme, recipients may repeatedly update their decryption keys to revoke decryption capability for selected messages, recipients or time periods. Most importantly, this update process does not require the recipients to communicate with or distribute new key material to senders. We show how to combine puncturable encryption with the forward-secure public key encryption proposal of Canetti et al. to achieve practical forward-secure messaging with low overhead. We implement our schemes and provide experimental evidence that this new construction is practical.
+
+
+### Session 5: ORAM and Secure Multi-Party Computation
+
+安全多方计算的研究可以说已经有了快30年的历史了，可谓经久不衰，可见其重要性。不过研究安全多方计算需要很好的理论基础，虽然很多方案提出来，但至今并没有很实用的方案。最近几年的方向好像是开始更多的关注实用方案。ORAM称为“Oblivious RAM”，该机制在让客户端访问远程存储时可以隐藏其访问模式，特别在云存储兴起后，研究ORAM的人也日益趋多。不管怎样，进入这个方向是需要理论基础的，比较难，不过每年在各种安全顶会上，这个方向的论文总是不少。先看看下面五篇论文。
+
+（1）Privacy and Access Control for Outsourced Personal Records
+
+云存储已经成为很多IT架构的基石，为备份、同步和大数据共享提供一个无缝的解决方案。不过，直接将用户数据交给云服务商控制，总会出现不少安全和隐私问题，如外包数据的完整性如何保证、敏感信息是否会意外或者故意泄露、用户活动是否被分析等等。而且，即便相信云服务商是可信，访问外包文档的用户也可能存在恶意行为。对于个人健康记录和信用评分等敏感应用，这些安全问题尤为严重。为了解决这个问题，这篇文章提出了一个密码系统，称为GORAM，即便云服务不可信且存在恶意客户端，该系统能保证外包数据的机密性和完整性，保证对访问这些数据的匿名性和不可链接性，而且允许数据拥有者将外包数据与其他客户端进行共享，选择性的给予他们读或者写的权限。GORAM声称是第一个在外包存储领域能达到如此广范围安全和隐私属性的密码系统。在构造该系统过程中，开发了两个新且通用的密码机制，分别为batched zero-knowledge proofs of shuffle 和 an accountability technique based on chameleon signatures。最后，为了评估有效性，作者在Amazon EC2云上对GORAM进行了实现。
+
+ 
+
+（2）TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits
+
+安全多方计算最早由华人Yao提出，当时他提出的解决方案为混淆电路，即Garbled Circuit（GC），这个方法堪称最有效的方案，一直研究至今。这篇论文的TinyGarble也是在Yao GC上的改进，提出了一个新的自动化方法来产生压缩布尔电路。
+
+ 
+
+（3）GraphSC: Parallel Secure Computation Made Easy
+
+使用机器学习的优势，同时提供用户数据隐私性，需要对一组广泛的数据挖掘算法的安全计算模型。这篇文章将安全计算引入到对大规模并行体系进行数据挖掘的编程框架中。总之，机器学习、数据挖掘、安全计算在这里结合了，能达到这样的效果：开发了一个编程范式使得非密码专家也可以编写安全代码；将并行带入这些算法的安全版本；满足茫然（obliviousness）的需求，即不泄露任何隐私信息。并以如何隐藏图结构为例子进行了分析。感觉消化这篇不容易，不过如何结合确实有点意思。
+
+ 
+
+（4）Malicious-Client Security in Blind Seer
+
+Blind Seer系统是SP 2014上提出一个有效可扩展的DBMS，能同时提供客户查询隐私和服务器数据保护。这篇文章对其进行改进，解决面对恶意客户端是如何解决的问题。使用了一个新的技术，称为SPF-SFE（a semi-private function secure function evaluation），SFE其实本质上就是安全多方计算，而半隐私函数SPF也是在这里第一次听说了。
+
+ 
+
+（5）ObliVM: A Programming Framework for Secure Computation
+
+只看介绍感觉这篇文章很牛，设计和开发了新一代自动安全计算框架，能够修补通用性和自定义之间的间隙，而且代码将对安全社区开源。看起来很有吸引力，到时一睹真容后再来分析分析。
+
+ 
+
+### Session 6: Security du Jour
+
+“du jour”通常在餐馆形容今日特色菜，是今日特色、当今流行的意思，这个session的paper可能并不能划归为具体哪个方向，就全放在一起，形成今日特色安全吗？先看看这些特色在研究啥吧，有兴趣的也可以跟踪：
+
+（1）SurroundWeb: Mitigating Privacy Concerns in a 3D Web Browser
+
+将数字世界与真实世界的物体混合起来达到身临其境的体验正在成为现实。通过体感游戏Kinect，这些体验已经在智能手机和游戏设备中出现（如微软的XBOX游戏机），相信最终也会出现在设备无关的Web平台上。尽管炫酷，这些体验也带来了严峻的隐私问题，因为它们需要实时传感器输入来适当的混合数字和真实世界物体。之前的研究方法通过过滤、访问控制以及沙盒等来控制应用程序对传感器输入的访问，无法直接解决这种体验内部的显示任务。而且，这些低级解决方案无法整合到Web平台的高级GUI工具集中。这篇文章描述了如何扩展已有的Web平台，使得通过最小特权达到身临其境的呈现，并且在一个3D Web浏览器（微软研究院正在开发的SurroundWeb 3D浏览器）中实现了这些扩展。
+
+（2）"I know what you did last summer" – Towards Making Systems Forget with Machine Unlearning
+
+初看题目以为这篇会讲时下最热门的机器学习，仔细看发现是“Machine Unlearning”。不禁想起倚天屠龙中张三丰教张无忌太极拳的那一段，最高境界不是记住了多少招式，也是忘记了所有招式，随意出招。这里的“机器反学习”难道是要达到这个效果吗？这里的机器反学习就是要达到遗忘的效果，来保护用户的隐私，出发点很有意思，有空可以看看全文。In this paper, we focus on making learning systems forget, the process of which is defined as machine unlearning or unlearning. To perform unlearning upon learning system, we present general unlearning criteria, i.e., converting a learning system or part of it into a summation form of statistical query learning model, and updating all the summations to achieve unlearning. 
+
+（3）GenoGuard: Protecting Genomic Data Against Brute-Force Attacks
+
+这篇似乎是安全与生物的一个结合，关注基因组数据的安全存储。提供了一个工具（称为GenoGuard）来对基因组数据进行当下和长期的强保护。
+ 
+
+（4）SoK: A comprehensive analysis of game-based ballot privacy definitions
+
+又是一篇关注隐私的文章，不过比较理论。作者以批判性思维（研究者需要具备的基本要素，但有时却很难达到）重新审视了投票方案中关于隐私的基于游戏的安全定义，除了发现之前的一些问题外，还揭露了一些没有注意到的缺陷。分析后，作者的总结是现有的定义没有一个满足要求，因此提出了一个新的基于游戏的隐私定义（a new game-based definition of privacy），称为BPRIV。
+
+ 
+
+（5）Cracking-Resistant Password Vaults using Natural Language Encoders
+
+“Password vaults”可以叫做“密码保险库”，用户记忆多个不同的密码是很困难的一件事，密码保险库通过将多个密码加密存储起来，用户只需要记住一个主密码即可。我之前的博文介绍的KeePass工具可以说也是这样的一个密码保险库。这样对用户非常方便，但是却很自然导致一个问题，即单点故障。攻击者获得用户的密码保险库后可能进行离线穷举攻击（offline brute-force attacks），一旦成功，那用户所有的密码都泄露了。这篇论文研究如何构建加密的保险库来抵制这种攻击，强制攻击者必须进行在线攻击。本文还介绍了一个新的安全编码机制，称为自然语言编码器natural-language encoders (NLEs)。
+
+ 
+
+### Session 7: Protocols
+
+之前的Session有关注网络协议的，也有关注密码协议的，这个Session就叫协议，应该是各种协议都有吧，且看看先。
+
+（1）Security of the J-PAKE Password-Authenticated Key Exchange Protocol
+
+这篇文章分析J-PAKE协议的安全性，J-PAKE全称password-authenticated key exchange protocol（密码认证密钥交换协议），这个协议来自开源的OpenSSL密码库，已经在实际中得到了很多应用。
+
+ 
+（2）Post-quantum key exchange for the TLS protocol from the ring learning with errors problem
+
+结合格密钥交换和传统的基于RSA或者ECC的认证，研究公钥的人应该比较关心这个问题。
+
+ 
+
+（3）A Messy State of the Union: Taming the Composite State Machines of TLS
+
+这篇分析传输层安全协议TLS，分析的是其开源实现版本中的问题，发现攻击并提出解决方法。
+
+（4）Vetting SSL Usage in Applications with SSLINT
+
+这是第二篇国内研究机构的论文，来自浙江大学的Boyuan He。论文也是分析传输层安全协议SSL和TLS的，不过分析的不是协议本身，而是分析对其API的使用。对SSL/TLS APIs的不正确使用可能造成攻击，很多可能是由于API本身设计的问题，或者是应用开发者经验不足导致的，造成数据泄露或者中间人攻击。为了保证应用程序使用SSL/TLS时的代码质量和逻辑正确性，该论文提出了一个可扩展的自动检测系统SSLINT，可以检测对SSL/TLS APIs的不正确使用。该系统基于静态分析技术，通过分析Ubuntu系统中的应用，找到了27个未知的SSL/TLS漏洞。
+
+
+### Session 8: Side Channels
+
+侧信道（或者边信道）攻击也是很经典的密码问题，研究也几十年的历史了。这种攻击并不是密码分析或者暴力破解，而是分析密码系统的物理实现中获得的信息，如时间信息、功耗、电磁泄露或者甚至声音都可能提供一个额外的信息源，从而被利用来攻击密码系统。由于笔者并不研究这一块，主要简介一下，以科普为主。
+
+（1）Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems
+
+这篇介绍控制信道攻击Controlled Channel attacks，一种新类型的侧信道攻击，该攻击中一个不可信的操作系统可以从Overshadow、lnkTag或者Haven保护的应用程序中提取大量的敏感信息。
+
+ 
+
+（2）S$A: A Shared Cache Attack that Works Across Cores and Defies VM Sandboxing—and its Application to AES
+
+这是关于虚拟平台上的一个侧信道攻击。In this work, we introduce a fine-grain cross-core cache attack that exploits access time variations on the last level cache. The attack exploits huge pages to work across VM boundaries without requiring deduplication.
+
+
+（3）Last-Level Cache Side-Channel Attacks are Practical
+
+We present an effective implementation of the Prime+Probe side-channel attack against the last-level cache. We measure the capacity of the covert channel the attack creates and demonstrate a cross-core, cross-VM attack on multiple versions of GnuPG. Our technique achieves a high attack resolution without relying on weaknesses in the OS or hypervisor or on sharing memory between attacker and victim.
+
+ 
+
+（4）On Subnormal Floating Point and Abnormal Timing
+
+这篇关于时间信道攻击。We identify a timing channel in the floating point instructions of modern x86 processors: the running time of floating point addition and multiplication instructions can vary by two orders of magnitude depending on their operands. 现在大部分PC还是采用x86处理器，这个攻击如果能够实用也是非常危险的。
+
+### Session 9: Malware and Program Analysis
+
+这个Session是恶意代码分析，比较实用，大家常关注的黑客或者极客主要是这块了。恶意代码分析过程绝对是个枯燥的过程。
+
+（1）Cross-Architecture Bug Search in Binary Executables
+
+With the general availability of closed-source software for various CPU architectures, there is a need to identify security-critical vulnerabilities at the binary level to perform a vulnerability assessment. Unfortunately, existing bug finding methods fall short in that they i) require source code, ii) only work on a single architecture (typically x86), or iii) rely on dynamic analysis, which is inherently difficult for embedded devices. In this paper, we propose a system to derive bug signatures for known bugs. We then use these signatures to find bugs in binaries that have been deployed on different CPU architectures (e.g., x86 vs. MIPS). The variety of CPU architectures imposes many challenges, such as the incomparability of instruction set architectures between the CPU models. We solve this by first translating the binary code to an intermediate representation, resulting in assignment formulas with input and output variables. We then sample concrete inputs to observe the I/O behavior of basic blocks, which grasps their semantics. Finally, we use the I/O behaviors to find code parts that behave similar to the bug signature, effectively revealing code parts that contain the bug. We have designed and implemented a tool for cross-architecture bug search in executables. Our prototype currently supports three instruction set architectures (x86, ARM, and MIPS) and can find vulnerabilities in buggy binary code for any of these architectures. We show that we can find Heartbleed vulnerabilities, regardless of the underlying software instruction set. Similarly, we apply our method to find backdoors in closed- source firmware images of MIPS- and ARM-based routers.
+
+ 
+
+（2）The Attack of the Clones: A Study of the Impact of Shared Code on Vulnerability Patching
+
+Vulnerability exploits remain an important mech- anism for malware delivery, despite efforts to speed up the creation of patches and improvements in software updating mech- anisms. Vulnerabilities in client applications are often exploited in spear phishing attacks and cannot be discovered using network vulnerability scanners. Analyzing their lifecycle is challenging because it requires observing the deployment of patches on hosts around the world. Using 5-year data collected on 8.4 million hosts, available through Symantec’s WINE platform, we present the first systematic study of patch deployment in client-side vulnerabilities. Our analysis of the vulnerability lifecycle of 10 popular client applications identifies several new threats presented by multiple installations of the same program and shared libraries that may be distributed with multiple applications. We find that 80 vulnerabilities in our data set affect common code shared by two applications. In these cases, the time between patch releases in the different applications is up to to 118 days (with a median of 11 days). Furthermore, as the patching rates differ between applications, many hosts patch the vulnerability in one application but not in the other one. We demonstrate two novel attacks that enable exploitation by invoking old versions of applications that are used infrequently, but that remain installed. We also find that the patch rate is affected by user-specific and application-specific factors; for example, hosts belonging to security analysts and applications with an automated updating mechanism have significantly lower median times to patch.
+
+ 
+
+（3）SoK: Deep Packer Inspection: A Longitudinal Study of the Complexity of Run-Time Packers
+
+Run-time packers are typically used by malware-writers to obfuscate their code and hinder static analysis. The packer problem has been widely studied, and several solutions have been proposed in order to generically unpacked these protected binaries. Nevertheless, these solutions commonly rely on certain assumptions that may not necessarily be met by certain types of packers. In this paper, we propose a taxonomy to measure runtime packer complexity, and evaluate it over two datasets composed of both off-the-shelf packers and custom packed binaries. Also, we propose a set of heuristics to improve the feasibility of multi-path exploration approaches for recovering the code of packers that unprotect their code on demand.
+
+ 
+
+（4）A Generic Approach to Automatic Deobfuscation of Executable Code
+
+Malicious software are usually obfuscated to avoid detection and resist analysis. When new malware is encountered, such obfuscations have to be penetrated or removed (``deobfuscated'') in order to understand the internal logic of the code and devise countermeasures. This paper discusses a generic approach for deobfuscation of obfuscated executable code. Our approach does not make any assumptions about the nature of the obfuscations used, but instead uses semantics-preserving program transformations to simplify away obfuscation code. We have applied a prototype implementation of our ideas to a variety of different kinds of obfuscation, including emulation-based obfuscation, emulation-based obfuscation with runtime code unpacking, and return-oriented programming. Our experimental results are encouraging and suggest that this approach can be effective in extracting the internal logic from code obfuscated using a variety of obfuscation techniques, including tools such as Themida that previous approaches could not handle.
+
+ 
+
+（5）Program-Adaptive Mutational Fuzzing
+
+In this work, we propose a novel way to maximize the number of bugs found for black-box mutational fuzzing given a program and a seed input. The major intuition is to leverage a white-box symbolic analysis on an execution trace for a given program-seed pair to optimize parameters for mutational fuzzing. The result is promising: we found 25% more bugs than the state- of-the-art fuzzers over 8 applications, given a limited resource. We make our code publicly available to foster open science.
+
+ 
+
+### Session 10: Memory Integrity
+
+内存完整性，这个session的技术都比较难，需要多年的积累。内存完整性分析都与实际攻击相关，如内存泄露攻击、代码重用攻击、ROP攻击等等。用到的解决技术都需要对系统底层了解比较透彻。
+
+（1）Micro-Policies: Formally Verified, Tag-Based Security Monitors
+
+Recent advances in hardware design have demonstrated mechanisms allowing a wide range of low-level security policies micro-policies to be expressed using rules on metadata tags. We propose a methodology for defining and reasoning about such tag-based reference monitors in terms of a high-level "symbolic machine," and we use this methodology to define and formally verify micro-policies for dynamic sealing, compartmentalization, control-flow integrity, and memory safety; in addition, we show how to use the tagging mechanism to protect its own integrity. For each micro-policy, we prove by refinement that the symbolic machine instantiated with the policy's rules embodies a high-level specification characterizing a useful security property. Last, we show how the symbolic machine itself can be implemented in terms of a hardware rule cache and a software controller.
+
+ 
+
+（2）Counterfeit Object-oriented Programming: On the Difficulty of Preventing Code Reuse Attacks in C++ Applications
+
+Code reuse attacks（代码重用攻击） such as return-oriented programming (ROP) are prevalent and powerful and are widely used to exploit memory corruption vulnerabilities in software programs. Recently, many defenses were proposed to mitigate code reuse attacks, but some of them have already been successfully broken. In this paper, we perform a systematic assessment of recently proposed CFI solutions and other defenses against code reuse attacks in the context of object-oriented languages. We focus on C++ since this programming language is used by a large number of today's most attacked software projects (e.g., web browsers, document viewers, and other programming languages' runtime interpreters). We demonstrate that almost all CFI solutions and many other defenses that do not consider object-oriented C++ semantics can be bypassed in practice. Our novel attack technique, denoted as COOP (counterfeit object-oriented programming), induces malicious program behavior by only invoking chains of a program's existing virtual functions through legitimate call sites. COOP is Turing complete under realistic conditions and we demonstrate its viability by developing complex, real-world exploit codes for Internet Explorer 10 on Windows and Firefox 36 on Linux. We also show that even recently proposed defenses (Code-Pointer Separation, T-VIP, vfGuard, and VTint) that specifically target C++ are vulnerable to COOP. Our observation is that no strong defense against COOP exists today that does not require access to source code, and constructing such a defense seems to be challenging. We believe that our investigation and results are helpful contributions to the design and implementation of future defense systems against the severe threat of control-flow hijacking attacks that has sustained in the wild for more than two decades.
+
+ 
+
+（3）Automatic Inference of Search Patterns for Taint-Style Vulnerabilities
+
+Taint-style vulnerabilities are a persistent problem in software development, as the recently discovered "Heartbleed" vulnerability strikingly illustrates. In this class of vulnerabilities, attacker-controlled data is passed unsanitized from an input source to a sensitive sink. While simple instances of this vulnerability class can be detected automatically, more subtle defects involving data flow across several functions or project- specific APIs are mainly discovered by manual auditing. Different techniques have been proposed to accelerate this process by searching for typical patterns of vulnerable code. However, all of these approaches require a security expert to manually model and specify appropriate patterns in practice. In this paper, we propose a method for automatically inferring search patterns for taint-style vulnerabilities in C code. Given a security-sensitive sink, such as a memory function, our method automatically identifies corresponding source-sink systems and constructs patterns that model the data flow and sanitization in these systems. The inferred patterns are expressed as traversals in a code property graph and enable efficiently searching for unsanitized data flows—across several functions as well as with project-specific APIs. We demonstrate the efficacy of this approach in different experiments with 5 open-source projects. The inferred search patterns reduce the amount of code to inspect for finding known vulnerabilities by a factor of 19.5 (94.9%) and also enable us to uncover 8 previously unknown vulnerabilities.
+
+ 
+
+（4）Readactor: Practical Code Randomization Resilient to Memory Disclosure
+
+Code-reuse attacks such as return-oriented programming (ROP) pose a severe threat to modern software. Designing practical and effective defenses against code-reuse attacks is highly challenging. One line of defense builds upon fine-grained code diversification to prevent the adversary from constructing a reliable code-reuse attack. However, all solutions proposed so far are either vulnerable to memory disclosure or are impractical for deployment on commodity systems. In this paper, we address the deficiencies of existing solutions and present the first practical, fine-grained code randomization defense, called Readactor, resilient to both static and dynamic ROP attacks. We distinguish between direct memory disclosure, where the attacker reads code pages, and indirect memory disclosure, where attackers use code pointers on data pages to infer the code layout without reading code pages. Unlike previous work, Readactor resists both types of memory disclosure. Moreover, our technique protects both statically and dynamically generated code. We use a new compiler-based code generation paradigm that uses hardware features provided by modern CPUs to enable execute-only memory and hide code pointers from leakage to the adversary. Finally, our extensive evaluation shows that our approach is practical---we protect the entire Google Chromium browser and its V8 JIT compiler---and efficient with an average SPEC CPU2006 performance overhead of only 6.4%.
+
+ 
+
+（5）Missing the Point: On the Effectiveness of Code Pointer Integrity
+
+Memory corruption attacks （内存泄露攻击）have been known for decades, but they are still a major vector of attack for compromising modern systems. Numerous defenses have been proposed against memory corruption attacks, but they all have their limitations and weaknesses. Stronger defenses such as complete memory safety incur a large overhead, while weaker ones such as practical control flow integrity have been shown to be ineffective. A recent technique called code pointer integrity (CPI) promises to provide the best of both security and performance worlds, preventing control hijacking attacks while maintaining low overhead. In this paper, we show that the assumptions made by CPI are fundamentally flawed and in fact CPI can be bypassed using existing, known types of vulnerabilities. We show that CPI’s safe region can be leaked and then maliciously modified by using data pointer overwrites. Although many other implementation bugs exist in CPI, for this work we assume the weakest assumptions for the attacker and the strongest implementation of CPI and show that just by controlling the stack, an attacker can easily bypass CPI. Our attack was implemented as a proof-of-concept against Nginx and could successfully bypass CPI in 6 seconds with 13 observed crashes. We also present an attack that generates no crashes and is able to bypass CPI in 98 hours.
+
+ 
+
+ 
+
+### Session 11: Security du Jour II
+
+这是第二个特色安全Session了，通过对之前特色论文的了解，论文应该都具有一定的新颖性和吸引力。
+
+（1）Securing Multiparty Online Services via Certified Symbolic Transactions
+
+现在很多在线服务（如单点登录、第三方支付等）都存在安全缺陷，对程序进行形式化验证变得很需要。不过程序验证在现实世界中存在很多障碍：协议规范通常很模糊，如果描述其安全属性；如何对攻击者和运行时平台建模；如何处理交易中的无限集合（the unbounded set）。这篇文章介绍认证符合交易Certified Symbolic Transaction (CST)，可以大大降低程序验证方法使用的障碍。
+
+ 
+
+（2）Caelus: Verifying the Consistency of Cloud Services with Battery-Powered Devices
+
+云存储服务，如Amazon S3、DropBox、Google Drive、Microsoft OneDrive、百度云等已经日益流行。不过，用户不可能完全相信云服务。目前提出的对云存储的解决方案，当用到电池供电的设备中都存在不足，如或者需要设备长期开启以便通信，或者需要依赖一个可信服务来传递消息，或者无法提供及时的攻击检测。这篇论文提出Caelus，可以解决这些不足。The key insight that enables Caelus to do this is having the cloud service declare the timing and order of operations on the cloud service. Our experiments show that Caelus can detect consistency violations on Amazon’s S3 service when the desired consistency requirements set by the user are stricter than what S3 provides. Caelus achieves this with a roughly 12.6% increase in CPU utilization on clients, 1.3% of network bandwidth overhead and negligible impact on the battery life of devices.
+
+ 
+
+（3）High System-Code Security with Low Overhead
+
+由于编写安全系统代码是非常困难的，导致安全漏洞长期困扰着现代各种系统。好的方法通过运行时检测实现期望的安全策略能够自动改造安全，不过诱发的系统变慢导致很多用户难以接受，使得这些工具很少被使用。这样，现实系统的不安全性就一直存在。这篇文章就帮助开发者如何优雅的处理性能问题，在安全性和性能上达到一种平衡。We present an approach in which developers/operators can specify what level of overhead they find acceptable for a given workload (e.g., 5%); our proposed tool ASAP then automatically instruments the program to maximize its security while staying within the specified "overhead budget." Two insights make this approach effective: most overhead in existing tools is due to only a few "hot" checks, whereas the checks most useful to security are typically "cold" and cheap. We evaluate ASAP on programs from the Phoronix and SPEC benchmark suites. It can precisely select the best points in the security-performance spectrum. Moreover, we analyzed existing bugs and security vulnerabilities in RIPE, OpenSSL, and the Python interpreter, and found that the protection level offered by the ASAP approach is sufficient to protect against all of them.
+
+ 
+
+（4）Understanding and Monitoring Embedded Web Scripts
+
+Web浏览器经常使用各种第三方脚本，安全隐患自然而来。这篇文章介绍他们开发的一些工具，可以帮助站点管理员来理解、监控和限制嵌入到他们站点的第三方脚本的行为。关注Web安全的研究者可以学习使用下这篇文章的工具，看看是否能有很好的效果。
+
+ 
+
+### Session 12: Android Security
+
+移动互联网应该是时下最热门的，移动安全自然也不例外，不过SP上居然最后一个session才讨论这一块，而且局限于安卓安全。一方面可以看到Android系统在移动市场中的地位，另一方面可以发现在移动安全这块的研究才刚刚起步。这里的论文都是关于移动Apps可能访问移动设备上的用户敏感信息的。
+
+（1）Effective Real-time Android Application Auditing
+
+这篇文章也有来自国内研究机构的作者，来自上海交大的Lu Gong（二作）。
+
+移动Apps可以访问移动设备上的各种私人数据，如通讯录、短信等。这容易造成数据泄露，App审计是一个基本的程序分析任务，可以发现数据泄露的代码路径。目前，静态分析技术用的比较多，因为其可以精确找到整个程序中有问题的数据流。不过，静态分析也容易产生错误报警，需要手动确认；而且存在的静态分析方法可能需要数分钟或者甚至几个小时才能检查完一个App，这是很不实际的。为了克服这些限制，本文设计了AppAudit，结合静态分析和动态分析技术。They design AppAudit to use an efficient but over-estimating static API analysis first and then relies on a dynamic analysis to prune its false positives. Overall, AppAudit achieves a low false positive rate as the dynamic analysis only explores possible code paths during real execution. AppAudit also achieves short analysis time by combining an efficient static stage with a highly parallelizable dynamic stage.
+
+ 
+
+（2）What the App is That? Deception and Countermeasures in the Android User Interface
+
+用户只能通过视觉外观来识别一个App是存在安全风险的。这篇文章进行更加本质的分析和识别，帮助用户以免误信其它App。In this paper, we analyze in detail the many ways in which Android users can be confused into misidentifying an app, thus, for instance, being deceived into giving sensitive information to a malicious app. Our analysis of the Android platform APIs, assisted by an automated state-exploration tool, led us to identify and categorize a variety of attack vectors (some previously known, others novel, such as a non-escapable fullscreen overlay) that allow a malicious app to surreptitiously replace or mimic the GUI of other apps and mount phishing and click-jacking attacks.
+
+ 
+
+（3）Leave Me Alone: App-level Protection Against Runtime Information Gathering on Android
+
+Stealing of sensitive information from apps is always considered to be one of the most critical threats to Android security. Recent studies show that this can happen even to the apps without explicit implementation flaws, through exploiting some design weaknesses of the operating system, e.g., shared communication channels such as audio and Bluetooth, and side channels like CPU, memory, network-data usages, etc. In all these attacks, a malicious app needs to run side-by-side with the target app (the victim) to collect its runtime information. Examples include recording phone conversations from the phone app, gathering network-data usages of WebMD to infer the disease condition the user looks at, etc（攻击例子）. This runtime-information-gathering (RIG) threat is both realistic and serious, as demonstrated by prior research and our new findings, which reveal that the adversary monitoring daily operations of popular Android-based home security systems can easily figure out when the house is empty and the user is not looking at surveillance cameras, and even turn off the alarm delivered to the user's phone. To defend against this new category of attacks, we propose a novel technique that changes neither the operating system nor the target apps, and provides immediate protection as soon as an ordinary app (with only normal and dangerous permissions) is installed（本文提出的防止攻击的新技术）. This new approach, called App Guardian（称为App守卫）, thwarts a malicious app's runtime monitoring attempt by pausing all suspicious background processes when the target app (called principal) is running in the foreground, and resuming them after the app stops and its runtime environment is cleaned up. Our technique leverages a unique feature of Android, on which third-party apps running in the background are often considered to be disposable and can be stopped anytime with only a minor performance and utility implication. We further limit such an impact by only focusing on a small set of suspicious background apps, which are identified based upon their behaviors inferred from their side channels, such as thread names, CPU scheduling data and kernel time. App Guardian is also carefully designed to choose the right moments to start and end the protection procedure, and effectively protect itself against malicious apps. Our experimental studies show that this new technique defeated all known RIG attacks, ranging from phone taping to keylogging through various side channels. In the meantime, the inconvenience it introduces is found to be minimal, with negligible impacts on the utility of legitimate apps and the performance of the OS.

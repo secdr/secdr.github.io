@@ -1,0 +1,183 @@
+---
+layout: post
+title: "cover letter详解及相关模板"
+date: 2015-06-01 23:52:53 -0700
+comments: true
+categories: submit
+---
+
+
+1、 什么是cover letter？
+
+指的是投稿信
+
+2、cover letter的内容主要包括那些？
+
+应该简述所投稿件的核心内容、主要发现和意义，拟投期刊，对稿件处理有无特殊要求等（如“not to review” list）。另外，请附上主要作者的中文姓名、通讯地址、电话、传真和e-mail地址。此外有的杂志要求推荐几位审稿人及其联系方式。以及谁已经阅读过该文（当然是牛人）。
+我投的那个杂志是要求说明你论文研究的意义，以及与这个杂志的相关性，另外还有的可能要写明你没有一搞多投等。此外临床实验要求写明符合伦理学要求。
+
+3、 如何写cover letter？
+
+各个杂志的具体要求是不一样的，在杂志的guide for authors一般会有要求。如果没有具体的要求，大家可按照通用要求处理。
+<!--more-->
+
+4、常用模板：
+
+（1）Cover letter
+    
+    Dear Mr. **
+
+    1/. The work described has not been submitted elsewhere for publication, in whole or in part, and all the authors listed have approved the manuscript that is enclosed.
+
+    2/. I have read and have abided by the statement of ethical standards for manuscripts submitted to Neuroscience.
+
+    kind regards.
+    Your sincerely,
+    通讯作者
+
+（2）
+
+    Dear Dr. 主编name:
+    We submit our manuscript entitled " 文章title" to 杂志名for publication.
+    接着简单介绍你文章的主要创新点和意义，不易过多，但要突出新意和关键点。
+    All authors have seen the manuscript and approved to submit to your journal. 
+    Thank you very much for your attention and consideration. 
+
+    Sincerely yours, 
+    通讯作者
+
+（3）
+
+    Dear Dr. 主编name:
+    We submit our manuscript entitled " 文章title" to 杂志名for publication.
+    接着简单介绍你文章的主要创新点和意义，不易过多，但要突出新意和关键点。
+    All authors have seen the manuscript and approved to submit to your journal. 
+    Thank you very much for your attention and consideration. 
+
+    Sincerely yours, 
+    通讯作者
+
+（4）
+
+    Dr. ***
+    Editor-in-Chief, ***
+    (add address) January 22, 2003 
+
+    Dear Dr. **,
+
+    Enclosed herewith please find 3 copies of a MS by: ‘***. *** and ***’ entitled: “**********”, which we would like to submit for publication in the ‘******'.
+
+    Looking forward to your decision,
+    With kind personal regards,
+    Sincerely yours,
+
+    *****
+    Professor of ***
+
+（5）
+
+    Dear Prof. Gil:
+    This is a manuscript by**and **entitled “.......”. It is submitted to be considered for publication as a “...” in your journal. This paper is new. Neither the entire paper nor any part of its content has been published or has been accepted elsewhere. It is not being submitted to any other journal.
+    We believe the paper may be of particular interest to the readers of your journal as it ........
+    Correspondence should be addressed to **at the following address, phone and fax number, and email address:
+    ...
+    Thanks very much for your attention to our paper. 
+    Sincerely yours,
+    **
+
+5、 例文：下面例文都来自丁香园战友，在此一并感谢。
+
+（一）
+
+    Date: Sep 15, 2003
+    Dear Editors:
+
+    On behalf of my co-authors, I am submitting the enclosed material “ TITLE ” for possible publication in JOURNAL. 
+
+    We certify that we have participated sufficiently in the work to take public responsibility for the appropriateness of the experimental design and method, and the collection, analysis, and interpretation of the data.
+
+    We have reviewed the final version of the manuscript and approve it for publication. To the best of our knowledge and belief, this manuscript has not been published in whole or in part nor is it being considered for publication elsewhere.
+
+    Best Regards.
+
+    Yours Sincerely,
+
+    NAME,ADRESS,EMAIL,FAX
+
+（二）
+
+    Dear Dr Regino Perez-Polo：
+    Enclosed are a manuscript by su jian, yang kun, chen zhihua．Su jian titled“Hypothermia after Acute Ischemic Stroke
+    ”．It is submitted to be considered for publication as a“review" in your journal．This paper is～•Neither the entire paper nor any part of its content has been published or has been accepted elsewhere ．It is not being submitted to any other journal．
+    We believe the paper may be of particular interest to the readers of your journal.
+    Correspondence and phone calls about the paper should be directed to Su jian at the following address，phone and fax number，and e-mail address：
+
+    Su jian
+    Institute:, 
+    Adress:
+    Tel：
+    Fax:
+    E-mail：
+    Thanks very much for your attention to our paper．
+    Sincerely yours，
+    Su jian
+
+（三）
+
+    Dear Editor,
+
+    We would like to submit the enclosed manuscript entitled "GDNF Acutely Modulates Neuronal Excitability and A-type Potassium Channels in Midbrain Dopaminergic Neurons", which we wish to be considered for publication in Nature Neuroscience. 
+
+    GDNF has long been thought to be a potent neurotrophic factor for the survival of midbrain dopaminergic neurons, which are degenerated in Parkinson’s disease. In this paper, we report an unexpected, acute effect of GDNF on A-type potassium channels, leading to a potentiation of neuronal excitability, in the dopaminergic neurons in culture as well as in adult brain slices. Further, we show that GDNF regulates the K+ channels through a mechanism that involves activation of MAP kinase. Thus, this study has revealed, for the first time, an acute modulation of ion channels by GDNF. Our findings challenge the classic view of GDNF as a long-term survival factor for midbrain dopaminergic neurons, and suggest that the normal function of GDNF is to regulate neuronal excitability, and consequently dopamine release. These results may also have implications in the treatment of Parkinson’s disease. 
+
+    Due to a direct competition and conflict of interest, we request that Drs. XXX of Harvard Univ., and YY of Yale Univ. not be considered as reviewers. With thanks for your consideration, I am 
+
+    Sincerely yours,
+
+（四）
+
+    Dear **.
+    We would like to submit the enclosed manuscript entitled " *** ", which we wish to be considered for publication in **journal. 
+    We believe that two aspects of this manuscript will make it interesting to general readers of **journal. First, ***. Second, ***. Further, ***.
+    Thank you very much your considering our manuscript for potential publication. I'm looking forward to hearing from you soon.
+
+    Best wishes.
+
+（五）
+
+    To: SOLA Chief Editor
+    Division of Geoenvironmental Sciences
+    University of Tsukuba
+    Tsukuba 305-8572, JAPAN
+    E-Mail: sola@sakura.cc.tsukuba.ac.jp
+    Dear Sirs,
+    I am sending herewith a copy of the manuscript, which I would like to submit to SOLA, the Electronic Journal of the Meteorological Society of Japan.
+    The paper is entitled:
+    Energy Spectrum Proportional to the Squared Phase Speed of
+    Rossby Modes in the General Circulation of the Atmosphere
+    by H. L. Tanaka, Yasushi Watarai, and Takahiro Kanda.
+    Copy of the Abstract:
+    In this study, energy spectrum of the large-scale atmospheric motions is examined in the framework of the 3D normal mode decomposition. The horizontal scale of disturbance is measured by the phase speed of a Rossby mode c. According to the analysis result for the barotropic component of the atmosphere, we obtain a characteristic energy spectrum with distinct slopes for the turbulence and wave regimes separated by the spherical Rhines speed. In order to explain the observational finding that the energy spectrum is proportional to c^2, we put forward a hypothesis based on the criterion of Rossby wave breaking such that the local meridional gradient of potential vorticity becomes negative, dq/dy < 0, somewhere in the domain. With a constant m describing a total mass of the atmosphere for unit area, we have shown that the barotropic energy spectrum of the general circulation E can be represented as E=mc^2.
+    Corresponding Author:
+    Dr. Hiroshi L. Tanaka
+    Division of Geoenvironmental Sciences
+    University of Tsukuba
+    Tsukuba 305-8572, JAPAN
+    Tel: +81-29-853-4502
+    Fax: +81-29-853-6879
+    E-Mail: tanaka@sakura.cc.tsukuba.ac.jp
+    I hereby certify that this paper consists of original, unpublished work which is not under consideration for publication elsewhere.
+    Desired Editors in Charge:
+    Kimoto, Masahide University of Tokyo
+    Mak, Mankin University of Illinois
+    Five Potential Reviewers:
+    Name-1, e-mail address-1
+    Name-2, e-mail address-2
+    Name-3, e-mail address-3
+    Name-4, e-mail address-4
+    Name-5, e-mail address-5
+    The original manuscript and figures will be transferred, following the instruction by the Editorial Committee when the paper is accepted. I hope your favorable consideration for publication to SOLA.
+    Sincerely,
+    Hiroshi L. Tanaka
+    Attachment: PDF file of the manuscript.
+    
