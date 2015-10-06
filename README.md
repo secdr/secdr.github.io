@@ -1,2 +1,3 @@
 # secdr.github.io
-home page of secdr
+
+home page of [SecDr](http://secdr.github.io);
