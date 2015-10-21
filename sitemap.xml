@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://secdr.github.io/2015/10/21/ke-ji-ying-yu-xie-zuo-zhong-de-ji-ge-xiao-qiao-men/</loc>
+    <lastmod>2015-10-21T13:45:34-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://secdr.github.io/2015/10/17/niu-ren-kan-wai-guo-wen-xian-de-fang-fa/</loc>
     <lastmod>2015-10-17T22:20:06-07:00</lastmod>
   </url>
@@ -127,11 +131,5 @@
   </url>
   <url>
     <loc>http://secdr.github.io/categories/submit/</loc>
-  </url>
-  <url>
-    <loc>http://secdr.github.io/posts/2/</loc>
-  </url>
-  <url>
-    <loc>http://secdr.github.io/posts/3/</loc>
   </url>
 </urlset>
