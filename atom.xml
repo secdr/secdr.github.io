@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-10-22T23:39:08-07:00</updated>
+  <updated>2015-11-03T22:21:48-08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -12,6 +12,121 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[科研必备的软件神器]]></title>
+    <link href="http://secdr.github.io/2015/11/03/ke-yan-bi-bei-de-ruan-jian-shen-qi/"/>
+    <updated>2015-11-03T22:17:04-08:00</updated>
+    <id>http://secdr.github.io/2015/11/03/ke-yan-bi-bei-de-ruan-jian-shen-qi</id>
+    <content type="html"><![CDATA[<p>学者论文哪里找，论文怎么写，会用到哪些工具？小编特地为大家整理了一些资料,包括OA论文、思路整理、词典类、制图工具类、文献生成类等方面。</p>
+
+<p>OA论文平台</p>
+
+<p>这绝对是可以免费下载的OA期刊论文哦。以下平台资源丰富。于是小编还是添加了几个具有代表性的OA平台。</p>
+
+<p>1.PMC（Pubmed Cenral)</p>
+
+<p>Pubmed官方系统中，将免费的全文集中在此，查pubmed同时，就能查看PMC中的免费全文。常规来说，PMC中内容已相当全面了。到2014年8月份，有320万篇免费全文在此！</p>
+
+<!--more-->
+
+
+<p>2.OALib（Open Access Library）</p>
+
+<p>Open AccessLibrary(OA图书馆)通过提供高质量的文档和快速响应的服务器，致力于为学术交流和进步做贡献。为大家提供200多万篇学术文章，这个数字估计在不久的将来还会增加。这里很多内容与PMC交叉。不过会收录部分没有进入pubmed的免费全文。</p>
+
+<p>3.DOAJ（Directory of Open Access Journals）</p>
+
+<p>DOAJ(Directory of Open Access Journal)，由瑞典的隆德大学图书馆Lund University Libraries设立于2003年5月，从最初的350种期刊开始，截至2014年8月，已收录开放存取期刊9966种、文章超过170万篇。是个很好的专门OA期刊文献检索系统，但不包括预印本资源。该系统收录期刊的文章都是经过同行评议或严格评审的，质量高，与期刊发行同步，且都能免费下载全文，是做研究的好帮手。</p>
+
+<p>4.Scientific Research Publishing</p>
+
+<p>ScientificResearch Publishing（科研出版社，简称SRP)是一家国际综合性开源学术期刊出版机构。目前已有国际开源英文期刊近三百本，所有期刊都是开源的（OpenAccess，或称开放存取, 简称OA），可免费下载所有期刊全文，所有期刊均回溯至创刊。多数期刊已被CAS，EBSCO，CAB Abstracts，ProQuest，IndexCopernicus，Library of Congress，Gale，CSP等数据库全文或摘要收录。</p>
+
+<p>5.PloS</p>
+
+<p>PloS(PublicLibrary of Science)科学公共图书馆原是是一家由众多诺贝尔奖得主和慈善机构支持的非赢利性学术组织，旨在推广世界各地的科学和医学领域的最新研究成果。PLoS出版了多种生命科学与医学领域的开放获取期刊，可以免费获取全文，比较具有影响力。Plos系列的期刊目前都已被SCI收录。虽然期刊数量不多，但是文章总体数量相当庞大。</p>
+
+<p>6.Nature</p>
+
+<p>在2014年12月时，《自然》（Nature）也宣布了开放所有研究论文，包括旗下48个杂志，可惜不能免费复制、打印或下载。但仅仅是在线看也是非常大的福利！</p>
+
+<p>7.Socolar</p>
+
+<p>Socolar开放存取一站式检索服务平台是一个旨在为用户提供OA资源检索和全文链接服务的公共服务平台，由中国教育进出口公司管理。该平台是中文网页，收录了6000多种来自互联网的OpenAccess期刊、仓储等学术资源信息，提供一站式检索和链接服务。读者需要注意的是，链接到最后是否获取全文，取决于平台链接的有效性，用户网络是否允许境外访问两个因素。</p>
+
+<p>8.cnpLINKer</p>
+
+<p>cnpLINKer中国链接服务是由中国图书馆进出口总公司开发并提供的国外网络检索系统。目前共收录了国外50多家出版社的12000余种商业期刊，14000多种Open Access，900万篇文摘数据和全文链接服务，400多家OPAC信息，并保持时时更新。</p>
+
+<p>思路整理工具</p>
+
+<p>看了那么多的文献，知识太杂，思路乱糟糟，不知如何下手……这个时候，对于知识管理或者思路整理的小助手就尤为重要。</p>
+
+<p>1.EverNote/有道云笔记</p>
+
+<p>对于这两个软件大家都不陌生。EverNote又名印象笔记，是目前最火热的笔记软件之一，除了文字信息还可以记录语音，图片等等，好处就在于多平台同步，还有网页剪报功能，让你随时随地记录收藏好的idea；有道云笔记功能类似，是我们本土化的产品，所占内存比EverNote小一些，而且更贴近国人习惯。上述方便快速，可随手记下你的idea，支持多平台同步。缺点在于需要定期自己整理，否则东西过于杂乱。</p>
+
+<p>2.MindJet/MindManager</p>
+
+<p>思维导图被认为是一种革命性的的思维工具，利用图文并重的技巧，把各级主题的关系用相互隶属与相关的层级图表现出来。还不是很理解的小伙伴可以参考卷福的思维宫殿。这款思维导图软件MindManager上手很快，并支持各种格式的导出。无论是读文献还是写论文，相信都可以很好的来帮大家进行记忆并理清思路。学霸们，要耐心花时间适应这种新的思维模式哦。</p>
+
+<p>3.One Note</p>
+
+<p>One Note功能强大！一般大家在安装Office时，可能没注意，只知道有Word, Excel ,Powerpoint，其实还有其它实用的工具，其中包括One Note! 借助office强大的编辑能力，基本涵盖了作为一个笔记本所有你能想到的和想不到的功能。最新出的插件还同时涵盖了思维导图的功能！有一个问题就是OneNote好些扩展功能是要收费的，并且对系统内存的占用比较大，偶尔有卡机的现象出现。词典类论文写作过程中用得最多的就是各种词典。毕竟英语有些意思一时总是难以找到合适的词。</p>
+
+<p>翻译工具</p>
+
+<p>1.Google翻译</p>
+
+<p>不用多说，页面简洁，使用方便，随开随用，不用担心软件升级问题，也不会弹出各种小广告，多种语言随时切换，支持段落翻译。及其方便，只要有网就能翻译。缺点在于功能比较单一。</p>
+
+<p>2.CNKI翻译助手</p>
+
+<p>最大的优势也在于它的学术性：所有的例句都是出自于学术期刊，并且通过这些句子还可以找到到对应的文献来源。然而，这些例句虽然都来源于国内的学术期刊，不能排除有些Chinglish的表达。所以，CNKI助手非常适合搜索一些专业术语，不仅了解用法，还能顺带看看国内学术界在该领域的文献。</p>
+
+<p>3.有道/金山等翻译软件</p>
+
+<p>有道或金山比较全面，带很多扩展功能，包括全文翻译、屏幕取词、划词翻译、例句搜索、网络释义、真人语音朗读等。还可将单词存入生词本，依靠云同步随时复习，适合词汇量积累。不好的地方就是，比较占系统内存，小广告多。</p>
+
+<p>4.专业词汇翻译&ndash;MedSci</p>
+
+<p>拼写检查及中英互译 ,收录超过200万个专业词汇，尤其是对新词的收录能力强。象生物医药领域出现的新词，或复杂的化学名均有收录，很全面，更新及时。与各家相比，算是更全面。</p>
+
+<p>优化工具</p>
+
+<p>制图工具类流程图，数学公式等，办公软件word不能满足学霸们的需求。因此，搜罗了一些小工具，希望能让作者们的文章变得更专业！</p>
+
+<p>1.Viso</p>
+
+<p>这也是微软旗下的一款信息流程软件，功能强大。只要你水平强大，基本能做出任何你想要的东西，一句话：微软出手，必是上品。优点：功能强大；缺点：普通玩家玩默认模式（不美观），资深玩家挑战自定义模式。</p>
+
+<p>2.Edraw（亿图）</p>
+
+<p>也是一款网络图绘制软件，比Viso占用内存小，但是功能同样强大，并且风格更漂亮。优点：内存虽小，功能齐全；
+缺点：收费。</p>
+
+<p>3.MathtypeMathtype</p>
+
+<p>一款公式编辑器，比 Office 自带的公式编辑器强大很多。并且在安装后可以作为office的加载项，直接在Word里编辑公式。优点：功能强大，Word内直接使用。文献生成/管理工具是Harvard格式还是APA格式？</p>
+
+<p>文献生成和管理工具</p>
+
+<p>1.GoogleScholars</p>
+
+<p>谷歌学术相信大家都不陌生啦，不知道大家有没有注意过其实Google Scholar是可以直接生成引用的。并且可以选择不同格式。所以下次就很方便啦，下载文献的时候顺带复制下就好了。缺点：局限性比较大，如果参考来自网页什么的还是没辙，而且无法统一管理。（目前谷歌的状态，你们懂哒）</p>
+
+<p>2.Neil&rsquo;s toolbox</p>
+
+<p>这是个网络版的文献生成器。操作很简单啦，大家直接登录网页，选择你的文献是来自书呢还是期刊呢还是网页呢，然后填入相关信息，文献就自动生成了。优点：过程简单，上手较快；缺点：需要手动填入较多信息。</p>
+
+<p>3.NoteExpress</p>
+
+<p>NoteExpress是国内主流的文献管理软件，其核心功能是帮助读者高效利用文献；收集并管理得到的文献数据和全文；在撰写论文、专著或报告时按照不同的格式要求，在指定位置自动添加文中引文和文末参考文献列表。同时支持word和wps两种写作软件，可查询近五年期刊影响因子。</p>
+
+<p>原文地址：<a href="http://weibo.com/p/2304186f1ece2b0102vfo3?from=page_100606_profile&amp;wvr=6&amp;mod=wenzhangmod">来源：NoteEXpress</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[学位论文写作30忌]]></title>
@@ -3335,74 +3450,6 @@ SCI论文全攻略之构思与撰文
 <p>在实验方案的设计和实验细节方面一定要多下功夫,力求用实验室最成熟的技术.对于一些自己没有做过的实验,一定要吃透原理,再下手不迟,切记盲目.有些实验若自己实验室确有困难,可以考虑合作,因为一个人不可能在短时间内把什么都做好.我的体会是,有时就需要请教专家!</p>
 
 <p>作者：往北走 来源：知乎</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Writing Tips for Academics]]></title>
-    <link href="http://secdr.github.io/2015/05/04/storytelling-101-writing-tips-for-academics/"/>
-    <updated>2015-05-04T01:00:29-07:00</updated>
-    <id>http://secdr.github.io/2015/05/04/storytelling-101-writing-tips-for-academics</id>
-    <content type="html"><![CDATA[<p>Little did I know that a Ph.D. in computer science would teach me more about how to write than any other previous experience I’d had.  Indeed, research isn’t only about making new discoveries, but also about expressing those discoveries so that other people can appreciate them and their significance.</p>
-
-<p>Below, I’ll present some thoughts on writing that I’ve picked up over the years and continually aim (and encourage students) to put into practice. I’ll focus on story-telling, presentation, and efficiency: how to write your paper so that it clearly, cleanly, and efficiently tells a good story.</p>
-
-<p>What this post is not about.  At least in this post, I won’t write about grammar—there is too much English grammar to cover in a single post, and there are plenty of good courses one can take to learn grammar.  I also won’t talk about style (common phrases) or usage (e.g., commonly misused words).  For now, my only advice on the topic of learning English grammar and style—both for native speakers and foreigners—is to read daily.  Reading the New York Times, or The Economist are great places to start: the writing is generally of high quality, and you’ll also have something interesting to talk about outside of the lab.  I have the impression that foreign students can tend towards reading their local news from home; that’s understandable, but I would encourage those students to also read periodicals and publications that are written in the style of English that people are used to reading in the Western world (indeed, English in different parts of the world has different tones, styles, idioms, and turns of phrase).</p>
-
-<!--more-->
-
-
-<h3>Why Does Writing Well Matter?</h3>
-
-<p>Writing is part and parcel of the research process.  Writing communicates your research results, and—perhaps contrary to intuition—writing well is even more important when the results that one wants to present are “strong” (after all, if the results are that great, you should want as many people as possible to benefit from understanding them).  But writing isn’t just something that happens at when the research is “done”; rather, writing should occur throughout the course of a research project.  Writing and thinking are tightly coupled—writing is a reflection of our own thoughts, and writing well can actually sometimes clarify our own thinking about a problem and lead us to a solution.</p>
-
-<p>Communicating your results. A research finding or discovery that others cannot understand or appreciate is as good as no discovery in the first place.  A well-written paper with a half-baked idea that people can understand and appreciate will often be accepted to a conference over a paper with a (possibly) stronger result that nobody can understand or appreciate.  Cynics may dismiss this as “unfair”, as “laziness” on the reviewer’s part for not reading the details thoroughly, or as “accepting a paper because it was well-written” (insinuating that the results themselves might not be that strong).  The fact of the matter is that none of this matters: Independently of the quality of the research, the results must be written well, or people will not be able to appreciate the value of your work. Writing well is perhaps one of the most important skills that budding researchers must attain; it is equally important as learning how to conduct the research.</p>
-
-<p>Clarifying your own thinking.  Writing is a reflection of your thinking.  You should never be content with vague language or imprecise descriptions.  Muddy writing often reflects muddy thinking.  An attempt to write down a concept, idea, or solution can actually help you realize that you don’t know what you are talking about!  (And, help you crystallize your thinking.)  You may have had the experience of realizing you don’t understand something as well as you thought you did when someone asks you to explain something and you have trouble.  Writing achieves the same effect: as you attempt to write something down, you may realize that you don’t know why you are working on something, why a particular phenomenon appears, and so forth.  If you don’t force yourself to try to write down your explanations and observations, you may never discover that you don’t know what you’re doing until it’s too late.  Therefore, start writing early in the course of a research project.  Most of the early text you write may not find its way into the final version of the paper, but taking the time to express your ideas on paper can help you crystallize your thoughts and guide your research.</p>
-
-<h3>Tell Me a Story</h3>
-
-<p>Every paper should tell a story.  For a given research result, there are many stories that a paper could tell, and it’s important to think about what the story should be.  This decision should be made early on in the writing process.  The story can be changed later on, to match the strongest results in the paper, or if the context for the research changes (for example, sometimes when working on a research problem, people can find it necessary to re-formulate the problem that they are solving).  But, it’s always good to figure out a story before you go too far down the path.</p>
-
-<p>Determining the Big Picture: Composition and “Flow”. Composition is the structure and flow of your paper writeup, and how individual paragraphs fit together.  When people talk about the “flow” of a piece of writing, they’re talking about composition: how sentences flow together to form paragraphs, how paragraphs flow together to form sections, and how sections flow together to form a paper.  Composition (or “flow”) is the most important aspect of technical writing.  I’ve found that reviewers (and readers) are often forgiving of the occasional grammatical error, especially if a paper was written by non-native English speakers.  The human brain is pretty good at applying “error correction” on grammar.  Correcting “flow”, on the other hand, is extremely hard for a reader to do.  Often, the reader will complain that they “can’t understand where [the paper] is going” and simply give up.  Grammar is also easier to teach (and learn) than composition because there are fixed rules for grammar; composition is more of an art form, and it does involve a bit of intuition.  It involves thinking about the big picture, the story that you want to tell, and how the pieces fit together.  It takes practice to develop intuition for composition, and I’ve found that native English speakers are not necessarily any better at composition than foreigners are (that’s good news for Ph.D. students coming from abroad: the playing field is actually more level than it appears).  Even though composition is a bit of an art form, I’ve found that the following tips can be incredibly helpful for improving flow:</p>
-
-<p>Build the scaffolding before filling in the details. Write sections and topic sentences first.  There is always the temptation to simply jump in and start writing full paragraphs.  This rarely ends well.  Nobody would build a house before first drawing plans.  After the plans comes a foundation, and scaffolding.  Only after the structure is in place can many of the details be filled in.  You should think about writing a paper in the same way: before you can fill in the details, you need to figure out how you want the paper to read when its done; this is your outline.  Start at a high level, by outlining sections.  Once you have an outline of sections, you can begin to slowly fill in more details: outline each paragraph within a section by writing only the topic sentence for the paragraph.  See whether your story makes sense if you read each topic sentence in sequence.  Your “paper” should roughly make sense if you read these topic sentences in sequence (in fact, some reviewers or readers may try to read your paper in exactly this fashion, by skimming topic sentences!).  If reading your topic sentences in sequence doesn’t make sense, something is wrong with your flow.   Determining which topic sentences to write takes a bit of practice, but I find that making a bulleted list of points that you want to include in the section and then clustering those points into related points and topics can help identify the topics you want to cover (and, hence, the topic sentences you want to write).  If you find that the topics you want to cover are not all related to one another, you may need to create additional subsections.  Once you have topic sentences, you can fill in paragraphs, which are groups of closely (and logically) related sentences.  If your sentences aren’t closely related, they don’t belong in the same paragraph and you may need to consider adding a new topic (and topic sentence).
-Assess balance and budget pages accordingly.  Once you have your outline, it’s important to budget pages, to figure out how much you plan to write about each topic.  Topics of equal importance or equal relevance should receive “balanced” coverage in the paper.  If your system has two components of relatively equal importance, then the sections covering those components should be of approximately equal length in the paper.  Once you have your outline (from the previous step), you can assess how much space you want to budget for each point.  If some points in a section are more important than others (and hence require more page budget), you can go back and think about how to re-balance your writeup (e.g., by creating a new devoted section to the topic that’s more important, shortening or eliminating the less important point, and so forth).
-Follow convention.  Continuing the analogy of a house or building, many designs follow convention: a restroom in a restaurant is often in the back.  A powder room in a house is often near the front door.  These common “design patterns” make life easier for us when we visit a new building or house.  Similarly, your reader is a visitor of your thought process.  A reader who has read (and written) many research papers will similarly expect the structure of your paper to follow certain conventions.  These conventions differ by field: some fields write papers completely in the passive voice, whereas others use active voice.  Some fields prefer related work sections at the beginning of the paper, and others prefer related work at the end.  Some fields expect an introduction that spends time framing the problem, and others expect an introduction that starts with a clear statement of the main result.  There may be an expectation of (or aversion) to mathematics in the main line of the paper.  Within a section, people may expect the introduction to flow in a particular way (in computer science, Jim Kurose’s description of how to write an intro is the best example I’ve seen for writing a conventional paper introduction).
-Signpost your paper.  Even if your paper plan and outline make perfect sense to you, the reader doesn’t start out “on the same page” as you.  Even if the builders have built a house completely according to the blueprints, even if the design of the house follows convention, visitors still typically appreciate an explanation of where the bathroom is.  The reader needs instructions for how to read the paper and a clear view for how the paper and story will proceed.  Signposts throughout the paper help the reader understand how the paper is organized.  Examples of signposts include: an outline of the paper at the end of the introduction (“The rest of this paper proceeds as follows.”), a preamble to each section (“In this section, we discuss…”), declarative subsection titles, and (within reason) bold paragraph headings (such as those in this blog post).
-Make a Good Impression
-A reader forms an impression about your research based on your presentation of the work.  Just as people quickly form first impressions about other people that may be difficult to subsequently correct, your reader will quickly form a first impression of your work based on a quick read of the title, abstract, and introduction and perhaps a quick skim through other parts of the paper.  Therefore, it is important to make a good impression by writing a clear abstract and introduction (and also ensuring that the rest of the paper also is commensurate with the impression that you create).</p>
-
-<p>Spend a lot of time on your introduction; start early.  The introduction summarizes the story of your paper (now, it should be doubly clear why you need a story!) and is the most important part of your paper.  Many people won’t read past the introduction, even if they find the work interesting.  Yet, if people don’t understand your “story” (the problem you’re solving, its importance, and your approach to solving it), they will never make it past the introduction into the details of the paper.  There are two schools of thought for writing the introduction: if you write it first, you ensure that you have a clear story.  If you write it last, then your introduction will clearly reflect the ultimate story and be bolstered by your results.  My advice is to do both.  Writing the introduction is probably the most difficult part of writing the paper, which may come as a surprise to new students.  After all, the introduction is high-level and often doesn’t reflect the nitty gritty details of how difficult that experiment was to run, and how much toil went into writing the system.  To the contrary, distilling your work from those details so that the rest of the world can digest the takeaways—stepping out of the weeds and trying to figure out why your work matters—can take more effort than anything.  The same results can be presented in many different ways, so you will likely need to perform many iterations on your story.  Typically, you can “test” your story out on other colleagues and readers with a draft introduction in parallel with completing the rest of your work.</p>
-
-<p>Write the introduction first—and last. I typically try (and encourage students) to write a draft of the paper’s introduction before writing other parts of the paper.  You will most likely eventually discard this draft completely, since it’s very hard to predict what one should be emphasizing in the introduction before the “meat” of the paper is done.  Yet, writing an early introduction draft allows a researcher to put the work in context, and to argue (1) what the problem is, (2) why it is hard, and (3) why the solution (if it is achieved) will be interesting to readers.  If an introduction draft can’t articulate answers to these questions, even at an early stage in the research, then the work likely needs some focus, as well.  When you write the second version of your introduction (after the rest of the paper is written), you are in a good position to refine your story, making sure that any claims you make are clearly supported by your results and data.  Your results should be stated as clearly and specifically as possible.  You should neither understate your results (which might cause the reader to lose interest and stop reading) or overstate them (which might cause the reader to be annoyed or “let down” when they dig in and find that you don’t deliver on what you’ve promised).</p>
-
-<p>Perform some “landscaping” on your paper.  Your paper should be pleasing to the eye.  Care in preparation of the paper suggests that you also cared about the research itself.   Conversely, if the preparation of the paper is sloppy, how can the reader trust that you were not similarly sloppy in writing code, setting up and running your experiments, and analyzing your results?  Therefore, take some time to make your paper look nice. Here are a few quick tips on “landscaping” your paper.</p>
-
-<p>Eliminate widows.  Section headings at the bottoms of columns or pages look sloppy.  Depending on your word-processing tool, there are good ways to get rid of widows.  In Latex, you can always use a “\vfill” to kick the section heading to the top of the next column.  Similarly, widows on paragraphs (paragraphs that end with a single word on the last line) look sloppy.  Typically you can eliminate such widows by wordsmithing (see below on omitting needless words).  Latex also has macros such as “\widowpenalty” that help ensure that the text layout avoids widows whenever possible.
-Place (and create) signposts, figures, and graphs to create whitespace and avoid “walls of text”.  Reading long installments of technical writing is tiring, and seeing a page of uninterrupted technical writing can psychologically tire the reader before they even begin to read.  Create whitespace and take other steps to break up large chunks of text.  Use paragraph headings to break up long strings of text (ensuring that your headings match the topics you’ve outlined, of course).  Try to space figures, tables, and graphs throughout the paper so that most pages have a mix of figures and text.  If you don’t have a figure to break up the text, consider making one.  Often, a table summarizing results can be useful.  Or, you might find that a figure (or block of pseudocode) describes a concept better than a paragraph in your writeup.  Take steps to ensure that your writeup is not a long stream of text.
-Check your spelling.  Run a spell checker.  Every word-processing tool has one, and a writeup that is rife with spelling errors reflects carelessness.  Again, if you can’t be bothered to check your spelling, why should a reader trust that you spent time debugging your experiment or code?  While a reader can forgive grammatical errors, especially when the writeup comes from a non-native English speaker, anyone can run a spell checker, so spelling errors simply reflect carelessness.  That said, not all spell-checkers are perfect, and sometimes typographical errors actually manifest as real words; spell checkers won’t catch those, so they should be used only as a first pass.
-Make the last page look decent.  If you’ve edited your text down to remove redundancy, you may find that you have some extra space at the end of your paper.  Try to adjust your formatting so that the last page of the paper looks decent.  If your paper is double-column and you end with references, balance the references across the two columns so that both columns are both equally (partially) filled.  Latex has a “\balance” command that you can use to balance the columns on the last page of your writeup.  If you have a bit more time, you can also make small adjustments to margins, space between columns, space around figures, sizes of figures, and so forth to ensure that the last page doesn’t look like you just suddenly decided to stop writing.
-Be Efficient
-“I’m sorry I have had to write you such a long letter, but I did not have time to write you a short one.” –Blaise Pascal</p>
-
-<p>After you’ve made a good impression, you still need to engage the reader at least long enough to convey your main message.  You should assume that the reader is busy, has a short attention span, and (unlike the situation when they are, say, reading a news article or novel) simply wants to learn what you’ve done as quickly as possible and then move on.  In contrast to writing a novel, your goal is not to hold the reader in suspense or to illustrate your command of vocabulary or literary construction.  Rather, the goal is to transfer information as efficiently as possible.</p>
-
-<p>Tailor the length of your paper to the information content.  People sometimes feel compelled to stuff a paper to the conference’s or journal’s page limit (after all, if the paper is too short, isn’t there “more work to do”?).  I’ve had a few papers that do fall short of the page limit, although I’ve found that this scenario is the exception rather than the rule (see Blaise Pascal: it takes time to shorten a paper!).   Remember that your goal is to efficiently transfer information. Therefore, economize on words.  Do not add unnecessary sentences, paragraphs, or other content that do not support a topic or point that you’ve explicitly outlined.</p>
-
-<p>Keep words simple and sentences short. The easier it is to read your paper, the more likely a reader will keep reading.  Therefore, don’t make the reader work harder than they have to.  On a sentence level, follow Strunk and White’s most indispensable advice: Omit needless words (e.g., “to” as opposed to “in order to”, “optimizing” instead of “the problem of optimizing”, “This module…” instead of “This is a module that”, “more quickly” instead of “in a shorter time”, “whether” instead of “the question as to whether”).   Avoid padding phrases such as “the fact that” and unnecessary adverbs (e.g., “eliminated” instead of “totally eliminated”, “fast” instead of “very fast”).  Keep words simple (e.g., “use” instead of “utilize”, “new” instead of “novel”), and keep sentences short.</p>
-
-<p>Eliminate redundancy.  Always make at least one (and probably several) editing passes over your paper to cut out redundancy.  You likely (and hopefully) did not write your paper in a linear fashion, and different co-authors may have written different sections or pieces of the paper.  It’s likely that you’ve stated the same point multiple times throughout the paper.  Cutting redundancy takes practice, and it sometimes requires divorcing the editing process from your ego (after all, isn’t that sentence you wrote beautiful?  It’d be a shame to cut it, right?).  If you need help cutting, ask someone else (a co-author or colleague) to help you—they’re not as married to your text as you are.</p>
-
-<p>Be as specific and precise as you can.  Precision is especially important when describing results, and when writing up an experiment or evaluation section.  For example, a good rule of thumb for writing up an evaluation section is:  Would someone be able to reproduce your experiment from your description?  If not, you need to be more clear.  In an evaluation section, clearly state your assumptions; in what context(s) do your results hold?  How general are they?  Clearly describe your evaluation setup, as it sets the context for the results themselves.  What machines did you use to run the evaluation?  What data did you gather to support your conclusions?  What algorithms did you use to analyze the data?  The evaluation setup should read like a recipe.  Someone reading it should be able to reproduce what you’ve done, at least well enough to understand the context of the results.  Similarly, the results should be clearly and precisely described.  Avoid writing sentences such as “This optimization significantly reduced the system’s running time.”  Such vague statements frustrate the reader.  Instead, substitute precise and specific information: “This optimization reduced the system’s running time by 20%”.</p>
-
-<p>Use clear and consistent terminology.  Unclear, vague, and inconsistent terminology is incredibly frustrating and also typically reflects muddy thinking.  If you call something a “node” in one part of your paper, a “host” in another part of the paper, a “client” in another part, and a “machine” in yet another part, people will have absolutely no clue that all of these terms are in fact referring to the same thing.  Before you get too far along in the writing process, clearly define your lexicon.  Defining your terms up front can help clarify your own thinking, by helping you to identify and articulate the important concepts that you will present.  Ultimately, this clarity will be reflected in your writeup.</p>
-
-<h3>Reduction to Practice: Write Every Day</h3>
-
-<p>Writing a technical paper involves clearly presenting a good story, as efficiently as possible.  The above tips should help you compose your story and ensure that it “flows” and ultimately produce a final result that leaves a good impression and communicates your results as efficiently as possible.  But, simply reading this post won’t make you a good writer: putting these tips into practice takes tireless repetition.  Try writing something every day to practice these tips.  Keep a “running draft” of your research paper.  Start a blog and practice composing posts that present shorter and simpler ideas and thoughts than a full research paper.  Keep a diary or notebook.  Ultimately, becoming a good writer requires relentless, daily practice, with continual attention to the above tips.</p>
-
-<p>original url:<a href="http://greatresearch.org/2013/10/11/storytelling-101-writing-tips-for-academics/">Storytelling 101: Writing Tips for Academics</a></p>
 ]]></content>
   </entry>
   
