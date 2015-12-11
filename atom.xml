@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-12-11T11:32:28-08:00</updated>
+  <updated>2015-12-11T15:06:43-08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -12,6 +12,550 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[英语论文的一些忠告]]></title>
+    <link href="http://secdr.github.io/2015/12/11/ying-yu-lun-wen-de-xie-zhong-gao/"/>
+    <updated>2015-12-11T14:46:29-08:00</updated>
+    <id>http://secdr.github.io/2015/12/11/ying-yu-lun-wen-de-xie-zhong-gao</id>
+    <content type="html"><![CDATA[<h3>一、论文标题</h3>
+
+<ol>
+<li>标题不是句子，不要求主、谓、宾齐全，但应注意用词前后次序和用词简练，重点明确。</li>
+<li>标题中尽量避免“study on”，“research on”，“investigation of”之类没有多少实际意义的词组，尤其是在题目较长的情况下。</li>
+<li>标题中不要用缩略语、化学式和专利商标名（在某技术领域内大家熟知的缩写除外）。</li>
+<li>标题不要太长，第一个词和实词的首字母要大写（其他如the、a、an、and和所有介词都小写）。</li>
+</ol>
+
+
+<h3>二、摘要写作注意事项</h3>
+
+<ol>
+<li>摘要基本内容为论文的研究目的（purpose），主要研究过程（procedure），采用的方法（methods）以及主要结论（conclusion）。</li>
+<li>摘要应突出文章的创新和独到之处（what is new and original in this paper？）。</li>
+<li>摘要要使用正规英语和标准术语，避免使用缩写词（除非是大家熟知的如CAD、CAM、IT等）。</li>
+<li>摘要尽可能使用短语，用被动语态，用第三人称。描述作者以往的科研工作可用过去时或现在完成时，但结论用一般现在时。</li>
+</ol>
+
+
+<!--more-->
+
+
+<h3>三、科技论文、项目文件、协议汉译英常用时态</h3>
+
+<ol>
+<li>在论文、项目文件和协议等文件中，提及以前所做的研究工作，而且有具体时间或时间状语时，用过去时或过去完成时。</li>
+<li>论文中实验叙述可用一般过去时。</li>
+<li>论文中的讨论和结论叙述可用一般现在时。</li>
+<li>论文中的讨论和结论叙述可用一般现在时。</li>
+<li>一般真理、定理、公式用一般现在时。</li>
+<li>计划要做的工作、项目活动及预期要达到的目标用一般将来时。</li>
+</ol>
+
+
+<h3>四、英文论文写作应注意的事项</h3>
+
+<ol>
+<li>不能在毫无把握的情况下想当然造字，专业词汇一定要准确，应以英美学者写的原文为参考标准（中国学者写的不足为据！）。</li>
+<li>走出受制于金山词霸。中英文单词的最大区别是具体的中文词（语）只存在一种写法，而译成英文时要根据其确切含义选择最恰当的英文单词（或词组）。比方“潇洒”一词，如果翻英文词典可能又多个词，究竟选哪个呢？（handsome、open-minded、smart、elegant、graceful、natural and unrestrained、noble、cool、in a relaxed state of mind、debonair（轻松愉快）、dashing、vigorous（朝气蓬勃）。</li>
+<li>尽量不连用三个以上的of（可用所属格或从句表示）。</li>
+<li>不用含糊不清的句子，比方某句中的it看不出代表前面哪个词或句子，这在同学们写的论文中屡见不鲜。</li>
+<li>单复数主语应有对应的谓语动词形式，这种类型的错误时常可见，比方data是复数，（单数形式是datum，注意！它又是加工、测量基准的意思。）谓语动词要用复数形式。而games（大型运动会）、proceeding（论文集）、news、United States、United Nations、airlines（航空公司）、headquarters（总部）。看起来是复数，实际上是单数名词。</li>
+<li>论文中不能用过分肯定夸张的句子或词汇（如perfect、best、most desirable、most ideal、create…for the first time、lay a foundation for…等）。而应采用would、should、will、surely、certainly、probably、perhaps和provide a technological support for、supply a basis for、conduct a basic research on、carry out a preliminary exploration in、make a preparation work for等婉语。</li>
+<li><p>要用多个同义词（synonym）代替某个词，不要老是重复用一个词，显得文章乏味。</p></li>
+<li><p>做、开展、进行、从事 do、make、carry out、perform、conduct(research、study、experiment、survey、investigation…)</p></li>
+<li>制造、制作 make、fabricate、build、manufacture、construct…</li>
+<li>改变、改换、修改、重建、重组 convert、transform、charge、modify、adapt、alter、reform、correct、reconstruct、rebuild、reconfigure、reorganize…</li>
+<li>建议、提出 advise、recommend、suggest、propose、introduce、put forward、present、develop…</li>
+<li>建立 establish、set up、form、construct、formulate、build…</li>
+<li>给、提供 give、offer、provide、supply、furnish</li>
+<li>改善、改进 improve、enhance、raise、better</li>
+<li>开发、利用 develop、exploit、take advantage of、make use of、employ、tap、open up…</li>
+<li>验证、证明 verify、prove、check、test、identify、justify、affirm、confirm…</li>
+<li>由…组成：constitute（department A ，department B constitute the School of Mechanical Engineering；the School of Mechanical Engineering（is composed of、consists of、comprises、is comprised of department A ，department B）注意区别：整体（be composed of、consist of、comprise、be comprised of）分部，而分部（constitute）整体。</li>
+</ol>
+
+
+<p>注意科技文章中一些常用词意上的差别</p>
+
+<ol>
+<li><p>manufacture一般指工业上批量的、成熟的有一定规模的制造，而fabricate一般指具有技巧性的，手工方式制造，而且一般是小批量的甚至是单独制作。make是泛指的做和制造。</p></li>
+<li><p>transform指根本的转换、变换、改造（常跟into）。convert只指物理形式的变换（比方数模转换），transfer和transmit指传递、传送、发射等（比方heat transfer传热学，data transmission数据传输，power transmission功率传递，TV transmission power电视发射塔，hydraulic transmission液压传动），特别要注意：技术改造是technological transformation，但技术转让却是technology transfer，还有transformation matrix转换矩阵等。communication指信息交流、通讯、联络，transport指交通运输。transit是转运、转口、过渡（phase transition相变，during the transition of the centuries世纪之交，trans-century talent跨世纪人才）。</p></li>
+<li><p>Management：企业管理enterprise management、项目管理project management、工商管理business administration、公共管理public administration、数据管理data administration、管理操作员administrative operator</p></li>
+<li><p>tool工具，cutter刀具，tooling（无复数形式）工装、模具，device小装置，equipment（无复数形式）设备，instrument仪器、仪表、乐器，（注意，instrument还有手段、方法、证书等意思）installation成套装置设备，apparatus电器、机电设备，appliance家用（电）器具，utensil器皿、厨具，facility（常用复数facilities）设施、设备、工具、机构（例如：sport facilities体育器材、设施），utility公共事业设备（水、电、煤气等），implement工具、器械（农具）。</p></li>
+<li><p>element、part零件，component组件、元件、组分、分量（imaginary component虚部，pressure component分压力，structural component结构件），subassembly组合件、机组、分组成、分步装配，assembly总装、装配，machine机器，machine tool机床，machinery机械（总称）。</p></li>
+<li><p>trouble麻烦，defect故障缺陷，glitch小毛病，fault人为错误，error计算、测试错误、误差，breakdown故障停机（stoppage diagnosis或fault diagnosis故障诊断），flaw瑕疵、缺陷，mistake理解不当造成的错误，blunder犯大错、失策。（平常只能说：Sorry， it’s my fault or it’s my mistake.）</p></li>
+<li><p>accuracy精度（machining accuracy加工精度，positioning accuracy定位精度，positional accuracy位置精度，measuring accuracy测量精度，precision精密（precision instrument精密仪器，precision machining精密加工，precision mold精密模具）。</p></li>
+<li><p>intensity指强化的程度、力度（比方加大投资力度－to increase the investment intensity，提高训练强度－to strengthen the training intensity），strength指材料受力后能承受而不被破坏的能力，指力学强度（如疲劳强度－fatigue strength，极限强度－ultimate strength等），另外一个特殊用法是strengthen，有时也可做优势、实力用。比方on the strength of…凭借…方面的实力。</p></li>
+<li><p>conference正式的会议、讨论会、学术会议、协商会（CPPCC中国人民政府协商会议）；convention全国性大会、公约、协定（the Geneva Convention日内瓦公约）；congress全国代表大会、美国国会；council政务会、理事会、委员会。如国务院（中）state council，联合国安理会the U.N. Security Council；assembly集会、议会，如：联合国大会General Assembly；meeting一般会议；session某一届会议，如：全会plenary session；parliament 某些国家的国会或议会的名称，尤指英联邦一些国家的议会；seminar、workshop指规模较小的学术研究会；forum是论坛；conference是正式的大型学术会议，常规表达方式是：International Conference on…</p></li>
+<li><p>verify证明、验证，validate使生效、合法、批准，justify认为…合理、划算、为…辩护，confirm确认。</p></li>
+<li><p>prove证明，approve批准。</p></li>
+<li><p>base基地、机座（experimental base实验基地，incubation base孵化基地），basis（抽象的基础，on the basis of…在…基础上），basic（al）基本的。</p></li>
+<li><p>big、large、great、huge、enormous、giant、titanic、tremendous、vast、massive、substantial、immense、grand的用法区别：big用于形容重量、质量、体积（主要形容外形）。This child is big for his age. Large可用于形容重量、体积、数量、容量（只能描述物理尺寸、体积，不能描述抽象事物，而big有时可以描述抽象事物，有重大、严重之意，如big fire、big difficulty等）。</p>
+
+<p>常见用法举例：</p>
+
+<ul>
+<li>可以说big boy（一个大个子男孩）但不能讲large boy。而small boy和little boy都对（但前者强盗个头，后者既包括个头又包括年纪小）。</li>
+<li>可以讲large deformation（大变形），large number（大数字）this city has a large population（这个城市人口众多）。但不能说big number、big deformation和big population。</li>
+<li>讲大人物可以用big potato或great man或VIP（very important person）。great用于形容重物理量大或抽象的大（伟大、巨大）。The great western development西部大开发。</li>
+<li>giant指体积和力量的巨大（比方巨人）。The reactor is contained in a giant pressure vessel. giant panda大熊猫，giant brain大型计算机。</li>
+<li>titanic力大无比的（从希腊神话中的巨人Tian而来）。</li>
+<li>tremendous指规模、体积、程度大得惊人。They have made tremendous achievements in their work.</li>
+<li>vast一般用于形容范围、区域、视野的广阔，a vast expanse of desert。有时也可形容巨额和大量，如a vast sum of money，vast difference。</li>
+<li>massive用于形容大块、笨重，也可形容大量。massive structure块状结构，massive destructive weapons大规模杀伤性武器，massive dump大量（信息/存储），massive resonance大质量共振。但大量生产、大规模生产、大规模销售只能说mass production、large-scale production、mass marketing等。</li>
+<li>substantial用于形容抽象的、无法具体描述的多和大量意思。The improvement of the light</li>
+<li>grand指宏伟庄严The National Grand Theater国家大剧院，grand stand大看台grand champion冠军grand piano大三角钢琴。</li>
+</ul>
+
+
+<p>下面是常用的与“大”有关的词组：</p>
+
+<ul>
+<li>大量：a lot of，a large quantity of，a large amount（wealth） of；大规模：large scale，mass，massive；大幅度：a large extent，substantial；大批订货：（an） extensive order；大量资料：a wealth of data，a great mass of data；大用户：large user，bulk user；大宗买卖：bulk sale；大数：large number，great number；大小（尺寸）：size；大小（幅度）：magnitude；大雨：heavy rain；大雪：heavy snowfall；大（厚）截面：heavy section；大火：big fire；大分子：giant molecule；大系统：large system；大型铸（锻）件：heavy casting（forging）；大科学：big science；大电流：heavy current；大功率：high power；大容量（信息）：mass storage；大容量（物质）：high volume；大螺距：high pitch；大量服务：bulk service；大量交货：bulk delivery</li>
+</ul>
+
+
+<p>几个常用的“最大”的表达方式：</p>
+
+<ul>
+<li>最大诚意：utmost sincerity；最大份额：lion’s share；最大鼓舞：great encouragement；最大速度：top speed；最大牺牲：ultimate sacrifice；最大幸福：supreme happiness；最大障碍：biggest obstacle</li>
+</ul>
+</li>
+<li><p>state政府、行政意义上的国家（the state key laboratory国家重点实验室，the State Ministry of Education国家教育部）country地理概念上的国家（the whole country全国）nation民族（improve the bilateral relationship of the two nations改善两国的双边关系）national全国的（the National People’s Congress全国人民代表大会，National Day国庆日，National defence国防，National Laboratory of…国家实验室 need（人类）自然需要，急需（注，need除了做实义动词外还可做助动词，you need not to care me any more！demand（for）市场、物质需求（to meet the market demand）。requirement（s）对…提出的要求，request祈求、强烈请求、恳求（make a request for，on request如索求则…），solicit（只有动词）恳求、祈求、要求、征求，后跟for或to＋inf例：solicit assistance请求支援，solicit for subscription征求订户。</p></li>
+<li><p>change改变、改动，modify修改（设计），correct改错、改正，revise修订、修改（文件、著作、合同等），adapt改编（将文学作品由一种形式改写或另一种形式）。</p></li>
+<li><p>平衡（balance、equilibrium），转子动平衡rotor’s dynamic balance，某种过程达到动平衡dynamic equilibrium，化学平衡chemical equilibrium，生态平衡ecological balance，双方之间的势力均衡power balance between two sides。</p></li>
+<li><p>遗产、传统heritage、legacy，historical legacy历史遗产，cultural heritage文化遗产，继承inherit（inheritance），继承人inheritor，遗产税inheritance tax，遗传的（生）genetic，遗传学genetics，遗传工程（密码、基因、算法）genetic engineering（code、genome、algorithmic）。</p></li>
+<li><p>relation指人际、国际、贸易关系，而科学研究、实验中的各影响因素之间的关系都用relationship（between、among）。related to与…有关的，relevant to与…相关的，relative to相对…而言，correlative有相关性的（数据关系），coherent相干的、凝聚的，coherent effect相干效应，coherent light相干光，coherent imaging相干成像。</p></li>
+<li><p>关于不同形式的同一个词（名词、形容词、动名词等）用法区别</p>
+
+<p>举例如下：</p>
+
+<ul>
+<li>高等院校higher educational institutions，而高教出版社却是higher education press</li>
+<li>实验结果experimental results，实验基地experimental base（实验一词做定语时通通用形容词形式）</li>
+<li>系统工程system engineering，系统管理system management，系统误差</li>
+<li>技术改造technological transformation，技术转让technology transfer</li>
+<li>国家技术进步奖State Award for Scientific and Technological Progress，国家自然科学奖State</li>
+<li>一些用法上很难区分的词：experiment实验，experimental一套实验、实验方法、整个实验安排和布置，document文件，documentation文档、文档生成、处理等，instrument一台仪器设备，instrumentation测试装置、测试技术、整套测试工作的安排布置，circuit电路，circuiting一套装置中全部电路总称（如同poem诗歌和poeting诗歌集的区别），technology泛指的广义的技术、技巧和工艺，technique具体技术手段、工艺，forming：与die有关的锻造成型加工，shaping ：与mold有关的铸造、注塑成型加工</li>
+</ul>
+</li>
+<li><p>complete、accomplish和finish的用法区别：complete用于完成某个项目、工程（project、engineering）；accomplish用于完成某项目标、指标（goal、index）；finish则用来完成作业（homework）、学业（finish with school）、论文（thesis、dissertation）等。另外，complete还是形容词，表示完整、成套的…</p></li>
+<li><p>关于subject的用法：</p>
+
+<ul>
+<li>Subject做名词：主语、科目（required subject 必修课）、学科、主题、研究对象。</li>
+<li>Subject做形容词：从属的、受支配的、以…为条件的、be subject to以…为条件的，受…约束的</li>
+<li>Subject做动词：使…受…作用或约束，Subject M… to …N迫使M受N作用（影响约束等）故subject又常用be subjected to的形式。</li>
+</ul>
+</li>
+<li><p>关于地域、地区几个同义词的用法区别：</p>
+
+<ol>
+<li>自治区autonomous region</li>
+<li>碑林区 Beilin district</li>
+<li>华北区North China Area西北区Northwest China Area</li>
+<li>汉中地区Hanzhong prefecture</li>
+<li>经济特区SEZ（special economic zone）</li>
+<li>地方经济regional economy</li>
+<li>地方政府local government</li>
+<li>局部战争local war</li>
+<li>局域网local area network</li>
+</ol>
+</li>
+<li><p>关于首字母缩略词（acronym）使用注意事项：</p>
+
+<ol>
+<li>缩略词的首字母如果是：A、E、F、H、I、L、M、N、O、R、S、X则前面的不定冠词用an（因为这12个字母发元音）。</li>
+<li>缩略词复数在后面加s或es要根据最后一个字母确定，而且字要小一号，例如：ICs、FMSes
+26）校园常用词汇：</li>
+<li>必修课required（compulsory） course</li>
+<li>选修课elective（optional）course</li>
+<li>辅修课minor course</li>
+<li>基础课basic course</li>
+<li>专业课specialized course</li>
+<li>成绩单school report、academic record</li>
+<li>考试成绩exam scores</li>
+<li>排名次序ranking position</li>
+<li>学籍卡registration record card</li>
+<li>硕士学位master’s degree</li>
+<li>博士学位doctoral degree</li>
+<li>博士后流动站post -doctoral mobile research station</li>
+<li>毕业论文thesis（本科和硕士生）、dissertation（博士生）</li>
+<li>毕业答辩oral defense for one’s thesis（dissertation）</li>
+<li>毕业实习graduation field work</li>
+<li>毕业设计graduation project</li>
+<li>课程设计curricular project</li>
+<li>应届毕业生this year’s graduates</li>
+<li>毕业证diploma、graduation certificate</li>
+<li>授予学位confer a … degree on sb</li>
+<li>博导doctoral advisor</li>
+<li>奖学金scholarship、助学金stipend</li>
+<li>高等院校higher educational institutions、institutions of higher education</li>
+<li>理工科大学university of science &amp; engineering</li>
+<li>重点高校：key（major、leading、banner） university</li>
+<li>大专junior college、大专文凭associate degree</li>
+<li>中专secondary specialized school、polytechnic school</li>
+<li>职校vocational（training） school</li>
+<li>技工学校technical school</li>
+</ol>
+</li>
+<li><p>论文中人称问题：科技论文在人称代词的使用上有两种主张，一种是传统式的主张，认为科技论文侧重叙事和推理，读者重视的是论文的内容和观点，感兴趣</p></li>
+<li><p>正式论文不能用省略形式的词，如let’s、haven’t等。</p></li>
+<li><p>书面文章不要用生僻的怪字或俚语。</p></li>
+<li><p>为使文章更流畅、通顺，应注意结构词的使用。在一篇科技论文中，普通词和结构词可占90%以上，而专业词汇不过只占5%左右。现将常用的结构词列举如下：</p>
+
+<ol>
+<li>增加、继续扩展：additionally、in addition、as well as、besides、furthermore、moreover、equally important、on the second thought、subs equently</li>
+<li>比较：after all、alternately、a similar analysis shows、however、in comparison with、in contrast、 nevertheless、on the contrary、on the other hand、otherwise、whereas、yet…</li>
+<li>详述：as an example、for instance、such as、in general、objectively speaking、generally speaking、namely、that is to say…</li>
+<li>概括：in essence、in other words、in short、in summary、to sum up、let us review the steps in the preceding chapter（above-mentioned procedure）、several remarks need to be made at this point、as mentioned above 、all in all…</li>
+<li>目的：for this purpose、for this reason、in order to、with this goal…</li>
+<li>结果：as a result、accordingly、consequently、hence、in view of these considerations、so far、the forging discussion illustrates、therefore、in spite of…</li>
+<li>赞同：certainly、obviously、fortunately、hopefully、in fact、of course、undeniably、without any question…</li>
+<li>时间：a little later、as will be seen、at present、at this point、finally、immediately、meanwhile、at the same time、presently、recently、ultimately。</li>
+</ol>
+</li>
+</ol>
+
+
+<h3>第二讲 科技论文中动词的时态和语态特点</h3>
+
+<p>英语科技文章中动词常用的时态种类较少，经常使用被动语态，现分别介绍如下：</p>
+
+<p>一、时态</p>
+
+<p>英语动词共16种时态，其中最常用的只有5种，即一般现在时、一般过去时、现在完成时、一般将来时、现在进行时。科技文章中一般现在时、一般将来时和现在完成时比另外两种更常用些：</p>
+
+<ol>
+<li>一般现在时</li>
+</ol>
+
+
+<p>一般现在时是科技文章中最常见的时态，主要有三种用法。</p>
+
+<ol type="a">
+<li>叙述一般过程</li>
+</ol>
+
+
+<p>A scientist observes carefully applies logical thought to his observations and tries to find relationships in data.</p>
+
+<ol type="a">
+<li>叙述客观事实或科学定理</li>
+</ol>
+
+
+<p>Sound travels through the air in waves.
+Work is equal to the product of force and the distance through which the force moves.</p>
+
+<p>C.通常或习惯发生的行为</p>
+
+<p>Alternating current is usually supplied to people’s house at 50 cycles per second.</p>
+
+<ol>
+<li>一般将来时</li>
+</ol>
+
+
+<p>表示将来发生的行为或情况。</p>
+
+<p>Electronic products will become more and more miniaturized because of the increase of inter.</p>
+
+<p>During the part few years，several countries have pooled（开发利用） their resources in order to carry out certain scientific investigation more efficiently.</p>
+
+<p>The September 11 terrorist attacks have caused great compact on the global economy.</p>
+
+<p>二、被动语态</p>
+
+<p>在科技文章中被动语态用得十分频繁，这主要有两个原因：第一是谁来执行这些行为和过程并不重要；第二是行为或过程的主体或者没有必要指出，或者根本指不出来。由于摘要语言简明直接，故摘要中大量使用被动语态。</p>
+
+<p>三种句型：</p>
+
+<ul>
+<li>1：主语＋修饰语＋被修饰语</li>
+<li>2：主语＋被动语态＋修饰语</li>
+<li>3：主语（＋修饰语）＋被动语态＋补足成分</li>
+</ul>
+
+
+<p>例1：A triangulation technique consisting of participant observation 、interviews and questions was used to collect data from 100 engineers and twenty project managers over a two year period.</p>
+
+<p>例2：The technical and economic aspects of the problem involved are examined in detail，emphasizing the comparison among different possible alternative solutions. （各种可供选择的解决方案）</p>
+
+<p>在科技文章中有带by的短语或句子，但数量不是很多，而且这种带by的短语或句子常常不是指行为的主体，而是行为或过程的方式或工具。</p>
+
+<ol>
+<li>The insulating substance was severely damaged by the sea water.</li>
+<li>The phenomenon was recognized many years ago and put into use in various applications although it was then poorly understood.</li>
+<li>The spectrum of the antibiotic substance could be determined by testing its effectiveness against various types of bacteria.</li>
+<li>Most of the drags in current use were discovered by accident or trial and error.</li>
+</ol>
+
+
+<p>使用被动语态的另一个原因是用于向后扩展句子，不至于显得头重脚轻。</p>
+
+<p>例：In the digital computer the number to be manipulated are represented by sequences of digits which are first recorded in suitable code ，then converted into positive and negative electrical impulses.</p>
+
+<p>第三讲 名词化和动词非限定形式</p>
+
+<p>light scans――the scanning of the light</p>
+
+<p>to apply force――the application of force</p>
+
+<p>to translate Chinese into English――the translation of Chinese into English</p>
+
+<p>例如，名词化既是句子的简化手段，又是句子复杂化的手段。</p>
+
+<ol>
+<li><p>Conversion of the energy of a mountain stream into the powerful torque of an electric motor a hundred miles away.</p></li>
+<li><p>The General Secretary has prepared a five year survey program which is designed contribution to the development of natural resources by indicating economic and technologically advanced approaches to the exploration and assessment of these resources.</p></li>
+</ol>
+
+
+<p>动词非限定形式：</p>
+
+<ol>
+<li>动词不定式</li>
+</ol>
+
+
+<p>动词不定式在句子中可作主语、表语、宾语、定语和状语。</p>
+
+<ol>
+<li><p>Although it（形式主语） is  difficult （for scientists to know）（to deal with such a large subject 实际主语），the first step is perhaps to consider the main economic difficulties（表语）an underdeveloped on emerging region has to face.</p></li>
+<li><p>The refusal to be disturbed or disorganized（干扰和搅乱）by unexpected or apparently adverse occurrences（意外事件），put on the contrary，to be stimulated （激励）by them（定语），has in fact been a marked characteristic of successful investigators.</p></li>
+<li><p>Industry everywhere forced rising labor costs and more complex processes， both arising from the determination of human being to achieve a better stand and of living.</p></li>
+<li><p>分词</p></li>
+</ol>
+
+
+<p>作定语、状语、补足语。分词短语起定语从句或状语从句作用，并且和它们交替使用。句子不至于显得单调。</p>
+
+<ol>
+<li>Thus we may be faced with a society having two basic groups in industrial organization ：one consisting of those who carry out the decision of this organizing group.</li>
+<li>It is not easy ，for example ，to explain the processes involved in a computerized control system if the basic algebraic symbols are without meaning.</li>
+<li>Confronted with the many problems presented by，let us say，an active volcano， we many ask：How does volcano work and how is the heart generated？When did volcano first begin to erupt and when is if likely to erupt again？</li>
+</ol>
+
+
+<p>英语科技文章中有时还用独立分词结构，它有两种结构形式：</p>
+
+<p>Optimal design 优化设计</p>
+
+<p>Digital manufacturing 数字制造</p>
+
+<p>（a）分词有自己的逻辑主语，它和句子的主语不一样
+The engineering solution is the optimum solution，the most desirable end result taking into account many factors.</p>
+
+<p>（b）介词＋宾语＋宾补</p>
+
+<p>The volunteers would come into a room where there was a row of five calicles with their doors shut.</p>
+
+<p>动名词：</p>
+
+<p>可作主语、定语、表语、宾语，也可以有自己的宾语和。在科技英语中动名词和动名词短语还可作介词和的宾语。</p>
+
+<ol>
+<li>The technique of making the computer carry out a particular task is known as programming ，which involves first breaking the calculation down into a sequence of arithmetic operations and then preparing a series of instructions which cause the discreet computers to carry out the required operations on the stored information in the current order.</li>
+</ol>
+
+
+<p>Operation on＋对象/with＋手段</p>
+
+<p>多重复合句：</p>
+
+<p>This instrument works on the principle that each individual substance emits a characteristic spectrum of light when its molecules are caused to vibrate by the application of the heat ，electricity ，etc. and after studying the spectrum he had obtained on this occasion，Hilebrend  reported the gas to be nitrogen.</p>
+
+<p>When we look into the matter carefully，we will find that the world we live in presents an endless variety of fascinating problems which excite our wonder and curiosity.</p>
+
+<p>语法分析：找谓语－后找主语；找连接词。</p>
+
+<p>The point I am anxious to make is that the research for models of this kind，the study of their behavior and the relationship of this behavior with the real situations which they seek to represent and the consequential modification of them so as to lead to reliable prediction and then to decision－making would not be possible if there were no assistance afforded to the investigator by the digital computer and by the work of the technologists who it（works） is founded into stable ，reliable and economical pieces of electrical equipment.</p>
+
+<p>该句的主语就是：我很想说明的一点就是……</p>
+
+<p>部门：sector</p>
+
+<p>It also means that governments are increasing compelled to interfere in these sections in order to set up production and ensure that it utilized to the best advantage：for example，They may alter the structure of education ，or interface in order to reduce the consumption of natural resources or tap resources hither to unexploited；or they may cooperate directly in the growing number of international the international Atomic Energy Agency，the European</p>
+
+<p>Including…后不加and so on</p>
+
+<p>Such as 后加and so on</p>
+
+<p>Industry产业，狭义：工业</p>
+
+<p>Interactive交互式（上课）</p>
+
+<p>四、关于科技论文摘要的语言特点</p>
+
+<p>以下几种行文格式可参考：</p>
+
+<p>（1）The author（or writer）of this article（paper、dissertation、thesis）reviews（discusses、tries to describe、explores、deal with、summarizes、gives an account of、etc.）something…</p>
+
+<p>（2）The aim（purpose、objective）of this article is to determine（explore、review）sth…</p>
+
+<p>（3）… problem of…is discussed（researched、investigated、analyzed、evaluated、assessed、reported）</p>
+
+<p>（4）The method（theoretical foundation、experimental scheme、modification to、algorithm…）is discussed （suggested、proposed、presented、developed…）</p>
+
+<p>例1：The author presents some new observations both theoretical and experimental concerning the effect of the mutual  interaction between micro－sized particles in a standing waves.</p>
+
+<p>例2：The author describes a configuration</p>
+
+<p>固定搭配：</p>
+
+<ol>
+<li>与system连用的词组
+build up、develop、improve、set up、work out（通过努力达到、制定出、设计、研究、估计出）、establish、devise、examine、found、formulate（系统阐述、说明、表达）、check</li>
+<li>与influence
+have（has、exert、produce、impose、bring about）a great（favorable、beneficial、deep、predominant、considerable、lasting、wide-spread、decisive、permanent、harmful、destructive…）influence on …，under the influence of…</li>
+</ol>
+
+
+<p>另外说明：effect一般指直接的影响（科学研究、实践中），influence指深远重大影响，impact指重大的冲击般的影响。</p>
+
+<ol>
+<li>与develop
+achieve（affect、attain、hinder、reach、prevent）a（the）great（remarkable、rapid、comprehensive）development of…</li>
+</ol>
+
+
+<p>关于结论的建议有如下格式：</p>
+
+<ol>
+<li>The author suggests（recommends、concludes）that</li>
+<li>This article shows that</li>
+<li>The author’s suggestion（conclusion）is that</li>
+<li>The author finds（considers、seems）if necessary to</li>
+</ol>
+
+
+<p>例1：The author proposes an approach to the creation of a synthetic（integrated、comprehensive）method of investigating and designing objects.</p>
+
+<p>结论结果比较：</p>
+
+<ol>
+<li>These results are（quite） consistent with the original hypothesis.</li>
+<li>These results provide substantial evidence for</li>
+<li>These experimental results support the original hypothesis that…</li>
+<li>Our research results are in substantial agreement with…</li>
+<li>The experimental and theoretical values agree quite well.</li>
+<li>These experimental values(data) are higher(lower)than those with traditional(common) methods，</li>
+<li>The result observed in our study are better than those reported by howell（1996）。</li>
+</ol>
+
+
+<p>摘抄于网络，原文地址没有找到。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[论文返修模板3]]></title>
+    <link href="http://secdr.github.io/2015/12/11/lun-wen-fan-xiu-mo-ban-3/"/>
+    <updated>2015-12-11T14:39:29-08:00</updated>
+    <id>http://secdr.github.io/2015/12/11/lun-wen-fan-xiu-mo-ban-3</id>
+    <content type="html"><![CDATA[<p>博客中已近有一些论文返修的套话，这里再补充一些模板，方便大家返修的时候使用：</p>
+
+<p>Dear Editor，</p>
+
+<p>We would like to thank the editor for giving us a chance to resubmit the paper, and also thank the reviewers for giving us constructive suggestions which would help us both in English and in depth to improve the quality of the paper. Here we submit a new version of our manuscript with the title “………………………”, which has been modified according to the reviewers’ suggestions. Efforts were also made to correct the mistakes and improve the English of the manuscript. We mark all the changes in red in the revised manuscript.</p>
+
+<p>Sincerely yours,</p>
+
+<p>XXX</p>
+
+<!--more-->
+
+
+<p>The following is a point-to-point response to the two reviewers’ comments.</p>
+
+<h3>Reviewer #1:</h3>
+
+<p>General comments:</p>
+
+<p>Reviewer #1: The paper presents an interesting experimental investigation to assess the photocatalytic degradation of polyethylene plastic with goethite under UV irradiation. The research work is clearly presented but the conclusions, the introduction and other parts of the paper relate the results obtained with unjustified claims about the impact of the work. In addition, the background information provided in the introduction part needs significant enrichment. In particular:</p>
+
+<p>Answer: Thank you for the comments on the paper. We have revised the manuscript as suggested since we consider that some sentences or descriptions in the Conclusion part are not so accurate based on the results.  Page 3, line 46: recycling is not available…</p>
+
+<p>Even though a large amount of agricultural plastic waste in burnt or buried in the fields, some quantities of specific categories of good quality agricultural plastic waste are recycled in several countries while research efforts and projects are in progress to improve the corresponding percentage. The authors should refer to the corresponding recent literature.</p>
+
+<p>Answer:Yes. Your opinions inspired us and we revised the manuscript accordingly. In the revised paper, the sentence “Recycling is not available for economy,” was changed to “In order to reduce costs, the thickness of application agriculture films in some regions in China is less than 0.005 mm result in diffcult to recycle, And because the process of recycling is expensive and time-consuming, only a small percentage of the agricultural plastic waste is currently recycled at the end of cultivation in China ”(Page 3 line 49-52).
+Page 3, line 76: biodegradable and photodegradable….</p>
+
+<p>There are developments in the area of biodegradable materials that indicate the opposite. Concerning photodegradable materials, they are not considered to represent a solution as they have not been proven to be biodegradable. The authors should refer to the corresponding recent literature.</p>
+
+<p>Answer: Thank you for reminding us the improper description on the study. We have the improper parts revised accordingly and hope that this new manuscript will be convincing ( Page 3 line 52-55).
+Page 4, line 65: find an eco-friendly….</p>
+
+<p>The best eco-friendly disposal for agricultural plastic waste is recycling and for non-recyclable materials, energy recovery. Degrading materials produced from fossil sources is not an eco-friendly disposal! The authors should refer to the corresponding recent literature.</p>
+
+<p>Answer: Thank the reviewer for the comments. We’ve recognized that some of the descriptions in the previous copy were really not so accurate and a little bit arbitrary due to our poor English level and the study on recent literature. After consulting more references, we therefore revised paper to be more reasonable and convincing.
+Page 4, line 66: to carbon dioxide and water….</p>
+
+<p>Conversion of fossil oil based materials into carbon dioxide and water is much worse than converting renewable-based materials into carbon dioxide and water</p>
+
+<p>Answer: Thank the reviewer for the comments. We’ve recognized that this description in the previous copy were not accurate, due to our poor study on recent literature. The sentence “it is very important to find an eco-friendly disposal of plastic waste where they degrade to carbon dioxide and water under the sunlight irradiation without producing toxic byproducts.” has been deleted.
+Page 6, line 112: volatile products….</p>
+
+<p>Define the products.</p>
+
+<p>Answer: We have defined the volatile products in Page 6 line 124-125.
+Page 9, line 185: eco-friendly disposal….</p>
+
+<p>The claims of the authors that this technique is an eco-friendly one are not justified. The conclusions and other parts of the paper need to be rewritten and limit the scope of the presented research work to the technical objectives without deriving unjustified general conclusions and claims about the impact of this work.</p>
+
+<p>Answer: Thank the reviewer for the comments. We’ve recognized that this description in the previous copy were not accurate. The sentence “The development of this kind of composite polymer can lead to an eco-friendly disposal of polymer wastes.” was changed to “The present paper intends to study goethite as photocatalytst for degradating plastic. Further attention could be focused on the application of the technique.” (Page 9 line 192-194).</p>
+
+<h3>Reviewer #2:</h3>
+
+<p>/1. Title and abstract should indicate that the work has been done with PE-Goethite composite film.</p>
+
+<p>Answer: Your suggestion is greatly appreciated. We agree and therefore change the title to: Solid-phase photocatalytic degradation of polyethylene–goethite composite film under UV-light irradiation.</p>
+
+<p>/2. Please revise the first paragraph of &lsquo;Introduction&rsquo;.  It is difficult to understand.  In general, the language of the paper should be revisited.</p>
+
+<p>Answer: The Introduction part has been rewritten both in contents and in English. We particularly revised some sentences since they are not correct or so confusing.</p>
+
+<p>/3. Materials and methods - Details of the chemicals to be furnished</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and the details of the chemicals has been shown in Page 4 line 79-83.</p>
+
+<p>/4. Characterization are required for PE (Molecular weight, grade) and Goethite prepared (particle size, BET surface area, SEM-EDS and XRD)</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and the characterization for PE has been shown in Page 4 line 79. The Goethite prepared (particle size, BET surface area, SEM and XRD) has been reported by Liao et al. (2007), We clarify that in the revised manuscript in Page 5 line 91-93.</p>
+
+<p>/5. A schematic diagram of the experimental set up to be given</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and a schematic diagram of the experimental has been given in Fig. 1 in the present paper. The original Fig. 1. was changed to Fig. 2 and Fig. 3.</p>
+
+<p>/6. Results - A rate equation should be proposed from the time-weight data</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and the rate equation a schematic diagram of the experimental has been given in Table. 1in the present paper.</p>
+
+<p>/7. A few data are required to show the influence of process parameters such as goethite loading, intensity of UV radiation.</p>
+
+<p>Answer: Reviewer and editor’s suggestions have been adopted and the influence of goethite loading has been shown in Fig. 2 in the present paper. And the influence of intensity of UV radiation has been shown in Fig. 3 in the present paper. The original Fig. 2 was changed to Fig. 4 and The original Fig. 3 was changed to Fig. 5 in the present paper.</p>
+
+<p>/8. Until other intermediates are isolated, upto Eqn.(7) (line 162) is sufficient.</p>
+
+<p>Answer: Reviewer and editor’s suggestions have been adopted and We changed the Eqns as recommended. Eqs. (8)-(12) are deleted and Eqn.(7) was change to “–(CH2CH2)– + .OH → degradationproducts” (Page 9 line 184).</p>
+
+<p>/9. Figure 3 and 4: 3 pairs are required, namely (i) Only PE film before and after irradiation, (ii) PE-Goethite film (0.4wt %) - before and after irradiation (iii) PE-Goethite film (1.0 wt %) - before and after irradiation.</p>
+
+<p>Answer: Reviewer and editor’s suggestions have been adopted and the original Fig. 3 and 4 was changed to Fig .5 in the present paper.</p>
+
+<p>/10. Point 3 above is also applicable for SEM photographs. Please rearrange and clearly mark the difference between the films before and after irradiation for both SEM and FTIR results.</p>
+
+<p>Answer: Thank the reviewer and editor’s for the comments. During the revision of the paper, we did a supplementary experiment got some new SEM photographs, which has been shown in Fig. 4 in the present paper. And The FTIR results has been rearranged in Fig.5 in the present paper, respectively.</p>
+
+<p>/11. It should be clearly mentioned in the conclusion that the degradation was more when goethite loading and intensity of light both were more</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and the conclusions has been changed in Page 9 line 192-198.</p>
+
+<p>原文出处: <a href="http://emuch.net/html/201004/1977263.html">wzz525-文章要求修改，求response to review的模板</a>;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[如何研究---以博士论文为例]]></title>
@@ -1424,22 +1968,37 @@ Attachment: PDF file of the manuscript.
 
 <p>7、Please find enclosed the response to the comments of reviewers. The manuscript has been carefully revised in response to the reviewers’comments and suggestions; detailed responses to their comments are below. Our reply is in italic font, whereas the reviewers’ specific comments are not italicized. We thank the reviewers for their suggestions, which have significantly improved this m/s.</p>
 
-<p>总结了一部分万能的套话，足以体现我们对杂志社编辑和审稿人的尊重。
-1、According to the associate editor and reviewers’ comments, we have made extensive modifications to our manuscript and supplemented extra data to make our results convincing.
-2、In this revised version, changes to our manuscript were all highlighted within the document by using red colored text.
-3、Thank you for your nice comments on our article. According to your suggestions, we have supplemented several data here and corrected several mistakes in our previous draft. Based on your comments, we also attached a point-by-point letter to you and the other two reviewers. We have made extensive revisions to our previous draft. The detailed point-by-point responses are listed below.
-4、Thanks for your help. We feel really sorry for our carelessness.
-5、Thank you for your reminding. You and the other two reviewers’ comments are all of great importance to our article. All of these comments have contributed a lot to improve the quality of our article. After this revision, we have written a point-by-point response letter to you as you can see above. Meanwhile, we also wrote a point-by-point response letter to the other two nice reviewers to acknowledge their helps and denote where we made revisions.
-6、We feel great thanks for your professional review work on our article. As you are concerned, there are several problems that need to be addressed. According to your nice suggestions, we have made extensive corrections to our previous draft. We have added necessary data to supplement our results and edited our article extensively. The detailed corrections are listed below.
-7、We feel sorry that we did not provide enough information about XXXX.
-8、it is really a giant mistake to the whole quality of our article. We feel sorry for our carelessness. We have corrected it and we also feel great thanks for your point out.
-9、thanks for your suggestions. We feel sorry for our poor writings, however, we do invite a friend of us who is a native English speaker from USA help polish our article. Due to our friend’s help, the article was edited extensively. And we hope the revised manuscript could be acceptable for you.
-10、thanks for your careful checks. We are sorry for our carelessness. Based on your comments, we have made the corrections to make the unit harmonized within the whole manuscript.
-11、your suggestion really means a lot to us. Yes, it would be more understandable if we XXX.
-12、According to your suggestion, we have corrected the “XXX” into “XXX”.
-13、 thanks for your correction. It was indeed a serious grammatical error. And we have corrected it according to your suggestion.
-14、thanks for your suggestions. We feel sorry for the improper wording. We have used “XXXX” as you suggested.
-15、According to the reviewer’s comments, we have revised the manuscript extensively. If there are any other modifications we could make, we would like very much to modify them and we really appreciate your help. “xxxx” is a journal of great popularity and prestige. We hope that our manuscript could be considered for publication in your journal. Thank you very much for your help.</p>
+<p>总结了一部分万能的套话，足以体现我们对杂志社编辑和审稿人的尊重。</p>
+
+<p>1、According to the associate editor and reviewers’ comments, we have made extensive modifications to our manuscript and supplemented extra data to make our results convincing.</p>
+
+<p>2、In this revised version, changes to our manuscript were all highlighted within the document by using red colored text.</p>
+
+<p>3、Thank you for your nice comments on our article. According to your suggestions, we have supplemented several data here and corrected several mistakes in our previous draft. Based on your comments, we also attached a point-by-point letter to you and the other two reviewers. We have made extensive revisions to our previous draft. The detailed point-by-point responses are listed below.</p>
+
+<p>4、Thanks for your help. We feel really sorry for our carelessness.</p>
+
+<p>5、Thank you for your reminding. You and the other two reviewers’ comments are all of great importance to our article. All of these comments have contributed a lot to improve the quality of our article. After this revision, we have written a point-by-point response letter to you as you can see above. Meanwhile, we also wrote a point-by-point response letter to the other two nice reviewers to acknowledge their helps and denote where we made revisions.</p>
+
+<p>6、We feel great thanks for your professional review work on our article. As you are concerned, there are several problems that need to be addressed. According to your nice suggestions, we have made extensive corrections to our previous draft. We have added necessary data to supplement our results and edited our article extensively. The detailed corrections are listed below.</p>
+
+<p>7、We feel sorry that we did not provide enough information about XXXX.</p>
+
+<p>8、it is really a giant mistake to the whole quality of our article. We feel sorry for our carelessness. We have corrected it and we also feel great thanks for your point out.</p>
+
+<p>9、thanks for your suggestions. We feel sorry for our poor writings, however, we do invite a friend of us who is a native English speaker from USA help polish our article. Due to our friend’s help, the article was edited extensively. And we hope the revised manuscript could be acceptable for you.</p>
+
+<p>10、thanks for your careful checks. We are sorry for our carelessness. Based on your comments, we have made the corrections to make the unit harmonized within the whole manuscript.</p>
+
+<p>11、your suggestion really means a lot to us. Yes, it would be more understandable if we XXX.</p>
+
+<p>12、According to your suggestion, we have corrected the “XXX” into “XXX”.</p>
+
+<p>13、 thanks for your correction. It was indeed a serious grammatical error. And we have corrected it according to your suggestion.</p>
+
+<p>14、thanks for your suggestions. We feel sorry for the improper wording. We have used “XXXX” as you suggested.</p>
+
+<p>15、According to the reviewer’s comments, we have revised the manuscript extensively. If there are any other modifications we could make, we would like very much to modify them and we really appreciate your help. “xxxx” is a journal of great popularity and prestige. We hope that our manuscript could be considered for publication in your journal. Thank you very much for your help.</p>
 
 <p>原文地址：<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU1NjUyNw==&amp;mid=208866198&amp;idx=1&amp;sn=d363bd37e629dbdbe01de3a14a9710ae&amp;scene=5#rd">论文返修（response letter）最尼玛有用的开场白</a></p>
 ]]></content>
@@ -2141,1305 +2700,6 @@ to contact us.</p>
 <p>（3）Leave Me Alone: App-level Protection Against Runtime Information Gathering on Android</p>
 
 <p>Stealing of sensitive information from apps is always considered to be one of the most critical threats to Android security. Recent studies show that this can happen even to the apps without explicit implementation flaws, through exploiting some design weaknesses of the operating system, e.g., shared communication channels such as audio and Bluetooth, and side channels like CPU, memory, network-data usages, etc. In all these attacks, a malicious app needs to run side-by-side with the target app (the victim) to collect its runtime information. Examples include recording phone conversations from the phone app, gathering network-data usages of WebMD to infer the disease condition the user looks at, etc（攻击例子）. This runtime-information-gathering (RIG) threat is both realistic and serious, as demonstrated by prior research and our new findings, which reveal that the adversary monitoring daily operations of popular Android-based home security systems can easily figure out when the house is empty and the user is not looking at surveillance cameras, and even turn off the alarm delivered to the user&rsquo;s phone. To defend against this new category of attacks, we propose a novel technique that changes neither the operating system nor the target apps, and provides immediate protection as soon as an ordinary app (with only normal and dangerous permissions) is installed（本文提出的防止攻击的新技术）. This new approach, called App Guardian（称为App守卫）, thwarts a malicious app&rsquo;s runtime monitoring attempt by pausing all suspicious background processes when the target app (called principal) is running in the foreground, and resuming them after the app stops and its runtime environment is cleaned up. Our technique leverages a unique feature of Android, on which third-party apps running in the background are often considered to be disposable and can be stopped anytime with only a minor performance and utility implication. We further limit such an impact by only focusing on a small set of suspicious background apps, which are identified based upon their behaviors inferred from their side channels, such as thread names, CPU scheduling data and kernel time. App Guardian is also carefully designed to choose the right moments to start and end the protection procedure, and effectively protect itself against malicious apps. Our experimental studies show that this new technique defeated all known RIG attacks, ranging from phone taping to keylogging through various side channels. In the meantime, the inconvenience it introduces is found to be minimal, with negligible impacts on the utility of legitimate apps and the performance of the OS.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[如何在国际学术期刊上发表论文]]></title>
-    <link href="http://secdr.github.io/2015/05/05/how-to-publish-in-top-journals/"/>
-    <updated>2015-05-05T12:24:51-07:00</updated>
-    <id>http://secdr.github.io/2015/05/05/how-to-publish-in-top-journals</id>
-    <content type="html"><![CDATA[<p>[摘要]将论文都投在一流期刊上是风险很大的；将论文都寄到低质量的期刊也不是好的选择，一但论文被接受，你就会感到后悔。一个人的简历中应包括一些一流期刊的论文。发表的质量也是很重要的。</p>
-
-<p>1.目的</p>
-
-<p>决定一片论文是否可以发表的最重要因素是论文中所阐述思想的好坏。实际中，非实质性的因素，如论文的包装，也会成为论文是否发表的影响因素。</p>
-
-<!--more-->
-
-
-<p>1.1.为什么期刊的接受率这么低</p>
-
-<p>提交给国际有影响的期刊论文，一般只有1/3的作者能够受到略微积极的反馈；其他则都为否定。如果有两个匿名评审人评审一篇论文，那么一篇平均质量的论文被两个评审人同时接受的可能性只有11%。计算机和激光打印的发展，导致论文数量迅速增加，一流期刊积存了大量的论文。</p>
-
-<p>期刊的主编变得非常谨慎，他们宁愿拒绝一篇可能是高质量的论文，也不愿承担接受一篇低质量论文的风险。在国际学术期刊上发表论文，靠运气并不能成功，必须依靠实力，并有冒险的精神。在国际学术期刊的评审中，评审人的意见并不都是等同的，有名的评审人的意见份量更重要。因此，你应该了解哪一个评审人更加重要。当一篇论文被拒之后，总编更关注的是论文消极一面，而不是积极的一面。如果能消除论文中的缺点，那末再次提交成功的可能性就会提高。</p>
-
-<p>1.2.为什么你的论文的接受率这样低</p>
-
-<p>也许由于种族、性别、国籍或学历等原因，你受到歧视。例如，如果一所大学的期刊为自己的教师预留出一半的版面，那么，如果你是这所大学的教师，论文的接受率就会提高很多。</p>
-
-<p>2.发表的一般策略</p>
-
-<p>2.1.研究成果的组合要多样化</p>
-
-<p>接受决定的平均等待时间是3年；拒绝决定的平均等待时间是6-8个月；在你学术生涯的起步阶段，生存比辉煌更重要；美国从教的前5-6年，如果每篇发表成果在评估时权重相同，那么，使你的成果组合多样化非常重要，应争取使研究的题目越多越好；如果在某一方面的发表有出色的表现，把研究兴趣转向其他方面之前，应加倍努力树立自己在这一方面的名声。</p>
-
-<p>在一个非常窄的问题上发表篇论的文风险很大，就像把所有的鸡蛋放在一个篮子里一样。持续研究一个窄的问题而不能发表，是一个不详的兆头。</p>
-
-<p>2.2.专注于一个或两个专业领域</p>
-
-<p>通常，一个人选择的专业领域不应超过两个，研究的规模经济一般要求学者们将全部注意力放在一个领域里。在一个专业领域里，选择两到三个题目，勤奋耕耘，直至发表几篇论文。如果针对某一个题目，3年没有发表一篇论文，此时应该考虑更换题目。</p>
-
-<p>2.3.从博士论文中产生出1至2篇论文</p>
-
-<p>一篇博士论文，通常要投入了2年甚至更长的时间；努力从博士论文重要的章节中派生出几篇论文；这比从头开始写新的论文要来的容易的多；同导师合作，推出你的论文。</p>
-
-<p>2.4.手中要有几篇论文供周转</p>
-
-<p>如果一流期刊的接受率为15%，那么一个人手中应有7篇论文不断处在被评审状态，这样才能保证每年有一篇论文被锁定的期刊接受；如果想在任教后的前5年发表10篇论文，那么必须有约12篇论文要不断处在被评审状态；对于一个没有终身教职的人，应该有约6篇论文不断处在被评审状态。</p>
-
-<p>2.5.几个好的观点不要放在一篇论文里</p>
-
-<p>把两个好的观点分放在两篇论文中。不要把关于某一问题的所有观点都放在一篇论文里，保留一些给今后的论文。如果论文的长度超过15页，被接受的概率呈几何级数下降。如果将一个题目分解成两篇论文，一篇论文被接受的概率会超过一倍，接受的速度也会加快。</p>
-
-<p>用x表示论文的长度， p表示论文被接受的概率，则：</p>
-
-<p>P(x/2) = 2 p(x) + a， a>o. x&lt;15页</p>
-
-<p>A包括的因素有：</p>
-
-<p>主编喜欢短论文；</p>
-
-<p>评审人发现数学错误的概率降低；</p>
-
-<p>评审人错误理解论文内容的概率也降低.</p>
-
-<p>2.6.向不同期刊投稿</p>
-
-<p>将论文都投在一流期刊上是风险很大的；将论文都寄到低质量的期刊也不是好的选择，一但论文被接受，你就会感到后悔。一个人的简历中应包括一些一流期刊的论文。发表的质量也是很重要的。如果论文质量相同，将3篇论文投到3种不同的期刊要优于都投到一个期刊。</p>
-
-<p>2.7.表述清楚</p>
-
-<p>假设和结果要解释清楚；如果有许多假设，将它们放在一起，不要分放在段落中，也不要造成让评审人四处找符号含义的局面。第一次使用的符号要定义清楚，否则评审人会不满意，发表的可能性从而降低；论文结论中要清楚地表陈述论文对现有文献有哪些贡献。</p>
-
-<p>2.8.经常浏览最新期刊</p>
-
-<p>紧跟文献的当前变化(如使用EconLit)。利用关键词核实相同或类似的题目，，他人是否已经写过。不要重复他人已经做的工作，这可以节省许多时间。</p>
-
-<p>订购一些所在领域的专业期刊，不要订购综合性期刊。综合性期刊不能最有效地提供你所在领域的信息来源，同你研究者兴趣直接相关的论文正变得越来越少。其他期刊可以利用图书馆，一旦一篇论文被接受，Social Science Research Network会刊登出相关的消息，这样可以了解到某一领域的最新发表。</p>
-
-<p>2.9. 提交前在研讨会上宣读论文</p>
-
-<p>在地区性、全国和国际研讨会上宣读自己的论文，也许可以获得非常有价值的反馈建议。是认识同行的一个极好机会。在自己所在的系里宣读论文效果不明显，除了一流的院系，大多数学系只有20甚至更少的教师，他们一般不熟悉你的研究，也缺少提出带有根本性建议的能力。</p>
-
-<p>2.10. 不要将未发表的论文送给陌生人</p>
-
-<p>如果这样做，也许可以暂时出名，但随后会付出代价；一些人可能剽窃你的观点，并先于你提交一篇类似的论文；在一个大家都彼此认识的圈子里，散发论文是可以的。</p>
-
-<p>2.11. 越挫越勇</p>
-
-<p>一般收到拒绝频率会超过接受，这是很自然的。脸皮要厚，学会作一个失败者。如果不能接受拒绝的打击，最好不要向期刊提交论文。一篇好的论文，至少可以在高质量的期刊有3次发表的机会。如果在一个月内，对一篇被拒绝的论文不做任何处理，你很可能会对它丧失兴趣，因此，要抓紧时间采取行动。</p>
-
-<p>2.12. 认识100个所在领域发表最活跃的人</p>
-
-<p>一个领域中，可能成为你的论文评审人的数量大约是100左右。拟定一份本领域最活跃的学者的名单，用5年的时间全部认识他们。每年至少两次在专业研讨会上宣读论文，或至少参加两次这样的研讨会。</p>
-
-<p>本文节选自Kwan Choi所写的《How to Publish in Top Journals》</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[发表SCI或EI类英文文章的一些投稿经验]]></title>
-    <link href="http://secdr.github.io/2015/05/04/experiment-with-submit-paper/"/>
-    <updated>2015-05-04T12:07:44-07:00</updated>
-    <id>http://secdr.github.io/2015/05/04/experiment-with-submit-paper</id>
-    <content type="html"><![CDATA[<ol>
-<li><p>首先一定要注意杂志的发表范围, 超出范围的千万别投,要不就是浪费时间;另外，每个杂志都有他们的具体格式要求，一定要按照他们的要求把论文写好，免得浪费时间，前些时候，我的一个同事向一个著名的英文杂志投稿，由于格式问题，人家过两个星期就退回来了，而且说了很多难听的话，说投稿前首先就应该看清楚他们的格式要求；</p></li>
-<li><p>论文写作一定要言简意赅,特别是摘要,引言和结论部分,特别是摘要和结论不能重复,发现有很多论文这两部分没有差别, 个人认为, 摘要是引人入胜的&#8221;药引子&#8221;,要留悬念;而结论是你论文得出的有证据的东西,要简单明了(很多人写了一大堆,把推测的结果都写上,这种论文质量很差); 另外,很多人认为数据越多, 发表的可能性越大,但经过读一些论文, 发现很多人的论文很烂, 感觉就是数据的简单堆积,所以,论文的重点应该在观点上,保证一篇论文一个新观点,已经足够了.</p></li>
-<li><p>投稿时,一定要找和你做研究内容相近领域的专家作评阅人,最好是国外的,不是说国内的不好,但就怕有人和你(或你老板)有过节,而且国内的很多所谓专家水平一般,且小心眼;</p></li>
-</ol>
-
-
-<!--more-->
-
-
-<ol>
-<li><p>cover letter要简单介绍你的工作的创新性,这样便于论文的快速发表, 当然也应该客气几句,让编辑感到心里舒服,主要是夸杂志好之类的话; 有人写coverletter，就是写上题目、然后说很荣幸投稿之类地话，也有人干脆把摘要全写上，这样个人认为不好，一定用两到三句话说明你论文“新”在哪，这个非常重要。</p></li>
-<li><p>前些时候看到论坛上很多人说不能写信催编辑,个人认为没关系,必要催信能够让人重视你的论文,一定要让人感到,你的论文在这发不了,好多地方在等着发呢(但很多牛杂志,可不吃这套哟，人家不缺稿，嘿嘿). 当然写信的时候要客气,说一些快速发表对于学术讨论和促进工作等方面的重要性之类的话;</p></li>
-<li><p>能写英文,就不投中文稿, 特别是不投中文杂志英文版, 好不容易憋了篇英文,还投到低水平的杂志,很不甘心; 最重要的是国内杂志要钱，而国外很多不要。自从国内某杂志告诉我他们之所以收我很高的版面费是为了他们的生存时，我发誓包括以后我的学生就不再投中文杂志了（如果要投，对做材料的人，个人认为金属学报不错，目前收费低）；</p></li>
-<li><p>坚持就是胜利, 按照审稿人的建议好好改你的论文, 只要坚持投稿, 就一定能够被接收的, 如果论文被某杂志拒稿, 但不提倡降低杂志质量再投（应该根据审稿人意见修改后找合适的杂志）;有人认为低影响因子的杂志一定中的几率高, 我也这么认为,但一般低影响因子的杂志论文出稿比较慢!</p></li>
-<li><p>英语不好没关系，是人都知道我们英语没英国和美国人地道，但只要能表达清楚你要表达的意思就好了，而且等审稿人提出来时，一定要从头到尾改一遍，你会发现，这样多次发论文后，你的英语写作水平在一天天提高，拿两年前的论文过来，自己都感觉写得很烂。哈哈。（有好几次，一些审稿人总说我英语不好，这肯定是母语为英语的审稿人，但回信中，我只能说俺英语不好，地球人都知道，但个人认为英语在科技论文里主要是能让人懂我们的思想就够了，而且我也没有太多的钱去让某些改论文的公司帮我做这些事）。</p></li>
-</ol>
-
-
-<p>再加两封催稿信!英语不好，但意思表达到了。</p>
-
-<p>第一封,客气点!</p>
-
-<p>Dear Prof. Dr. Editor ***</p>
-
-<p>I submitted our latest work to your journal *** last November. I want to know the review process. If there are some reponses from the reviewers. Would you please tell me the results so that I can deal with it as early as possible? Please understand me that fast publication of our work is important for me.</p>
-
-<p>I appreciate your contribution to the publication of the high quality papers.</p>
-
-<p>Kind thanks to you for your care.</p>
-
-<p>Best Regards
-Yours sincerely</p>
-
-<p>第二封, 很不客气了,他们刚开始说他们的审稿周期很短,但近四个月了,也没消息,所以打算投别的地方.</p>
-
-<p>Dear Dr. Prof. ***</p>
-
-<p>I am sorry to make you in trouble. It takes too long for reviewing my manuscript (<strong><em>) which was submitted to Journal &ldquo;</em></strong>&rdquo;. Generally, only about two months are necessary for the reviewing process on my usual submissions to other Journals. Hence, I decide to withdraw this submission.</p>
-
-<p>I am sorry to make this decision. Please understand my condition because the rapid publication of my work is important for me and our group.</p>
-
-<p>I hope that I have chance to get a rapid publication in this Journal in future.</p>
-
-<p>Thank you for your attention and kind help.</p>
-
-<p>Best Regards
-Yours sincerely</p>
-
-<p>from:<a href="http://chl033.woku.com/article/2721025.html">http://chl033.woku.com/article/2721025.html</a></p>
-
-<p>1、对于我们工科的学生，要想写出论文来，必须有充足的数据及结论作为支撑，这里所说的数据不一定要很多，主要看你这些数据是否可以证明你论文中的结论。</p>
-
-<p>2、在写论文时，不要把实验数据或图表往论文上面一放，只有描述而没有解释，这是编辑或审稿人最不想看到的文章，如果论文属于这一类，评论信中多半会说这样的论文为实验报告，其实编辑和审稿人他们有时也想知道你是如何做出来的，为什么，也在学习。</p>
-
-<p>3、在做实验前，就要考虑写论文了，不要等到作了很多试验，到头来全是：无用！那就惨了。我的经验就是，在试验前，你要考虑为什么要做这试验（实验背景及目的），怎么来做（实验步骤），根据自己的经验猜测可能会得到什么样的结果（结论），通过这样考虑之后，一篇论文的结构基本上出来了，就等着看结果到底如何了，如果和自己猜想的一样，自然可以写论文按照预先设好的步骤。一旦结果不一样，那就要恭喜你了，因为其中有很多东西需要你更深入的研究，可能还会有更大地创新内容。</p>
-
-<p>4、对于写文章，文笔也相当重要，有很好的数据结论但是表达不清楚也不行，应为编辑和审稿人必须为他们的杂志前途着想，他们想让更多的人来读他们的杂志从而提高影响力，所以表达必须很清楚，能够让专业人士和相关学科的人都能够看明白你的论文意思。如果你的文笔不是很好，那就先看一看和你论文类似的文章，档次越高越好，看看别人如何表达的，相似的地方可以模仿。</p>
-
-<p>5、在论文经过自己几次修改后，放他一两天，再回过头来看看，如果自己觉得没有问题，那就给自己课题组有经验的老师或同学看看，看他们给你提出的意见（自己要判断是否可取了）。</p>
-
-<p>6、选择期刊很重要，要不然你投出去后，好消息的就几天退回，怀消息就是几个月退回说不符合杂志范围。选择期刊要根据自己论文的内容，是否和期刊的作者指南相符，此时你最好选者几个不同档次的期刊，从高到低排列，预备被退稿。选择好期刊后，严格按照期刊的投稿要求对论文进行排版，否则你的论文会被编辑退回（这样的论文不在少数），然后大胆地投出去，不管它中不中。</p>
-
-<p>7、等待，特别是第一篇，等待是一个难熬的日子，总是希望投稿后很快就能够收到消息，我曾经也经历过，这也是一个成长过程。</p>
-
-<p>8、收到消息有三种情况，一、接收，恭喜！二、拒绝，不要气馁，你可以认为编辑或审稿人不识货，当然要认真看拒绝信，看编辑或审稿人给你的评论，这就是你论文向能够发表前进了一步（一定要坚持，成为“拒无霸”就差不多了），修改后投向预先选好的档次低一点的杂志，命中率就提高了。三、修改后再看，这就是一种无定性条件，这种情况一定要认真对待，认真修改，有条件叫有经验的老师帮助。</p>
-
-<p>9、如果你的论文曾经被一个期刊发表过，接下来所作的工作继续投向这个期刊，命中率就大多了。
-我写出来我的经验，仅供大家参考，结合自己的情况进行处理。
-1. 对于影响因子。有的影响因子（IF）很高，50／60.比《Science》和《Nature》的还要高。可能有一下原因：
-1）排名靠前的，一般都是综述类期刊被引用率当然高。多为一些学会的年度报告什么的，大多是一些综述性文章，一年也就一期，一期也就几十篇
-2）“综合类”的排名一般比“专业类”的高。
-3）有些“不要钱”的比要钱的高，像《Science》和《Nature》上的文章一般30美元／一篇。而很多其他国家、政府和其他机构给于经济支持的都不要钱。但并不是说要钱的都不是好文章。</p>
-
-<ol>
-<li><p>如何选择期刊。是不是只看影响因子高的？
-个人认为肯定不是，上面说了。“综合类”的一般比“专业类”的IF高。所以，即使你投的专业类的IF没有综合的高，但是这个综合类的杂志在“业内”人士心中比较高。所以可以选择你所做领域的“权威级”刊物。
-发文章的目的是为了能有更多的人可以看到你的工作，所有一定要发到跟你的研究方向最吻合的杂志。</p></li>
-<li><p>一般美国的杂志对语言要求最低，文风很自由.，你只要没有什么太大的语法错误，一般审稿人都不会说什么．对语言要求最苛刻的就是英国德国</p></li>
-<li><p>很多好杂志是不要版面费的，就算要版面费，好像学校有规定可以报销，所以大家可以放心大胆的投。不要因为版面费的问题而顾虑。并不说要版面费的都是差的杂志，但有的可以申请减免。</p></li>
-<li><p>一定要选对杂志！每个杂志都要他的侧重点和内容要求。比如：有的相似的两种杂志，有的侧重“理论”像美国的《PHYTOPATHOLOGY》，而有的侧重于“应用”和其他方面。如《PLANT DIS》.
-   其次还有格式，每个杂志都它自己的格式（包括图表什么样，图片什么样），要看清楚投稿须知。</p></li>
-<li><p>一些误区：
-a）是不是国外的杂志都是SCI，这点肯定不是，有很多人见到一篇英文的文章就以为是SCI，还有写杂志的中文版是被SCI收录的。有人把《Science》杂志认为是SCI。有人拿本重大学报上的问我影响因子是多少？我真的无法回答。好像我国某个部门好像也在给个杂志算什么影响因子，都是时候把我都搞晕了。好像各个学报在国内是有个什么影响因子。对于这个我也不是很清楚。</p></li>
-</ol>
-
-
-<p>  b）SCI是不是高不可攀。这个各个专业、各个学科差距确实很大，有的就非常好发这个没办法。只怪我们选错行了。就我这个方向来说没有那么难。</p>
-
-<p>一般高水平的文章需要有些创新。最好是方法学的创新，但是方法学的创新没有那么容易。一般可以改进一下。其次，中国是一个大国，别人要发文章一般要看国内外研究现状，也需要中国的研究现状，就需要我们的论文发出去。所以，如果你没法进行方法学的创新那就在实验材料上占优势，中国这么大的地方，很可能别人收集的实验材料没有你齐全，所以你再材料上就有了优势，就做了别人没有做过的工作，就极有可能发高水平的论文。</p>
-
-<p>再次.写论文其实就相当讲故事，你如何讲一个平淡无奇的故事讲的趣味昂然．一定要把自己的卖点突出来。所以大家如果觉得自己的工作做的不错都可以试试往好的杂志投。</p>
-
-<p>7 大胆投稿的好处
-   不管你写的好不好（当然不能太差，错误一大堆），一定要大胆的投稿。老外审稿都是非常认真的，一般你打一些小的拼写错位都会帮你指出来。需要补做那些实验，还有很多好的建议。他们会一一给你指出来。所以即使你的论文没有被接收，也会得到大量的修改和建议。这样你的就可以接着补做实验，而且文章也变的更好了。说不定论文就上了一个新的层次，可以投更高水平的杂志。
-   当然，有很多人不愿意补做实验，或者做实验不划算，赶时间毕业，混文凭&hellip;&hellip;就把自己的论文降一个档次。投在了较低的刊物上。感觉不可取。</p>
-
-<p>8 如何安排写论文的时间。
-   一般SCI从提交稿件到审结束大概要1～2个月，所以一般大多数人都是做完实验之后再写的，而我们刚开始写英文的论文时很慢，一般要一两个月，这样周期就长了。所以我们可以一般做实验一般写论文。因为论文有的部分是固定的，一旦你的实验技术路线出来了你的材料与方法，前面的引言中的国外内外研究现状、背景，所用的方法部分，都可以写了，然后出来一个什么结果就可以像“填空“一样往里面加，最后讨论，摘要，编排格式。
-    『注意』：论文的讨论部分很重要，不要说空话。平时做实验室就要留心，多想想出现的现象，问题应该怎么解释。</p>
-
-<p>9 参考文献。
-   如果你参考的文章很多，到时候可能找你的论文中引用的参考文献可能都要一个月，而又不能胡乱写，老外是很看重这个的，他通常会抽取一篇你的参考文献，看看你是不是引用的上面的，有没有引用错误等等。所以在你读文先的时候，可以做读书笔记，把好的，你认为有用的部分摘抄下来或者用电脑粘贴复制下来，注好是那篇文章、那些作者。这样就会节约很多时间。</p>
-
-<p>『注意』：不要乱写参考文献，只要引用的都要要注明，没有引用的不要往里面写。把有价值的东西做好“读书笔记”，节约写论文中编排参考文献的时间。</p>
-
-<p>『注意』：a 参考文献最好有1／3甚至1／2以上是近5年内的文献，这样的论文会让人感觉有水平些。b 其次，最好找一手的文献，不要那种二手的文献。</p>
-
-<p>10.如何应对和回答审稿人提出的问题。
-   对于审稿人提出的问题，要认真回答，你可以不同意他的看法，但要注意措辞，做到“不卑不亢”！就行，把你的观点论据陈述好。
-a.所有问题必须逐条回答。
-b.尽量满足意见中需要补充的实验。
-c.满足不了的也不要回避，说明不能做的合理理由。
-d.审稿人推荐的文献一定要引用，并讨论透彻。</p>
-
-<p>再就是格式上要些清楚：
-1.           2.
-Q:&hellip;&hellip;    Q:&hellip;&hellip;
-A:&hellip;&hellip;    A:&hellip;&hellip;</p>
-
-<p>要一目了然，让评审看的舒服。不要吧所有的问题混在一块回答。自己看的都烦，不知道回答的是哪个。</p>
-
-<p>下面几楼还有本人收集的一些资料，大家共享下。（由于来源比较杂，各个网络没法列出出处，见谅）</p>
-
-<p>*补充：</p>
-
-<ol>
-<li><p>对于选杂志
-对于选杂志确实比较困难，首先要选“对口的杂志”，对于影响因子暂不提。杂志从接受手稿到发表的周期很重要。很多你做的工作别人也在同时进行着。很可能你的工作先完成的，而你投的杂志周期很长，别人后完成的，但是投的杂志周期很短，可能会先于你的发表。这就很郁闷的。所以选杂志要注意周期。至于怎么选确实很困难。
-首先：你可以看看发表的论文从接收到正式出版要多少时间。  其次：那就是问问投过那些杂志的人。可以问下和你做相似实验，并且投过你感兴趣的那些杂志的师兄师姐们。也可以在网上求助和搜集信息。  总之，选择杂志是很很复杂的事情，要综合考虑。</p></li>
-<li><p>写论文时，首先：不要一味的贬低别人的论文的价值，不要动不动就拿自己的“优点”与他人的“缺点”比。要对别人的工作做“客观的评价”。
-其次：忌讳用最高级，什么最先进、原创&hellip;.除非你实实在在的、从根本上是原创的。
-from:<a href="http://chl033.woku.com/article/2718239.html">http://chl033.woku.com/article/2718239.html</a>
-如果你希望你的会议论文被EI收录，请参照以下经验：
-一、会议论文出版社：会议EI收录其实与主办方关系很小，甚至没有任何关系，第一要素主要处决于论文会议集的出版单位，根据经验，例举全球著名出版社如下：
-1、德国斯普林格出版社（SPRINGER）：100%EI收录
-2、美国机械工程学会出版社（ASME）：100%EI收录
-3、美国土木工程学会出版社（ASCE）：100%EI收录
-4、美国电子电气工程计算机学会出版社（IEEE CS）：99%EI收录
-5、美国电子电气工程出版社（IEEE）：90%EI收录
-6、英国工程技术出版社（IET）：90%EI收录
-7、法国Atlantis Press：70%
-二、在确定第一要素后，请考察会议主席的诚信度
-1、国际一级学会发起：如IFAC、IEEE等。如果IEEE发起的会议IEEE要占51%的注册费，因此，该类会议注册费均在500美元以上。请注意中国2007年只有一个是IEEE发起的，即ICMA2007，其他均不是，2008年目前中国没有一个会议是IEEE发起。
-2、国家一级学会发起：如中国计算机学会、中国自动化学会、中国通讯学会等，如WCICA、CCC等
-3、各大学校级领导：中国大学校级领导作为主席办国际会议具有中国特色（如ICTE等）。
-4、国际一级学会技术支持：如IEEE CS、IEEE、IET、ASME、ASCE等。如ICIC、ICNC）
-5、其他学者
-三、掌握以上两点后，请注意你的论文格式与英文摘要的书写，
-四、EI自然OK！
-1、我仅仅讨论的是EI收录的技巧，不是讨论会议的水平。会议仅仅是一个交流的平台，不像期刊，每个都有一个影响因子。
-2、ICMA2007确实是2007年唯一在中国由IEEE发起的会议。另外，它不是由IEEE CS出版，而是由IEEE出版，区别于其他会议有三点（1）会议常规注费费高500美元，因IEEE要占大头。（2）设有IEEE会员注册费，这是IEEE会员的权利，因为他们每年交纳500-1000元的会费。（3）EI收录快，两个月全部搞定，这是组织方与IEEE的约定。
-3、德国斯普林格出版社确实是全球最高水平的出版社，尽管LNCS被SCI淘汰，但在国外，还是得到同行的认可。LNCS仍然被EI和ISTP双收录，收录的时间处决于出版商论文集递交的时间与EI对论文进行加工时间。由于LNCS出版量太大，且这两年大部分集中在东亚，由于担心被EI也淘汰，所以在大量减少出版量的同时，现在开始延迟递交，获取一个每年的EI收录的平衡，不至于全部集中有2006和2007年，另外他们也希望在2009年重返SCI。所以LNCS出版的论文EI收录肯定没问题，只是时间问题。另外，国内知名大学学报均想向斯普林格出版社靠拢，如武汉大学学报英文版和中南大学英文版均改由斯普林格出版，已从EI中国收录期刊中消失，不过他们已成功被SCI收录。这也从侧面说明了斯普林格出版社的影响力。
-3、如果你只是希望论文能被EI，建议你不要投欧美国家的会议，因为他们对EI检索根本不重视，因此，有些会开完后论文集根本不送EI总部，或者拖得很迟。作者曾参加23次国际会议，其中的21次被SCI/EI/ISTP收录，唯一的两次没有被收录的恰恰是2004年美国举办的两个知名国际会议，所以，如果你的目的是希望论文被收录，没必要舍近求远，况且欧美国家的会议注册费在500-800美元间，特贵。
-4、英国的IET出版的能EI，一般9个月左右，我06年曾参加了一次国际会议，只发表了论文摘要，居然也被收录了，成了我最短的EI收录论文，仅仅约500字。
-5、上面只是我的经验，当然你们无法考证，我发表的5篇斯普林格出版社全部EI、ISTP收录，其中3篇SCI收录。发表在IEEE CS上的6篇全部EI、ISTP收录，发表在IEEE上的5篇中全部ISTP收录，4篇EI收录，一篇没被EI收录是2003年的ICNNSP。发表在IET上的两篇全部EI、ISTP收录。发表在ASCE上的两篇全部EI、ISTP收录。我同学发表在ASME上的3篇全部EI、ISTP收录。
-6、国际一级学会发起的会议诚信度应该不需要说明。
-7、国家一级学会成员主席一般都是院士，他们的诚信度也应该不需要说明。
-8、各大学校级领导做主席，由于他们的特殊身份，因此，发布的会议信息可靠信更高。
-from:<a href="http://chl033.woku.com/article/2816120.html">http://chl033.woku.com/article/2816120.html</a>
-文献检索技巧
-文献检索是非常麻烦的事情，一般都是通过各种数据库进行检索，但由于购买的电子数据库基本都只有1997年以后的文献，文献量比较少，而且很多领域属于落后于国外20-30年的研究，一般很难查到，即使能查到出处，但无原文。文献查找是个费时费力的事情，需要细心和耐心，反复查找，以下谈谈个人关于如何利用网络进行文献查找的一些经验。</p></li>
-</ol>
-
-
-<p>① 搜索引擎的高级功能
-搜索引擎主要www.google.com和scholar.google.com，www.baidu.com则仅在检索中文时稍好点，英文很差，用处不大。我们常用的google侧重于网页的检索，Scholar则主要针对学术类文献进行检索，格式主要是pdf，对于论文的引用也会显示，对于知道文献名和作者的情况比较容易直接找到pdf文档，一般这两个搜索引擎要联合使用。
-Google的高级检索功能中有几个常用的功能：</p>
-
-<p>（1）锁定关键词检索：使用双引号如”停车”，则所有检索结果均包含双引号中的内容，以减少检索结果量；</p>
-
-<p>（2）文件类型检索：文件类型主要是.pdf和.doc文档，国外文献大部分以pdf格式发布，使用格式限制可以排除很多不必要的检索结果，如输入：停车 filetype:pdf，当然其它google识别的格式都可使用；</p>
-
-<p>（3）指定网址检索：如果发现某个网站有需要的文献，则可以直接指定到该网站检索，以获得需要的资料，如输入：停车 site:www.parknride.com。
-Google的详细功能请参照google的高级检索，百度在使用上相同。</p>
-
-<p>② 关键词的使用
-检索结果如何，和关键词的使用直接相关，所以，首先要弄清楚在英文中关键词有哪几种表达方式，分别进行检索，而对于文献综述类，可以使用：review、overview、literature review、history、development、trend等和关键词一起检索。</p>
-
-<p>关键词的检索并不是一次就能确定下来的，刚开始选用几个看能否找到，如果找到一些，先初步看看那些文献，对内容有了更深一些的认识后同时也对检索关键词增加了了解，实际上是不断调整检索关键词的过程</p>
-
-<p>③ 参考文献的使用
-检索到一些文章后，先要看看文献后的参考文献，国外文献一般都会很详细的列出，可根据参考文献相应的进行有目的的检索，如找到指定数据库的期刊，或者检索作者，作者的个人主页一般提供作者本人发表文献的下载（最好的资源），有些还提供作者的E-mal，可直接写信给作者，一般对方都会提供。
-另外，利用google的强大功能，对论文题名、期刊和作者进行检索，期刊的检索经常能发现该期刊被那个数据库收录，则可直接到相应的数据库找到，检索作者则最好加关键词、年等信息以缩小检索范围，而且不要用缩写，会忽略很多信息。
-如果找到某个期刊历年的电子数据库，虽然网站有自己的检索功能，但最好不要检索之后其它就放弃了，实际上很多文献不一定检索得到，需要有耐心的一期一期的去看（当然实际上这个工作量并不大，国外的期刊一般每期也就10篇左右），但如果错过了需要的文献则损失大了。</p>
-
-<p>④ 网站回溯
-一般找到某个网站有需要的资料后，不要把那篇下下来就关了，通常还有很多资源呢。一种是回到该文献的上层目录，即将文献名删除，保留反斜杠回车即可，如：<a href="http://www.parknride/com/documents/prdemand.pdf%EF%BC%8C%E5%88%99%E5%BA%94%E8%AF%A5%E5%86%8D%E5%9B%9E%E6%BA%AF%E5%88%B0%E4%B8%8A%E5%B1%82%E7%9B%AE%E5%BD%95%EF%BC%9Ahttp://www.parknride/com/documents/%EF%BC%8C%E6%9C%89%E4%BA%9B%E7%BD%91%E7%AB%99%E6%B2%A1%E6%9C%89%E8%AE%BE%E9%99%90%E5%88%B6%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%BE%88%E5%A4%9A%E7%9B%B8%E5%85%B3%E6%96%87%E7%8C%AE%EF%BC%8C%E6%88%96%E8%80%85%E4%BC%9A%E6%89%BE%E5%88%B0%E4%B8%80%E4%BA%9B%E6%9C%89%E7%94%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%EF%BC%8C%E6%9C%89%E5%BF%85%E8%A6%81%E5%8F%AF%E4%BB%A5%E5%86%8D%E5%BE%80%E4%B8%8A%E5%B1%82%E8%B5%B0%EF%BC%8C%E4%B8%80%E8%88%AC%E9%83%BD%E4%BC%9A%E6%9C%89%E6%94%B6%E8%8E%B7%E3%80%82">http://www.parknride/com/documents/prdemand.pdf%EF%BC%8C%E5%88%99%E5%BA%94%E8%AF%A5%E5%86%8D%E5%9B%9E%E6%BA%AF%E5%88%B0%E4%B8%8A%E5%B1%82%E7%9B%AE%E5%BD%95%EF%BC%9Ahttp://www.parknride/com/documents/%EF%BC%8C%E6%9C%89%E4%BA%9B%E7%BD%91%E7%AB%99%E6%B2%A1%E6%9C%89%E8%AE%BE%E9%99%90%E5%88%B6%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%BE%88%E5%A4%9A%E7%9B%B8%E5%85%B3%E6%96%87%E7%8C%AE%EF%BC%8C%E6%88%96%E8%80%85%E4%BC%9A%E6%89%BE%E5%88%B0%E4%B8%80%E4%BA%9B%E6%9C%89%E7%94%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%EF%BC%8C%E6%9C%89%E5%BF%85%E8%A6%81%E5%8F%AF%E4%BB%A5%E5%86%8D%E5%BE%80%E4%B8%8A%E5%B1%82%E8%B5%B0%EF%BC%8C%E4%B8%80%E8%88%AC%E9%83%BD%E4%BC%9A%E6%9C%89%E6%94%B6%E8%8E%B7%E3%80%82</a>
-还有一种就是很多图书类使用章节编号的，而且使用上面的方法也看不到，则可根据章节顺序编号用支持断点续传的下载软件直接进行下载，如：
-<a href="http://www.parknride/com/documents/ch01.pdf">http://www.parknride/com/documents/ch01.pdf</a>
-则可改成<a href="http://www.parknride/com/documents/ch02.pdf%E7%AD%89%EF%BC%8C%E7%9B%B4%E5%88%B0%E4%B8%8D%E8%83%BD%E4%B8%8B%E4%B8%BA%E6%AD%A2%EF%BC%8C%E5%B0%81%E9%9D%A2%E7%94%A8cover%EF%BC%8C%E7%9B%AE%E5%BD%95contents%EF%BC%8C%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AEreference%E6%88%96bibliography%E3%80%82">http://www.parknride/com/documents/ch02.pdf%E7%AD%89%EF%BC%8C%E7%9B%B4%E5%88%B0%E4%B8%8D%E8%83%BD%E4%B8%8B%E4%B8%BA%E6%AD%A2%EF%BC%8C%E5%B0%81%E9%9D%A2%E7%94%A8cover%EF%BC%8C%E7%9B%AE%E5%BD%95contents%EF%BC%8C%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AEreference%E6%88%96bibliography%E3%80%82</a></p>
-
-<p>⑤ 通过bbs资源查找相关资料和资源
-专业bbs上有很多资源是可以下载的，需要有耐心去找，但国内很多bbs提供下载的资源都是有积分限制的，找到有用的资料后，即可利用搜索引擎的功能直接找。</p>
-
-<p>⑥ 使用代理
-国外各大学都有自己的电子数据库，有些是免费，对于有限制的则只好使用代理，一般这种代理需要到专业相关的bbs才可以找到，国内比较好的文献查询资源bbs有：网上读书园地www.readfree.ne和零点花园<a href="http://ldbbs.512j.com/bbs/%EF%BC%8C%E5%8F%A6%E5%A4%96%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86%E6%9C%80%E5%A5%BD%E7%94%A8Myie%E6%AF%94%E8%BE%83%E6%96%B9%E4%BE%BF%E3%80%82">http://ldbbs.512j.com/bbs/%EF%BC%8C%E5%8F%A6%E5%A4%96%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86%E6%9C%80%E5%A5%BD%E7%94%A8Myie%E6%AF%94%E8%BE%83%E6%96%B9%E4%BE%BF%E3%80%82</a>
-from:<a href="http://chl033.woku.com/article/2840905.html">http://chl033.woku.com/article/2840905.html</a>
-1.? SCI/EI/ISTP/一级期刊的基本知识;
-2.? 如何利用数据库和查找文献；
-3.? 如何寻找领域前沿；
-4.? 如何撰写高水平论文和投稿；
-5.? 把握数量和质量的平衡。
-1.1 SCI
-1.1.1  SCI索引
-    SCI（科学引文索引，英文全称Science Citation Index）是美国科学情报研究所（Institute for Scientific Information，简称ISI）拥有的世界著名的期刊文献检索工具。
-SCI是SCI的光盘核心库；而SCI-Expanded (简称SCIE)是SCI的扩展库。国内高校在统计论文索引情况时一般对SCI和SCIE都认可为SCI索引。</p>
-
-<p>1.1.2 ISTP会议录索引
-    ISI Proceedings (ISTP - Index to Scientific &amp; Technical Proceedings)，ISTP科学技术会议录索引是美国ISI编辑出版的查阅各种会议录的网络数据库。目前国内很多高校也在统计ISTP索引的数量。
-? 一般而言SCI索引的会议必然会被ISTP同时索引，但是反之不然。</p>
-
-<p>1.1.3  影响因子IF
-? 期刊引用报告JCR(Jorunal Citation Reports)是ISI对其SCI索引的期刊进行的参数化评价，影响因子IF(Impact Factor) 是其中一项最有代表性的参数。
-? IF是当年其它SCI论文引用该刊此前2年所发表文章次数除以该刊前2中发表的文章数目，其值越大，说明该期刊越重要。
-影响因子IF举例
-? 2004年计算机软件工程大类方面的76种期刊中，影响因子最大的是JOURNAL OF MACHINE LEARNING RESEARCH(5.952),最小的是COMPUTER GRAPHICS WORLD为0,国内最高水平的JOURNAL OF COMPUTER SCIENCE&amp;TECHNOLOGY为0.28，2004年LNCS的影响因子为0.513
-? 需要强调单篇文章的引用次数问题，自引与他引的问题。</p>
-
-<p>1.1.4  SCI收录期刊分区
-   随SCI在国内的普遍使用，高影响因子期刊的论文刊发量逐渐成为学术评价的关注重点。但是一个刊物的影响引子每年有变动，各个领域刊物影响引子也不具可比性。因此，中科院根据影响因子大小，按学科对SCI收录期刊进行年度分区，水平从高到低分为1234四个区。这样对一个刊物水平高低的认定维持在相对稳定的定义上。不论什么领域，只要论文发表的刊物在同一分区上，就可以认为这些论文水平相当。2004年版SCI分区目录<a href="http://10.11.32.135/cglw/scie_2004FQ.asp">http://10.11.32.135/cglw/scie_2004FQ.asp</a></p>
-
-<p>1.1.5  会议是否SCI索引
-? 最直接的方法是看会议主页上的说明。如果说明中没有明确肯定，则可以写信给会议的组织方咨询，一般老外答复都是比较含蓄的（例如我师兄的ICCS经历），而国内的答复就会非常直接（其实国内会议如果是SCI的都会在主页上隆重注明的）。
-? 另外还可以直接查询看这个会议前几年是否都是SCI索引，但是有的会议会隔年索引，所以这个办法不是非常可靠。使用这个办法还要注意SCI索引中会议的缩写格式，以免漏查。
-1.1.6  LNCS会议被SCI收录
-? 目前计算机领域的LNCS系列会议基本会被SCI收录。</p>
-
-<p>1.1.7?最后要说明的是索引周期，即从论文出版到被SCI索引需要一段时间，会议论文一般大概是三个月左右。</p>
-
-<p>1.2 EI索引
-1.2.1? 美国《工程索引》 EI（Engineering Index），由美国工程信息公司（Engineering Information Inc.）创办，主要收录工程技术期刊文献和会议文献的大型检索系统。</p>
-
-<p>1.2.2 EI-Compendex和Page One
-? Ei Compendex标引文摘收录论文的题录、摘要、主题词和分类号，进行深加工；有没有主题词和分类号是判断论文是否被Ei正式收录的唯一标志。
-? 据说2006年起EI取消光盘版，只有EI Village2，即 Compendex和Page One合并。
-Ei PageOne
-? Ei PageOne题录不列入文摘，没有主题词和分类号，不进行深加工。有的PageOne也带有摘要，但没有主题词和分类号。所以带有文摘不一定算做正式进入Ei。
-? 请注意学校里面说的EI一般是指前者！在数据库中检索时，要主要看清楚检索结果中的检索序列号是否11位，并且数据库源是否Compendex。</p>
-
-<p>1.2.3 SCI和EI会议
-? 目前学校更认可SCI索引，虽然很多很高级别的会议也只被EI收而不被SCI收。从这一点来说，其实文章最好先投SCI的会议，以免“浪费”。
-? 对期刊而言，SCI有一个评价标准例如影响因子等，而EI则不然，所以这对EI也是一个不太好的因素。
-索引的周期
-? 对会议来说，SCI的索引周期前面说过一般是三个月左右，而EI就没有固定规律，从一两个月到将近一年的都曾经碰到过。</p>
-
-<p>1.2.4 确定会议是否EI索引
-? 对一个会议来说，是否确定EI收很难，即使是会议的主办方，一般也不可能百分百确定本届全部几册都会被索引（依据：我师兄投CE2004时电话咨询的过程）。但是一般来说，如果一个会连续几届都被EI全收，那么这届就不会有问题。另外，有些会议会在海报上注明自己是会被EI收的，这种也是可以投的。</p>
-
-<p>比较有用的LN系列
-? 德国Springer出版社的LNCS（Lecture Notes in Computer Science）和荷兰的Brill Academic出版社的LSCCS (Lecture Series on Computer and Computational Sciences)都确定被SCI全收。
-? 注意：同一个出版社的其他会议论文集系列不一定会被SCI收！例如Springer的Lecture Notes in Computational Intelligence。
-推荐的一些国际会议
-? 周围同学和一些老师公认的评价原则（重要性依次递减）：针对性、届数、录用篇数、录用率、特邀嘉宾的影响力。
-? 网络上大家公认新加坡南洋理工的一个帖子，网址如下：
-? <a href="http://www.ntu.edu.sg/home/assourav/crank.htm">http://www.ntu.edu.sg/home/assourav/crank.htm</a>
-? 请注意这些会议级别和SCI、EI并无直接关系，也就是说，顶级不见得SCI或者EI。
-? Rank 1的文章1篇，胜过普通会议10篇。
-AREA: System Technology
-SIGCOMM: ACM Conf on Comm Architectures, Protocols &amp; Apps
-INFOCOM: Annual Joint Conf IEEE Comp &amp; Comm Soc
-SOSP: ACM SIGOPS Symp on OS Principles
-SOSDI: Usenix Symp on OS Design and Implementation
-CCS: ACM Conf on Comp and Communications Security
-IEEE Symposium on Security and Privacy
-MOBICOM: ACM Intl Conf on Mobile Computing and Networking
-USENIX Conf on Internet Tech and Sys
-ICNP: Intl Conf on Network Protocols
-以上都是本人关注的网络、系统和安全的顶级会议，许多论文后来都被推荐到IEEE 或ACM Transactions系列。
-关于LNCS
-? 如果只是认准SCI的话，推荐，相关的会议列表可在其主页上下载，一般比较完整详细，但也有计划外指标（这几年国内主办了不少）。
-? 如果感觉你自己的文章很有感觉，或者觉得你的idea过于新奇，不妨投投顶级会议看看最权威的评价，对于你的研究将会有莫大的帮助。
-? 按照前几届师兄的提法，不要投业内知名的垃圾会议如ICMLC和SMC，LNCS也有此倾向。</p>
-
-<p>中文期刊级别
-? 一级与A类，一级要比A类的范围小些。一级其实是校人事处定的，估计最初是定给学校的教职员工的；而A类是明确定给研究生教育的，所以从两者的选取原则上有一定差别。
-? 请注意，这里列出的一级是某高校的一级，各个学校和单位的目录可能会有所差别
-本学科一级名单
-? 原有的：计算机科学与技术学报(英文版)、电子学报(中、英文版)、计算机学报(中、英文版)、软件学报、计算机研究与发展、自动化学报、系统工程理论与实践(中、英文版)、模式识别与人工智能、计算机辅助设计与图形学学报、中国图象图形学报。
-? 去年学校新增加的：计算机集成制造系统、控制与决策。
-其它相关学科一级名单
-? 科学通报(中、英文版)、中国科学(A-E辑)(中、英文版)、制理论与应用、通信学报、电子与信息学报等。具体目录可参考学校人事处文件。</p>
-
-<p>2 如何使用文献数据库
-? IEL:即IEE和IEEE，最具知名度和影响力；
-? Elsevier Science Direct On Site (SDOS)：荷兰的一个出版集团，也极其影响力；
-? ACM Digital Library：ACM的所有文献；
-? Lecture Notes in Computer Science：即Springer公司的LNCS系列会议，虽是SCI但水平不高，作为文献价值不大。
-? CNKI：清华的中国期刊网，能全文检索。</p>
-
-<p>SCI数据库的使用
-? ISI Web of Knowledge：即SCI检索库；
-? 熟练使用SCI数据库非常有用，请务必掌握；
-? 除查找被收录的文献外，还可以使用JCR;</p>
-
-<p>JCR和影响因子
-? Journal Citation Report,包括各类期刊的影响因子。
-? 建议找到一个学科，按影响因子IF排序，一般来说，IF高的难度大，低的难度小，不过太低的，如&lt;0.1比较危险，可能被淘汰。
-? 注意IF可以通过计算得到，国内有些期刊如《计算机学报》、《计算机研究与发展》等得出自己的IF，但我们所谈论的是SCI期刊间的引用，不可同日而语。</p>
-
-<p>利用GOOGLE
-? 其实，从某种意义上讲，GOOGLE也很有效。直接输入全部或部分文献名，作者名等均可；
-? 我来浙大前，在自己这个方向搜集了大约200篇文献，95％从因特网上获取；
-? 无法从因特网上直接获取的文献，往往被引用率也不高，因为别人难以得到。
-? 建议至少读500篇外文文献，其中100篇精读。</p>
-
-<p>3.1 如何寻找领域前沿
-  确定方向，读一些国内一级或IEEE Magazine的综述;
-  熟悉本领域最具影响的国际期刊（IEEE Transactions）和顶级会议(Rank 1)；
-  在最近3年的期刊或论文集中寻找自己感兴趣方向的文章5篇左右;
-  认真反复读懂（可能需要较长时间）；</p>
-
-<p>3.2 如何寻找领域前沿
-  跟踪国际会议，把握前沿脉搏；（Hotnets）
-  熟悉领域大牛，争取和他们建立通信，定期访问他们的主页，了解最新动向；（我的体会）；</p>
-
-<p>4.1 如何撰写高水平论文
-  话题要新，紧跟前沿；
-  文献要新、丰富、高水平；投国外一般不引用国内期刊，投国内则必须；
-  最好有数学公式，体现理论深度；
-  试验环境和结果要介绍清楚；
-  性能最好和前人方案比较，有说服力；
-  投国外多用图表，投国内多用定义。</p>
-
-<p>4.2 如何投稿
- 找到网站，国外一般可以电子投稿；国内则一般电子和书面文档均需要；
- 国外无需审稿费，国内期刊要审稿费，一般100-200元，会议一般不要；
- 发表费用，国外期刊基本不用，国内一级一般>1000元，国际会议一般2000－4000，学生注册可以便宜些。
- 投稿后，隔1、2个月可以催一下。</p>
-
-<p> 如何投稿
- 不论是否要求，建议另起一页，写清所有作者的学校、身份、简历和研究方向；
- 如投中文一级期刊，不妨写一份简单的说明，如文章成果的一些解释等，言词尽量客气。
- 如果投会议，可以自己选择一些会议并设定时间表，投A如被拒改B,接着CDE等，时间安排好一年至少可以投6-8轮。
- 和老板沟通投稿事宜
- 有些老板希望发高水平国际期刊或顶级会议；
- 有些老板可能不在意，只要SCI/EI就行；
- 无论如何，投稿前务必和老板沟通一下，避免不必要的麻烦。
- 把握数量和质量的平衡
- 清楚老板对自己的要求；
- 先易后难，循序渐进。先发1－2篇会议，再1－2篇国内期刊，最后1－2篇国际高水平期刊或顶级会议。
- 多发文章：损失太多经费、一稿多投道德风险、浪费宝贵的时间和精力。
- 注意事项：
- 不要一稿多投，但尚无明确定义，一中一英？一个会议一个期刊？
- 不要伪造数据，胡编乱造。
- 如果今后想在学术上继续发展，更要注意文章质量而非数量。（SCI删除的例子）。
-from:<a href="http://chl033.woku.com/article/2893317.html">http://chl033.woku.com/article/2893317.html</a></p>
-
-<p>计算机学术期刊排名：Computer Science Journal Rankings
-AREA: Databases</p>
-
-<p>  Premium:
-Information Systems
-ACM Trans on Database Systems
-IEEE Trans on Knowledge &amp; Data Engineering
-VLDB Intl Journal
-ACM Trans on Information Systems
-Jnl of Intell. Info Systems: Integrating AI and DB Tech</p>
-
-<p>Leading:</p>
-
-<p>Distributed and Parallel Databases
-Data &amp; Knowledge Engineering
-Jnl of Systems Integration
-Jnl. of Data Mining &amp; Knowledge Discovery
-Intl Jnl of Computer &amp; Information Sciences
-Intl Jnl of Cooperative Information Systems
-Intl Jnl of Intelligent &amp; Cooperative Info. Systems
-Intl Jnl of Geographic Information Systems
-Journal of Information Processing and Cybernetics
-Geoinformatica
-Journal on Digital Libraries
-Journal of the American Society for Information Science
-Journal of Intelligent Information Systems</p>
-
-<p>Reputable:</p>
-
-<p>Data Engineering
-Knowledge and Information Systems
-Advances in Engineering Software
-Information &amp; Software Technology
-Data Base
-Data Base Management
-Database and Network Journal
-Journal of Data Warehousing
-Journal of Combinatorics, Information and System Sciences
-International Journal of Information Technology
-Transactions of Information Processing Society of Japan
-SIGMOD Record
-IEICE Data Engineering</p>
-
-<p>  Others:</p>
-
-<p>Journal of Computing Information Science
-Journal of Information Science and Engineering
-European Journal of Information Systems
-Journal of Databases Management
-Database for Advances in Information Systems
-Data Management
-Datamation
-Government Data Systems
-Journal of Database Administration
-Journal of the Association for Education Data Systems
-Information Processing and Management
-Journal of Information Science: Principles and Practice
-Database Programming and Design
-Scandinavian Journal of Information System</p>
-
-<p>AREA: Artificial Intelligence
-Premium:</p>
-
-<p>Artificial Intelligence
-Computational Linguistics
-IEEE Trans on Pattern Analysis and Machine Intl
-IEEE Trans on Robotics and Automation
-IEEE Trans on Image Processing
-Journal of AI Research
-Neural Computation
-Machine Learning
-Intl Jnl of Computer Vision
-IEEE Trans on Neural Networks</p>
-
-<p>Leading:</p>
-
-<p>Artificial Intelligence Review
-ACM Transactions on Asian Language Information Processing
-AI Magazine
-Annals of Mathematics and AI
-Applied Artificial Intelligence
-Applied Intelligence
-Artificial Intelligence in Medicine
-Autonomous Agents and Multi-Agent Systems
-Computational Intelligence
-Complex Systems
-Computer Speech and Language
-Computer Support for Collaborative Learning (CSCL)
-Computer Vision and Image Understanding
-Connection Science
-CVGIP: Graphical Models &amp; Image Processing
-CVGIP: Image Understanding
-Expert Systems with Applications: An Intl Jnl
-IEEE Transaction on Speech and Audio Proc
-IEEE Trans on Systems, Man, &amp; Cybernetics, Part A &amp; B
-Intl Jnl on Artificial Intelligence Tools
-Jnl of Experimental &amp; Theoretical AI
-Journal of East Asian Linguistics
-Knowledge Engineering Review
-Machine Translation
-Neural Networks
-Network Computing in Neural Systems
-Pattern Analysis and Applications
-Pattern Recognition
-Neurocomputing
-User Modelling &amp; User-Adapted Interaction: an Intl Jnl</p>
-
-<p>Reputable:</p>
-
-<p> Communications of COLIPS
-Computer Processing of Chinese &amp; Oriental Languages
-Computers and Artificial Intelligence
-Cybernetics and Systems
-Engineering Intelligent Systems for EE and CS
-Expert Systems
-Evolutionary Computation
-Intelligent Instruments &amp; Computers
-Intl Jnl for AI in Engineering
-Intl Jnl of Applied Expert Systems
-Intl Jnl of Approximate Reasoning
-Intl Jnl of Intelligent Systems
-Intl Jnl of Neural Systems
-Intl Jnl of Pattern Recognition &amp; AI
-Intl Journal of Document Analysis and Recognition
-IEEE Transactions on Fuzzy Systems
-Journal of Intelligent and Fuzzy Systems
-Knowledge Acquisition Jnl
-Knowledge-Based Systems
-Kybernetika
-Natural Language Engineering
-Neural Computing &amp; Applications
-Network Society
-Neural Processing Letters
-Pattern Recognition Letters
-IEE Proceedings: Vision, Image and Signal Proc
-Speech Communications
-Journal of Neural Network Computing
-Minds and Machines: Jnl for AI, Philosopy and Cog. Sc
-Intl Jnl of Uncertainty, Fuzziness and KBS
-Heuristics: Jnl of Knowledge Engineering
-Engineering Applications of AI
-Jnl. of Japanese Soc. of AI
-Australian Jnl of Intelligent Information Proc Sys
-Intelligent Data Analysis
-Image and Vision Computing
-Journal of Artificial Neural Networks
-Neural, Parallel and Scientific Computations
- Robotica</p>
-
-<p>Others:</p>
-
-<p> AIAA Journal
-Canadian Artificial Intelligence
-Journal of Advanced Robotics
-Journal of Artificial Intelligence in Education
-Journal of Artificial Intelligence in Engineering, Automation, and Manufacturing
-Journal of Artificial Intelligence, Neural Networks and Complex
-Journal of Computational Acoustics
-Journal of Computational Neuroscience
-Journal of Computational Vision
-Journal of Card. Imaging
-Journal of Cybernetics
-Journal of Cybernetics and Information Science
-Journal of Design Automation of Embedded Systems
-Journal of Knowledge-Based Intelligent Engineering Systems
-Journal of Intelligent Robotic Systems: Theory and Applications
-Journal of Systems Automation: Research and Applications
-Journal of Automation and Remote Control
-Journal of Intelligent Automation &amp; Soft Computing
-Journal of Intelligent Control and Systems
-Journal of Intelligent and Robotic Systems
-Journal of Intelligent Manufacturing
-Journal of Intelligent Systems Engineering
-Journal of Intelligence System
-Journal of Intelligent Technology
-Journal of Literary and Linguistic Computing
-Journal of Machine Vision and Applications
-Journal of Man-Machine Studies
-Journal on Neural and Mass-Parallel Computing and Information Systems
-Journal of Robotics and Mechatronics
-Journal of Robotic Systems
-Journal of Robotics and Autonomous Systems
-Journal of Robotics Research
-Journal of the Robotics Society of Japan
-Journal of Computational Neurology
-International Journal of Lexicography
-Journal of intelligent Computing
-International Journal of Intelligent Systems in Accounting Finance and Management
-International Journal of Speech Technology
-Engineering Design and Automation Journal
-International Journal of Machine Tools &amp; Manufacturing
-International Journal of Corpus Linguistics
-Journal of Chinese Information Processing
-AREA: Algorithms, Theory and Related Areas</p>
-
-<p>  Premium:</p>
-
-<p> Algorithmica
-Computational Complexity
-Discrete &amp; Computational Geometry
-IEEE Trans on Information Theory
-Information &amp; Computation
-Jnl of Algorithms
-Jnl of Computer and System Sciences
-Jnl of the Association for Computing Machinery
-SIAM Jnl on Computing
-ACM Trans on Computational Logic (TOCL)</p>
-
-<p>Leading:</p>
-
-<p> Acta Informatica
-Chicago Journal of Theoretical Computer Science
-Designs, Codes and Cryptography
-Jnl of Symbolic Computation
-Journal of Automated Reasoning
-Journal of Graph Algorithms and Applications
-Journal of Complexity
-Journal of Cryptology
-JOTA - J. of Optimization: Theory and Applications
-Mathematics of Computation
-Mathematical Programming
-Optimization: A J. of Mathematical Programming and Operations Research
-ORSA Journal of Computing
-Nordic J of Computing (BIT)
-SIAM Journal on Optimization
-Random Structures &amp; Algorithms
-Theoretical Computer Science</p>
-
-<p>Reputable:</p>
-
-<p> Applicable Algebra in Eng., Comm., and Computing
-Applied Maths and Computation
-BIT: Computer Science and Numerical Mathematics
-Bulletin of the European Assoc. for Theoretical CS
-Computational and Applied Maths
-Computers &amp; Mathematics With Applications
-Combinatorics, Probability &amp; Computing
-European Journal of OR
-Journal of Computer and System Sciences International
-Intl Jnl of Foundations of Computer Science</p>
-
-<p>Others:</p>
-
-<p>  Problem Solving Technologies
-Journal of Algebraic Combinatorics
-Journal of Combinatorial Designs
-Journal of Combinatorial Optimization
-Journal of Experimental Algorithmics
-Journal of Electronic Imaging
-Intl Jnl for Numerical Methods in Engineering
-SIAM Journal of Algorithms and Discrete Methods
-SIAM Journal on Algebraic and Discrete Methods
-SIAM Journal on Numerical Analysis
-SIAM Journal on Matrix Analysis and Applications
-Naval Journal of Operations Research
-Journal of Scheduling
-Electronic Journal of Combinatorics
-Journal of Mathematical Modeling and Scientific Computing
-Journal of Mathematical Structures in Computer Science
-International Journal on Mathematical and Computer Models
-Journal of Global Optimization
-Journal of Computational Statistics and Data Analysis
-AREA: Hardware and Architecture</p>
-
-<p>Premium:</p>
-
-<pre><code>      IEEE Trans on Circuits and Systems I
-      IEEE Trans on Computers
-      Integration: The VLSI Jnl
-      VLSI Design
-</code></pre>
-
-<p> Leading:</p>
-
-<pre><code>      IEEE Trans on Circuits and Systems II
-      Jnl of Microcomputer Applications
-      Microprocessing and Microprogramming
-</code></pre>
-
-<p>  Reputable:</p>
-
-<pre><code>      Computer Design
-      Digital Processes
-      Electronics Letters,
-      EUROMICRO Jnl
-      Jnl of Circuits, Systems and Computers
-      Jnl of Electronics, Information and Systems
-      Microprocessors and Microsystems
-      Supercomputer
-      IEEE Journal on Computer Architectures for Intelligent Machines
-</code></pre>
-
-<p>  Others:</p>
-
-<pre><code>  Signal Processing
-  Technical Journal of Digital Equipment Corporation
-  The Linux Journal
-  IBM Application System/400 Technology Journal
-  Journal of System Architecture
-  NEC Technical Journal
-  International Journal of Computer Aided VLSI Design
-  MRS Internet Journal of Nitride Semiconductor Research
-  Standards and Interface Journal
-  International Journal of Mini and Microcomputers
-  Journal of Microelectronic Systems Integration
-  User Modeling and User-Adapted Interaction
-  The X Resource: A Practical Journal of the X Window System
-  Hewlett-Packard Journal
-</code></pre>
-
-<p>AREA: Programming Languages and Software Engineering</p>
-
-<p>  Premium:</p>
-
-<p> ACM Trans on Programming Languages &amp; Systems
-IEEE Trans on Software Engineering
-Jnl of Functional Programming
-ACM Trans on S/W Eng and Methodology
-Formal Methods in System Design</p>
-
-<p>  Leading:</p>
-
-<p>Theory and Practice of Logic Programming (past: Jnl of Logic Programming)
-IEE Procs - Software
-Jnl of Software Maintenance: Research and Practice
-Higher-Order and Symbolic Computation (previously known as
-LISP and Symbolic Computation)
-Software: Practice and Experience
-Jnl of Functional and Logic Programming
-The Constraints Journal
-Journal of Logic and Computation
-Journal of Programming Languages
-Empirical Software Engineering
-Automated Software Engineering
-Formal Aspects of Computing
-Object-Oriented Systems
-Theory and Practice of Object Systems
-Journal of Object-Oriented Programming
-IEEE Transactions on Reliability
-Future Generations Computer Systems: FGCS
-Science of Computer Programming</p>
-
-<p>  Reputable:</p>
-
-<p> Programming and Computer Software
-Jnl of Systems and Software
-Intl Jnl on Software Engineering and Knowledge Eng
-New Generation Computing
-Software Quality Journal
-Software Testing, Verification and Reliability
-Computer Languages
-Requirements Engineering Journal
-IEE Software Engineering Journal</p>
-
-<p> Others:</p>
-
-<p>Journal of the Interest Group in Pure and Applied Logic
-Notre Dame Journal of Formal Logic
-Journal of Computer and Software Engineering
-Journal of Structured Programming
-International Journal on Software Tools for Technology Transfer
-Chinese Journal of Advanced Software Research
-Journal of Computing Systems in Engineering
-Journal of Symbolic Logic
-Project Management Journal
-International Journal of Reliability, Quality, and Safety
-Journal for Applied Nonclassical Logic
-The Journal of Defense Software Engineering
-Computer &amp; Control Engineering Journal
-Journal of Logic, Language and Information
-Computer Systems Engineering Journal
-Journal of Automata, Languages and Combinatorics
-The C Users Journal
-Information Design Journal
-Java Developer&rsquo;s Journal
-C++ Journal
-Fortran Journal
-Journal of Scientific Programming
-Logic Journal of the IGPL
-Journal of Philosophical Logic
-Journal of Quality Technology
-International Journal of Technology Management
-Software Process Modeling and Technology
-Journal of Computers and Translation
-Journal of C Language Translation
-Journal of Electronic Testing
-Software Engineering Notes</p>
-
-<p>AREA: Media &amp; Software Technology</p>
-
-<p>  Premium:</p>
-
-<p> ACM Trans on Graphics
-ACM Trans on Modeling &amp; Computer Simulation
-Computer Aided Geometric Design
-Computer-Aided Design
-IEEE Trans on Visualization and Computer Graphics
-SIAM Jnl on Scientific and Statistical Computing
-Multimedia Systems
-Performance Evaluation
-Journal of Visual Communication and Image Representation
-  Leading:</p>
-
-<p> Computers &amp; Education
-ACM Trans on Mathematical Software
-Hypermedia
-Intl Jnl of Modelling &amp; Simulation
-Intl Jnl of Shape Modelling
-Intl Jnl on Computational Geometry &amp; Apps
-Simulation &amp; Games
-Simulation &amp; Gaming
-Visual Computer
-Computational Geometry - Theory and Applications
-Simulation
-Multimedia Tools &amp; Applications
-Intl Jnl in Computer Simulation
-Integrated Computer-Aided Engineering
-Information Retrieval</p>
-
-<p>Reputable:</p>
-
-<p> Computer Graphics Forum: Jnl of the Europ As. for CG
-Computer &amp; Graphics
-Intl Jnl of Applied Software Technology
-Jnl of Computational and Applied Mathematics
-Mathematical and Computer Modelling
-Mathematics and Computers in Simulation
-International Journal of Computer Mathematics
-Simulation Practice and Theory
-The New Review of Hypermedia &amp; Multimedia: Apps &amp; Res
-Trans of the Intl Assoc for Math and Comps in Simuln
-Computer Simulation: Modeling &amp; Analysis
-Trans of the Society for Computer Simulation
-Journal of Visual Languages and Computing
-Engineering Computations
-Software - Concepts and Tools
-Journal of Visualization and Computer Animation
-The International Journal of The Eurographics Association</p>
-
-<p>Others:</p>
-
-<p>  Iranian Journal of Electrical and Computer Engineering
-Journal of Digital Imaging
-Journal of Concurrent Engineering: Applications and Research
-Digital Technical Journal
-Interface Journal of New Music Research
-SPIE Journal of Electronic Imaging
-The Journal of Electronic Commerce
-Journal of Graphics Tools
-International Journal of Information Processing and Management
-Journal of Library Automation
-The Journal of Computer Game Design
-Journal of Documentation
-Virtual Prototyping Journal
-Journal of Computing and Information Technology
-SIAM Journal on Scientific Computing.
-Journal of the Virtual Reality Society
-Journal of Virtual Reality Research, Development and Applications
-Journal of Computational and Graphical Statistics</p>
-
-<p>AREA: System Technology</p>
-
-<p>  Premium:</p>
-
-<p>  IEEE Trans on Communications
-Jnl of Parallel and Distributed Computing
-ACM Trans on Computer Systems
-IEEE/ACM Trans on Networking
-ACM Trans on Information Systems
-IEEE Trans on Parallel and Distributed Systems
-Distributed Computing
-IEEE Jnl on Selected Areas in Communication
-Computer Networks (Previously &ldquo;&amp; ISDN Networks&rdquo;)
-Real-time Systems
-IEEE Trans on Computers
-Integration: The VLSI Jnl
-VLSI Design</p>
-
-<p>Leading:</p>
-
-<p> International Journal of Parallel Programming
-Networks
-Internet Research - Electronic Networking Applications and Policy
-Computer Communications
-Jnl of Computer Communications
-Jnl of Network and Computer Applications
-Parallel Computing
-Mobile Networks and Applications
-Jnl of High Speed Networks
-Wireless Networks
-Queueing Systems
-The Intl Jnl of Supercomputer Applications
-Concurrency - Practice and Experience
-IEEE Journal of Internet Computing
-ACM Transactions on Information and System Security
-Jnl of Microcomputer Applications
-Journal of Systems Architecture (past: Microprocessing and Microprogramming)</p>
-
-<p> Reputable:</p>
-
-<p> Computers &amp; Security
-IEE Proc. - Communications
-IEICE Trans on Fundamentals of Elec., Comm., and Comp.
-IEICE Trans on Communications
-Mobile Computing and Communicatons Review
-Distributed Systems Engineering Jnl
-Intl Jnl of High Speed Computing
-World Wide Web Journal
-Electronic Networking
-Intl Jnl of Communication Systems
-Signal Processing: Image Communication
-Telecommunication Systems
-International Journal of Systems Science
-Journal of Cryptography
-Internet Security Journal
-Journal of Networks and Systems Management
-International Journal of Wireless Information Networks
-An Interactive Journal of Mobile Computing
-Computer Design
-Digital Processes
-EUROMICRO Jnl
-Jnl of Circuits, Systems and Computers
-Jnl of Electronics, Information and Systems
-Microprocessors and Microsystems
-Supercomputer
-IEEE Journal on Computer Architectures for Intelligent Machines</p>
-
-<p>Others:</p>
-
-<p>  Information &amp; Systems Technology
-Jnl of Computer Security
-Parallel Processing Letters
-IBM Systems Journal
-The International Journal of Computer and Telecommunications Networking
-USENIX Computing Systems Journal
-AT&amp;T Technical Journal
-Journal of Internetworking: Research and Experience
-Fujitsu Scientific and Technical Journal
-Computer Music Journal
-Journal of Computer-based Instruction
-ICL Technical Journal
-International Journal of Imaging Systems and Technology
-International Journal of Digital and Analog Communication System
-Journal of Supercomputer Application of High Performance Computing
-Journal of Decision Support Systems
-Journal of Computer Research and Development
-British Telecommunications Technology Journal
-The Journal of Interactive Media and Education
-International Journal of Time-Critical Computing Systems
-International. Journal of CAD/ CAM &amp; Comp. Graphics
-Educational Communication and Technology Journal
-The International Journal on the Development and Application of Standards for Computers, Data Communications and Interfaces
-Journal of Electronic Publishing
-Web Journal
-Microsoft Systems Journal
-Journal of Data &amp; Computer Communication
-Journal of Supercomputing
-Journal of Imaging Technology
-INESC Journal on Junior Activities in Science and Technology
-The Journal of Electronic Data Interchange
-ISPRS Journal of Photogrammetry and Remote Sensing
-International Journal of CIM
-International Journal of Circuit Theory and Applications
-Journal of Digital Systems
-IVHS Journal
-Journal Design Automation and Fault Tolerant Computing
-Journal of the American Voice I/O Society
-Journal of the Communications Research Lab
-International Journal of Construction information Technology
-Journal of Computer Communication Review
-Real-Time Imaging Journal
-Journal of Lightwave Technology
-Journal of Advanced Automation Technology
-Journal of Technology Transfer
-TI Technical Journal
-Journal of Imaging Science and Technology
-Journal of Mathematical Imaging and Vision
-The journal of the Interactive Multimedia Association
-Transputer Communication Journal
-Bell System Technical Journal
-Journal of Combinatorial Designs
-Journal of Combinatorial Optimization
-Journal of Reliable Computing
-Journal of Digital Library Research
-Signal Processing
-Technical Journal of Digital Equipment Corporation
-The Linux Journal
-IBM Application System/400 Technology Journal
-Journal of System Architecture
-NEC Technical Journal
-International Journal of Computer Aided VLSI Design
-MRS Internet Journal of Nitride Semiconductor Research
-Standards and Interface Journal
-International Journal of Mini and Microcomputers
-Journal of Microelectronic Systems Integration
-User Modeling and User-Adapted Interaction
-The X Resource: A Practical Journal of the X Window System
-Hewlett-Packard Journal</p>
-
-<p>AREA: Biomedical</p>
-
-<p>  Premium:</p>
-
-<p> Jnl of the American Medical Informatics Assoc (JAMIA)
-Journal of Computational Biology
- Leading:</p>
-
-<p> Computers in Biomedical Research
-Methods of Information in Medicine
-Medical Decision Making
-Bioinformatics</p>
-
-<p>Reputable:</p>
-
-<p> Computer Applications in the BioSciences: CABIOS
-Computers in Biology and Medicine
-Medical Informatics
-International Journal of Medical Informatics</p>
-
-<p>Others:</p>
-
-<p> Journal of Applied and Computational Harmonic Analysis
-International Journal of Bio-Medical Computing
-Australian Journal of Biological Sciences
-Journal of Computer Aided Surgery
-Journal of Computer-Aided Molecular Design
-International Journal of Clinical Monitoring and Computing
-Journal of Chemical Information and Computer Sciences</p>
-
-<p>AREA: General Computer Science and Related Journals</p>
-
-<p>  Premium:</p>
-
-<p> SIAM Jnl on Discrete Mathematics
-Operations Research</p>
-
-<p> Leading:</p>
-
-<p> Communications of the ACM
-ACM Computing Surveys
-Procs of the IEEE
-Information Processing Letters
-IBM Journal of R &amp; D
-International Journal of General Systems
-Adaptive Behavior
-Discrete Applied Mathematics
-Discrete Mathematics</p>
-
-<p>  Reputable:</p>
-
-<p>Computer Journal
-Computing
-Fuzzy Sets and Systems
-IBS Computing Quarterly
-Information Sciences
-Intl Jnl of Computer Applications in Technology
-Intl Jnl of Computer System Science &amp; Engineering
-Jnl of Computer Science and Technology
-Jnl of Computing and Information
-Jnl of Information Processing
-Australian Computer Jnl
-Journal on Universal Computer Science
-IEICE Trans on Infomation and Systems
-Computer Methods and Programs in Biomedicine
-Finite Fields and their Applications
-Instructional Science</p>
-
-<p>Others:</p>
-
-<p>Journal of Computational Chemistry
-Computers and Geosciences: An International Journal
-Computer/Law Journal
-Journal of Law and Information Science
-Journal of Combinational Mathematics and Combinational Computer science
-International Journal of Computers and Mathematics
-Journal of Computational Physics
-Journal of Computational Physiology
-Journal of Computing and Electronics in Agriculture
-Journal of Computing in Civil Engineering
-The Journal of Engineering with Computers
-Social Science Computing Journal
-International Journal of Computer Integrated Manufacturing
-Journal of the National Academy of Sciences
-Journal of Indian Institute of Science
-British Journal of Educational Technology
-International Journal of Mathematical Education in Science and Technology
-Computer and High Technology Law Journal
-Japan Journal of Science, Technology and Society
-Journal of Computers in the Humanities
-Cybermetrics: International Journal of Scientometrics, Informetrics and Bibliometrics
-Journal of Research of the National Institute of Standards and Technology
-International Journal of Computer Science and Information Management
-Chinese Journal of Computers
-Journal Educational Computing Research
-International Journal of Human-Computer Studies
-Journal of Computer Assisted Learning
-AICHE Journal
-South African Journal of Computer Science
-Journal of the Brazilian Computer Society
-SMPTE Journal
-CSCW-Journal
-ICCA Journal
-Journal of ASIS
-Journal of Computer Assisted Tomography
-URISA Journal
-INFORMATIK Journal of the Swiss Informaticians Society
-Journal of KISS, The Korea Information Science Society
-Journal of Informatics in Primary Care
-AIEDAM journal
-NCR Journal of Research and Development
-JSME International Journal
-Journal of the Swiss Computer Science Society
-The Canadian Journal of Information Science
-Australian Computer Science Communications
-Interacting with Computers
-ISPRS Journal
-Journal of RTS
-Abakus, The Journal of the Computer Science Dept., University College Cork
-International Journal of Human-Computer Studies
-Advances in Computers
-Design Automation of Electronic Systems (TODAES)
-Letters on Programming Languages and Systems (LOPLAS)
-SIGIR Forum
-SIGPLAN Notices
-Operating Systems Review
-Mathematical Structures in Computer Science
-Electronic Notes in Theoretical Computer Science
-Information Fusion
-AI Communications
-Artificial Intelligence and Law
-Computing Systems
-Markup Languages
-International Journal of Intelligent Systems
-Software Focus
-Software Process: Improvement and Practice
-Systems and Computers in Japan
-Acta Cybernetica
-Colombian Journal of Computation (RCC)
-Informatica (Lithuanian Academy of Sciences)
-Informatica (Slovenia)
-DBMS - The Database &amp; Client/Server Solutions Magazine
-Journal of Computer-Mediated Communication (JCMC)
-JQL - Journal of Quantitative Linguistics
-<a href="http://chl033.woku.com/article/2816381.html">http://chl033.woku.com/article/2816381.html</a>
-影响因子&ndash;国外优秀计算机科学期刊50种
-1 BIOINFORMATICS    1367-4803  4.615
- 2 J MACH LEARN RES  1532-4435  3.818
- 3 IBM J RES DEV   0018-8646  3.700
- 4 IEEE NETWORK   0890-8044  3.400
- 5 IEEE PERS COMMUN  1070-9916  3.048
- 6 J COMPUT AID MOL DES  0920-654X  2.931
- 7 IEEE T PATTERN ANAL  0162-8828  2.923
- 8 IEEE T MED IMAGING  0278-0062  2.911
- 9 J CHEM INF COMP SCI  0095-2338  2.902
- 10 MIS QUART   0276-7783  2.872
- 11 ACM COMPUT SURV  0360-0300  2.769
- 12 MED IMAGE ANAL   1361-8415  2.680
- 13 IEEE T IMAGE PROCESS  1057-7149  2.553
- 14 USER MODEL USER-ADAP  0924-1868  2.524
- 15 IEEE ACM T NETWORK  1063-6692  2.408
- 16 COGNITIVE BRAIN RES  0926-6410  2.404
- 17 NEURAL COMPUT   0899-7667  2.313
- 18 HUM-COMPUT INTERACT  0737-0024  2.310
- 19 J MOL GRAPH MODEL  1093-3263  2.293
- 20 IEEE T INFORM THEORY  0018-9448  2.045
- 21 INT J COMPUT VISION  0920-5691  2.034
- 22 INFORM SYST   0306-4379  2.000
- 23 MACH LEARN   0885-6125  1.944
- 24 IEEE INTELL SYST   1094-7167  1.905
- 25 CHEMOMETR INTELL LAB  0169-7439  1.841
- 26 ANNU REV INFORM SCI  0066-4200  1.778
- 27 J AM SOC INF SCI TEC  1532-2882  1.773
- 28 ARTIF INTELL   0004-3702  1.769
- 29 IEEE T VIS COMPUT GR  1077-2626  1.741
- 30 NETWORK-COMP NEURAL  0954-898X  1.733
- 31 J ACM    0004-5411  1.708
- 32 J CRYPTOL   0933-2790  1.647
- 33 NEURAL NETWORKS  0893-6080  1.557
- 34 J COMPUT PHYS   0021-9991  1.553
- 35 ARTIF LIFE   1064-5462  1.526
- 36 BIOL CYBERN   0340-1200  1.511
- 37 INFORM PROCESS MANAG  0306-4573  1.506
- 38 COMMUN ACM   0001-0782  1.497
- 39 IEEE T EVOLUT COMPUT  1089-778X  1.486
- 40 IEEE T COMPUT   0018-9340  1.484
- 41 IEEE T NEURAL NETWOR  1045-9227  1.404
- 42 ACM T INFORM SYST  1046-8188  1.385
- 43 J STRATEGIC INF SYST  0963-8687  1.346
- 44 COMPUT FLUIDS   0045-7930  1.344
- 45 AI MAG    0738-4602  1.328
- 46 IEEE T FUZZY SYST   1063-6706  1.324
- 47 INFORM MANAGE-AMSTER  0378-7206  1.299
- 48 J INFORM TECHNOL  0268-3962  1.268
- 49 CMES-COMP MODEL ENG  1526-1492  1.256
- 50 J MOL MODEL   0948-5023  1.235
-from:<a href="http://chl033.woku.com/article/2893387.html">http://chl033.woku.com/article/2893387.html</a>
-SCI论文全攻略之构思与撰文
-推荐一、写作框架和各部分要求</p>
-
-<p>Title: Be short, accurate, and unambiguous; Give your paper a distinct personality; Begin with the subject of the study.</p>
-
-<p>Introduction: What is known; What is unknown; Why we did this study?</p>
-
-<p>Methods: Participants, subjects; Measurements; Outcomes and explanatory variables; Statistical methods.</p>
-
-<p>Results: Sample characteristics; Univariate analyses; Bivariate analyses; Multivariate analyses.</p>
-
-<p>Tables and figures: No more than six tables or figures; Use Table 1 for sample characteristics (no P values); Put most important findings in a figure.</p>
-
-<p>Discussion: State what you found; Outline the strengths and limitations of the study; Discuss the relevance to current literature; Outline your implications with a clear &ldquo;So what?&rdquo; and &ldquo;Where now?&rdquo;</p>
-
-<p>References: All citations must be accurate; Include only the most important, most rigorous, and most recent literature; Quote only published journal articles or books; Never quote &ldquo;second hand&rdquo;; Cite only 20-35 references.</p>
-
-<p>Formatting: Include the title, author, page numbers, etc. in headers and footers; Start each section on a new page; Format titles and subtitles consistently; Comply with &ldquo;Instructions to authors&rdquo;.</p>
-
-<p>二、英文写作的语言技巧</p>
-
-<ol>
-<li><p>Introduction：</p></li>
-<li><p>如何指出当前研究的不足并有目的地引导出自己研究的重要性？在叙述前人成果之后，用However来引导不足，提出一种新方法或新方向。如：However, little information(little attention/little work/little data/little research……)(or few studies/few investigations/few researchers/few attempts……)(or no/none of these studies……)has(have)been done on(focused on/attempted to/conducted/investigated/studied(with respect to))。如：Previous research (studies, records) has (have) failed to consider/ ignored/ misinterpreted/ neglected to/overestimated, underestimated/misleaded. thus, these previous results are inconclisive, misleading, unsatisfactory, questionable, controversial. Uncertainties (discrepancies) still exist……研究方法和方向与前人一样时，可通过以下方式强调自己工作：However, data is still scarce(rare, less accurate)，We need to(aim to, have to) provide more documents(data, records, studies, increase the dataset). Further studies are still necessary(essential)……</p></li>
-</ol>
-
-
-<p>强调自己研究的重要性，一般还要在However之前介绍与自己研究问题相反或相关的问题。比如：(1)时间问题；(2)研究手段问题；(3)研究区域问题；(4)不确定性；(5)提出自己的假设来验证。如果你研究的问题在时间上比较新，你可大量提及时间较老问题的研究及重要性，然后(However)表明“对时间尺度比较新的问题研究不足”；如果你的是一种新的研究手段或研究方向，你可提出当前流行的方法及其物质性质，然后(However)说对你所研究的方向方法研究甚少；如果研究涉及区域问题，就先总结相邻区域或其它区域的研究，然后(However)强调这一区域的研究不足；虽然前人对某一问题研究很多，但目前有两种或更多种观点，这种uncertainties或ambiguities值得进一步澄清；如果自己的研究是全是新的，没有前人的工作可对比，你就可以自信地说“根据假设提出的过程，存在这种可能的结果，本文就是要证实这种结果”等等。We aim to test the feasibility (reliability) of the……It is hoped that the question will be resolved (fall away) with our proposed method (approach).</p>
-
-<ol type="a">
-<li><p>提出自己的观点：We aim to//This paper reports on//This paper provides results//This paper extends the method//This paper focus on……The purpose of this paper is to……Furthermore, Moreover, In addition, we will also discuss……</p></li>
-<li><p>圈定自己的研究范围：introduction的另一个作用就是告诉读者(包括reviewer)，你文章的主要研究内容。如果处理不好，reviewer会提出严厉的建议，比如你没有考虑某种可能性，某种研究手段等。为减少这种争论，在前言的结尾就必须明确提出本文研究的范围：(1)时间尺度；(2) 研究区域等。如涉及较长的时序，你可明确提出本文只关心某一特定时间范围的问题，We preliminarily focus on the older (younger)……如有两种时间尺度 (long-term and short term)，你可说两者都重要，但是本文只涉及其中一种。研究区域的问题，和时间问题一样，也需明确提出你只关心某一特定区域！</p></li>
-<li><p>最后的圆场：在前言的最后，还可以总结性地提出“这一研究对其它研究有什么帮助”；或者说further studies on……will be summarized in our next study (or elsewhere)。总之，其目的就是让读者把思路集中到你要讨论的问题上来。尽量减少不必要的争论(arguments)。</p></li>
-<li><p>Discussion：</p></li>
-<li><p>怎样提出观点：在提出自己的观点时，采取什么样的策略很重要，不合适的句子通常会遭到reviewer置疑。(1)如果观点不是这篇文章最新提出的，通常要用We confirm that……(2)对于自己很自信的观点，可用We believe that……(3)通常，由数据推断出一定的结论，用Results indicate, infer, suggest, imply that……(4) 在极其特别时才可用We put forward(discover, observe)……&#8221;for the first time&#8221;来强调自己的创新……(5) 如果自己对所提出的观点不完全肯定，可用We tentatively put forward (interrprete this to…)Or The results may be due to (caused by) attributed to resulted from……Or This is probably a consequence of……It seems that……can account for (interpret) this……Or It is posible that it stem from……要注意这些结构要合理搭配。如果通篇是类型1)和5)，那这篇文章的意义就大打折扣。如果全是2)，肯定会遭到置疑。所以要仔细分析自己成果的创新性以及可信度。</p></li>
-<li><p>连接词与逻辑：写英文论文最常见的毛病是文章的逻辑不清楚，解决方法如下。</p></li>
-</ol>
-
-
-<p>(1)注意句子上下连贯，不能让句子独立。常见的连接词有，However, also, in addition, consequently, afterwards, moreover, Furthermore, further, although, unlike, in contrast, Similarly, Unfortunately, alternatively, parallel results, In order to, despite, For example, Compared with, other results, thus, therefore……用好连接词能使文章层次清楚，意思明确。比如，叙述有时间顺序的事件或文献，最早的文献可用AA advocated it for the first time.接下来可用Then BB further demonstrated that. 再接下来，可用Afterwards, CC……如果还有，可用More recent studies by DD……如果叙述两种观点，要把它们截然分开AA put forward that……In contrast, BB believe or Unlike AA, BB suggest or On the contrary (表明前面观点错误)，如果只表明两种观点对立，用in contrast BB……如果两种观点相近,可用AA suggest……Similarily, alternatively, BB……Or Also, BB or BB allso does……表示因果或者前后关系可用Consequently, therefore, as a result……表明递进关系可用furthermore, further, moreover, in addition……写完一段英文，最好首先检查是否较好地应用了这些连接词。</p>
-
-<p>(2) 注意段落布局的整体逻辑：经常我们要叙述一个问题的几个方面。这种情况下，一定要注意逻辑结构。第一段要明确告诉读者你要讨论几个部份……Therefore, there are three aspects of this problem have to be addressed. The first question involves……The second problem relates to……The third aspect deals with……清晰地把观点逐层叙述。也可以直接用First, Second, Third, Finally……当然，Furthermore, in addition等可以用来补充说明。</p>
-
-<p>(3) 讨论部份的整体结构：小标题是把问题分为几个片段的好方法。通常第一个片段指出文章最重要的数据或结果；补充说明部份放在最后一个片段。一定要明白，文章的读者分为多个档次；除了本专业的专业人士读懂以外，一定要想办法能让更多的外专业人读懂。所以可以把讨论部份分为两部份，一部份提出观点，另一部份详细介绍过程以及论述的依据。这样专业外的人士可以了解文章的主要观点，比较专业的讨论他可以把它当成黑箱子，而这一部份本专业人士可以进一步研究。</p>
-
-<p>C.讨论部分包括什么内容？(1)主要数据及其特征的总结；(2)主要结论及与前人观点的对比；(3) 本文的不足。对第三点，一般作者看来不可取，但事实上给出文章的不足恰恰是保护自己文章的重要手段。如果刻意隐藏文章的漏洞，觉得别人看不出来，是非常不明智的。所谓不足，包括以下内容：(1)研究的问题有点片面，讨论时一定要说，It should be noted that this study has examined only……We concentrate (focus) on only……We have to point out that we do not……Some limitations of this study are……(2)结论有些不足，The results do not imply……The results can not be used to determine(or be taken as evidence of)……Unfortunately, we can not determine this from this data……Our results are lack of……但指出这些不足之后，一定要马上再次加强本文的重要性以及可能采取的手段来解决这些不足，为别人或者自己的下一步研究打下伏笔。Not withstanding its limitation, this study does suggest……However, these problems could be solved if we consider……Despite its preliminary character, this study can clearly indicate……用中文来说这是左右逢源，把审稿人想到的问题提前给一个交代，同时表明你已经在思考这些问题，但是由于文章长度，试验进度或者试验手段的制约，暂时不能回答这些问题。但通过你的一些建议，这些问题在将来的研究中有可能实现。</p>
-
-<ol>
-<li><p>Others：</p></li>
-<li><p>为使文章清楚，第一次提出概念时，最好以括弧给出较详细解释。如文章用了很多Abbreviation可用两种方法解决：(1) 在文章最后加上个Appendix，把所有Abbreviation列表；(2)在不同页面上不时地给出Abbreviation的含义，用来提醒读者。</p></li>
-<li><p>绝对不能全面否定前人的成果，即使在你看来前人的结论完全不对。这是对前人工作最起码的尊重，英文叫做给别人的工作credits.所以文章不要出现非常negative的评价，比如Their results are wrong, very questionable, have no commensence, etc.遇到这类情况，可以婉转地提出：Their studies may be more reasonable if they had……considered this situation.Their results could be better convinced if they……Or Their conclusion may remain some uncertanties.</p></li>
-</ol>
-
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Submit | SecDr]]></title>
   <link href="http://secdr.github.io/categories/submit/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-12-11T11:32:28-08:00</updated>
+  <updated>2015-12-11T15:06:43-08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -12,6 +12,113 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[论文返修模板3]]></title>
+    <link href="http://secdr.github.io/2015/12/11/lun-wen-fan-xiu-mo-ban-3/"/>
+    <updated>2015-12-11T14:39:29-08:00</updated>
+    <id>http://secdr.github.io/2015/12/11/lun-wen-fan-xiu-mo-ban-3</id>
+    <content type="html"><![CDATA[<p>博客中已近有一些论文返修的套话，这里再补充一些模板，方便大家返修的时候使用：</p>
+
+<p>Dear Editor，</p>
+
+<p>We would like to thank the editor for giving us a chance to resubmit the paper, and also thank the reviewers for giving us constructive suggestions which would help us both in English and in depth to improve the quality of the paper. Here we submit a new version of our manuscript with the title “………………………”, which has been modified according to the reviewers’ suggestions. Efforts were also made to correct the mistakes and improve the English of the manuscript. We mark all the changes in red in the revised manuscript.</p>
+
+<p>Sincerely yours,</p>
+
+<p>XXX</p>
+
+<!--more-->
+
+
+<p>The following is a point-to-point response to the two reviewers’ comments.</p>
+
+<h3>Reviewer #1:</h3>
+
+<p>General comments:</p>
+
+<p>Reviewer #1: The paper presents an interesting experimental investigation to assess the photocatalytic degradation of polyethylene plastic with goethite under UV irradiation. The research work is clearly presented but the conclusions, the introduction and other parts of the paper relate the results obtained with unjustified claims about the impact of the work. In addition, the background information provided in the introduction part needs significant enrichment. In particular:</p>
+
+<p>Answer: Thank you for the comments on the paper. We have revised the manuscript as suggested since we consider that some sentences or descriptions in the Conclusion part are not so accurate based on the results.  Page 3, line 46: recycling is not available…</p>
+
+<p>Even though a large amount of agricultural plastic waste in burnt or buried in the fields, some quantities of specific categories of good quality agricultural plastic waste are recycled in several countries while research efforts and projects are in progress to improve the corresponding percentage. The authors should refer to the corresponding recent literature.</p>
+
+<p>Answer:Yes. Your opinions inspired us and we revised the manuscript accordingly. In the revised paper, the sentence “Recycling is not available for economy,” was changed to “In order to reduce costs, the thickness of application agriculture films in some regions in China is less than 0.005 mm result in diffcult to recycle, And because the process of recycling is expensive and time-consuming, only a small percentage of the agricultural plastic waste is currently recycled at the end of cultivation in China ”(Page 3 line 49-52).
+Page 3, line 76: biodegradable and photodegradable….</p>
+
+<p>There are developments in the area of biodegradable materials that indicate the opposite. Concerning photodegradable materials, they are not considered to represent a solution as they have not been proven to be biodegradable. The authors should refer to the corresponding recent literature.</p>
+
+<p>Answer: Thank you for reminding us the improper description on the study. We have the improper parts revised accordingly and hope that this new manuscript will be convincing ( Page 3 line 52-55).
+Page 4, line 65: find an eco-friendly….</p>
+
+<p>The best eco-friendly disposal for agricultural plastic waste is recycling and for non-recyclable materials, energy recovery. Degrading materials produced from fossil sources is not an eco-friendly disposal! The authors should refer to the corresponding recent literature.</p>
+
+<p>Answer: Thank the reviewer for the comments. We’ve recognized that some of the descriptions in the previous copy were really not so accurate and a little bit arbitrary due to our poor English level and the study on recent literature. After consulting more references, we therefore revised paper to be more reasonable and convincing.
+Page 4, line 66: to carbon dioxide and water….</p>
+
+<p>Conversion of fossil oil based materials into carbon dioxide and water is much worse than converting renewable-based materials into carbon dioxide and water</p>
+
+<p>Answer: Thank the reviewer for the comments. We’ve recognized that this description in the previous copy were not accurate, due to our poor study on recent literature. The sentence “it is very important to find an eco-friendly disposal of plastic waste where they degrade to carbon dioxide and water under the sunlight irradiation without producing toxic byproducts.” has been deleted.
+Page 6, line 112: volatile products….</p>
+
+<p>Define the products.</p>
+
+<p>Answer: We have defined the volatile products in Page 6 line 124-125.
+Page 9, line 185: eco-friendly disposal….</p>
+
+<p>The claims of the authors that this technique is an eco-friendly one are not justified. The conclusions and other parts of the paper need to be rewritten and limit the scope of the presented research work to the technical objectives without deriving unjustified general conclusions and claims about the impact of this work.</p>
+
+<p>Answer: Thank the reviewer for the comments. We’ve recognized that this description in the previous copy were not accurate. The sentence “The development of this kind of composite polymer can lead to an eco-friendly disposal of polymer wastes.” was changed to “The present paper intends to study goethite as photocatalytst for degradating plastic. Further attention could be focused on the application of the technique.” (Page 9 line 192-194).</p>
+
+<h3>Reviewer #2:</h3>
+
+<p>/1. Title and abstract should indicate that the work has been done with PE-Goethite composite film.</p>
+
+<p>Answer: Your suggestion is greatly appreciated. We agree and therefore change the title to: Solid-phase photocatalytic degradation of polyethylene–goethite composite film under UV-light irradiation.</p>
+
+<p>/2. Please revise the first paragraph of &lsquo;Introduction&rsquo;.  It is difficult to understand.  In general, the language of the paper should be revisited.</p>
+
+<p>Answer: The Introduction part has been rewritten both in contents and in English. We particularly revised some sentences since they are not correct or so confusing.</p>
+
+<p>/3. Materials and methods - Details of the chemicals to be furnished</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and the details of the chemicals has been shown in Page 4 line 79-83.</p>
+
+<p>/4. Characterization are required for PE (Molecular weight, grade) and Goethite prepared (particle size, BET surface area, SEM-EDS and XRD)</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and the characterization for PE has been shown in Page 4 line 79. The Goethite prepared (particle size, BET surface area, SEM and XRD) has been reported by Liao et al. (2007), We clarify that in the revised manuscript in Page 5 line 91-93.</p>
+
+<p>/5. A schematic diagram of the experimental set up to be given</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and a schematic diagram of the experimental has been given in Fig. 1 in the present paper. The original Fig. 1. was changed to Fig. 2 and Fig. 3.</p>
+
+<p>/6. Results - A rate equation should be proposed from the time-weight data</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and the rate equation a schematic diagram of the experimental has been given in Table. 1in the present paper.</p>
+
+<p>/7. A few data are required to show the influence of process parameters such as goethite loading, intensity of UV radiation.</p>
+
+<p>Answer: Reviewer and editor’s suggestions have been adopted and the influence of goethite loading has been shown in Fig. 2 in the present paper. And the influence of intensity of UV radiation has been shown in Fig. 3 in the present paper. The original Fig. 2 was changed to Fig. 4 and The original Fig. 3 was changed to Fig. 5 in the present paper.</p>
+
+<p>/8. Until other intermediates are isolated, upto Eqn.(7) (line 162) is sufficient.</p>
+
+<p>Answer: Reviewer and editor’s suggestions have been adopted and We changed the Eqns as recommended. Eqs. (8)-(12) are deleted and Eqn.(7) was change to “–(CH2CH2)– + .OH → degradationproducts” (Page 9 line 184).</p>
+
+<p>/9. Figure 3 and 4: 3 pairs are required, namely (i) Only PE film before and after irradiation, (ii) PE-Goethite film (0.4wt %) - before and after irradiation (iii) PE-Goethite film (1.0 wt %) - before and after irradiation.</p>
+
+<p>Answer: Reviewer and editor’s suggestions have been adopted and the original Fig. 3 and 4 was changed to Fig .5 in the present paper.</p>
+
+<p>/10. Point 3 above is also applicable for SEM photographs. Please rearrange and clearly mark the difference between the films before and after irradiation for both SEM and FTIR results.</p>
+
+<p>Answer: Thank the reviewer and editor’s for the comments. During the revision of the paper, we did a supplementary experiment got some new SEM photographs, which has been shown in Fig. 4 in the present paper. And The FTIR results has been rearranged in Fig.5 in the present paper, respectively.</p>
+
+<p>/11. It should be clearly mentioned in the conclusion that the degradation was more when goethite loading and intensity of light both were more</p>
+
+<p>Answer: The reviewer and editor’s suggestions have been adopted and the conclusions has been changed in Page 9 line 192-198.</p>
+
+<p>原文出处: <a href="http://emuch.net/html/201004/1977263.html">wzz525-文章要求修改，求response to review的模板</a>;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[论文返修一些很有用的套话II]]></title>
@@ -278,22 +385,37 @@ Attachment: PDF file of the manuscript.
 
 <p>7、Please find enclosed the response to the comments of reviewers. The manuscript has been carefully revised in response to the reviewers’comments and suggestions; detailed responses to their comments are below. Our reply is in italic font, whereas the reviewers’ specific comments are not italicized. We thank the reviewers for their suggestions, which have significantly improved this m/s.</p>
 
-<p>总结了一部分万能的套话，足以体现我们对杂志社编辑和审稿人的尊重。
-1、According to the associate editor and reviewers’ comments, we have made extensive modifications to our manuscript and supplemented extra data to make our results convincing.
-2、In this revised version, changes to our manuscript were all highlighted within the document by using red colored text.
-3、Thank you for your nice comments on our article. According to your suggestions, we have supplemented several data here and corrected several mistakes in our previous draft. Based on your comments, we also attached a point-by-point letter to you and the other two reviewers. We have made extensive revisions to our previous draft. The detailed point-by-point responses are listed below.
-4、Thanks for your help. We feel really sorry for our carelessness.
-5、Thank you for your reminding. You and the other two reviewers’ comments are all of great importance to our article. All of these comments have contributed a lot to improve the quality of our article. After this revision, we have written a point-by-point response letter to you as you can see above. Meanwhile, we also wrote a point-by-point response letter to the other two nice reviewers to acknowledge their helps and denote where we made revisions.
-6、We feel great thanks for your professional review work on our article. As you are concerned, there are several problems that need to be addressed. According to your nice suggestions, we have made extensive corrections to our previous draft. We have added necessary data to supplement our results and edited our article extensively. The detailed corrections are listed below.
-7、We feel sorry that we did not provide enough information about XXXX.
-8、it is really a giant mistake to the whole quality of our article. We feel sorry for our carelessness. We have corrected it and we also feel great thanks for your point out.
-9、thanks for your suggestions. We feel sorry for our poor writings, however, we do invite a friend of us who is a native English speaker from USA help polish our article. Due to our friend’s help, the article was edited extensively. And we hope the revised manuscript could be acceptable for you.
-10、thanks for your careful checks. We are sorry for our carelessness. Based on your comments, we have made the corrections to make the unit harmonized within the whole manuscript.
-11、your suggestion really means a lot to us. Yes, it would be more understandable if we XXX.
-12、According to your suggestion, we have corrected the “XXX” into “XXX”.
-13、 thanks for your correction. It was indeed a serious grammatical error. And we have corrected it according to your suggestion.
-14、thanks for your suggestions. We feel sorry for the improper wording. We have used “XXXX” as you suggested.
-15、According to the reviewer’s comments, we have revised the manuscript extensively. If there are any other modifications we could make, we would like very much to modify them and we really appreciate your help. “xxxx” is a journal of great popularity and prestige. We hope that our manuscript could be considered for publication in your journal. Thank you very much for your help.</p>
+<p>总结了一部分万能的套话，足以体现我们对杂志社编辑和审稿人的尊重。</p>
+
+<p>1、According to the associate editor and reviewers’ comments, we have made extensive modifications to our manuscript and supplemented extra data to make our results convincing.</p>
+
+<p>2、In this revised version, changes to our manuscript were all highlighted within the document by using red colored text.</p>
+
+<p>3、Thank you for your nice comments on our article. According to your suggestions, we have supplemented several data here and corrected several mistakes in our previous draft. Based on your comments, we also attached a point-by-point letter to you and the other two reviewers. We have made extensive revisions to our previous draft. The detailed point-by-point responses are listed below.</p>
+
+<p>4、Thanks for your help. We feel really sorry for our carelessness.</p>
+
+<p>5、Thank you for your reminding. You and the other two reviewers’ comments are all of great importance to our article. All of these comments have contributed a lot to improve the quality of our article. After this revision, we have written a point-by-point response letter to you as you can see above. Meanwhile, we also wrote a point-by-point response letter to the other two nice reviewers to acknowledge their helps and denote where we made revisions.</p>
+
+<p>6、We feel great thanks for your professional review work on our article. As you are concerned, there are several problems that need to be addressed. According to your nice suggestions, we have made extensive corrections to our previous draft. We have added necessary data to supplement our results and edited our article extensively. The detailed corrections are listed below.</p>
+
+<p>7、We feel sorry that we did not provide enough information about XXXX.</p>
+
+<p>8、it is really a giant mistake to the whole quality of our article. We feel sorry for our carelessness. We have corrected it and we also feel great thanks for your point out.</p>
+
+<p>9、thanks for your suggestions. We feel sorry for our poor writings, however, we do invite a friend of us who is a native English speaker from USA help polish our article. Due to our friend’s help, the article was edited extensively. And we hope the revised manuscript could be acceptable for you.</p>
+
+<p>10、thanks for your careful checks. We are sorry for our carelessness. Based on your comments, we have made the corrections to make the unit harmonized within the whole manuscript.</p>
+
+<p>11、your suggestion really means a lot to us. Yes, it would be more understandable if we XXX.</p>
+
+<p>12、According to your suggestion, we have corrected the “XXX” into “XXX”.</p>
+
+<p>13、 thanks for your correction. It was indeed a serious grammatical error. And we have corrected it according to your suggestion.</p>
+
+<p>14、thanks for your suggestions. We feel sorry for the improper wording. We have used “XXXX” as you suggested.</p>
+
+<p>15、According to the reviewer’s comments, we have revised the manuscript extensively. If there are any other modifications we could make, we would like very much to modify them and we really appreciate your help. “xxxx” is a journal of great popularity and prestige. We hope that our manuscript could be considered for publication in your journal. Thank you very much for your help.</p>
 
 <p>原文地址：<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU1NjUyNw==&amp;mid=208866198&amp;idx=1&amp;sn=d363bd37e629dbdbe01de3a14a9710ae&amp;scene=5#rd">论文返修（response letter）最尼玛有用的开场白</a></p>
 ]]></content>
@@ -379,217 +501,6 @@ With all due respect to the reviewer,we felt that this point is  not correct…
 <p>这个过程还是很痛苦的，因为你会觉得丢弃任何一部分都很心痛，这时候可以找个朋友来帮忙（针对有选择障碍的小伙伴），看下哪一部分的内容要去掉，另外，温馨提示，前言和讨论是比较好删字的地方。</p>
 
 <p>原文出处<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU1NjUyNw==&amp;mid=208389651&amp;idx=1&amp;sn=393a45ea966160a74f04d6f75bf147c3&amp;scene=5#rd">论文返修那些事儿，你都明白么</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[论文返修模板]]></title>
-    <link href="http://secdr.github.io/2015/05/21/response-letter-template/"/>
-    <updated>2015-05-21T16:24:15-07:00</updated>
-    <id>http://secdr.github.io/2015/05/21/response-letter-template</id>
-    <content type="html"><![CDATA[<p>提供论文返修的几类模板：</p>
-
-<h3>例 1：</h3>
-
-<p>Dear Prof. XXXX,</p>
-
-<p>Thank you very much for your letter and the comments from the referees about our
-paper submitted to XXXX (MS Number XXXX).</p>
-
-<p>We have checked the manuscript and revised it according to the comments. We submit
-here the revised manuscript as well as a list of changes.</p>
-
-<p>If you have any question about this paper, please don’t hesitate to let me know.
-Sincerely yours,</p>
-
-<!--more-->
-
-
-<h3>例 2：</h3>
-
-<p>Dear Editor and Reviewers:</p>
-
-<p>Thank you for your letter and for the reviewers’ comments concerning our manuscript
-entitled “Paper Title” (ID: 文章稿号). Those comments are all valuable and very
-helpful for revising and improving our paper, as well as the important guiding
-significance to our researches. We have studied comments carefully and have made
-correction which we hope meet with approval. Revised portion are marked in red in
-the paper. The main corrections in the paper and the responds to the reviewer’s
-comments are as flowing:</p>
-
-<p>Responds to the reviewer’s comments:</p>
-
-<p>Reviewer #1:</p>
-
-<ol>
-<li><p>Response to comment: (……简要列出意见……)</p>
-
-<p>Response: ××××××</p></li>
-<li><p>Response to comment: (……简要列出意见……)</p>
-
-<p>Response: ××××××
-……</p></li>
-</ol>
-
-
-<p>逐条意见回答，切忌一定不能有遗漏</p>
-
-<p>针对不同的问题有下列几个礼貌术语可适当用用：</p>
-
-<pre><code>We are very sorry for our negligence of ……...
-We are very sorry for our incorrect writing ……...
-It is really true as Reviewer suggested that……
-We have made correction according to the Reviewer’s comments.
-We have re-written this part according to the Reviewer’s suggestion
-As Reviewer suggested that……
-Considering the Reviewer’s suggestion, we have ……
-</code></pre>
-
-<p>最后特意感谢一下这个审稿人的意见：</p>
-
-<p>Special thanks to you for your good comments.</p>
-
-<p>Reviewer #2:</p>
-
-<pre><code>同上述
-</code></pre>
-
-<p>Reviewer #3:</p>
-
-<pre><code> ××××××
-</code></pre>
-
-<p>Other changes:</p>
-
-<pre><code>1. Line 60-61, the statements of “……” were corrected as “…………”
-2. Line 107, “……” was added
-3. Line 129, “……” was deleted
-××××××
-</code></pre>
-
-<p>We tried our best to improve the manuscript and made some changes in the
-manuscript. These changes will not influence the content and framework of the
-paper. And here we did not list the changes but marked in red in revised paper.
-We appreciate for Editors/Reviewers’ warm work earnestly, and hope that the
-correction will meet with approval.</p>
-
-<p>Once again, thank you very much for your comments and suggestions.</p>
-
-<h3>例 3：</h3>
-
-<p>Dear Professor XXX,</p>
-
-<p>Many thanks for your email of 24 Jun 2013, regarding the revision and advice of the
-above paper in XXX 杂志. Overall the comments have been fair, encouraging and
-constructive. We have learned much from it.</p>
-
-<p>After carefully studying the reviewer’ comments and your advice, we have made
-corresponding changes to the paper. Our response of the comments is enclosed.</p>
-
-<pre><code>(1)
-(2)
-(3)
-(4)
-(5)
-(6)
-</code></pre>
-
-<p>Besides the above changes, we have corrected some expression errors.</p>
-
-<p>Thank you very much for the excellent and professional revision of our manuscript.
-If you need any other information, please contact me immediately by email. My email
-account is <strong><em>, and Tel.is </em></strong>, and Fax is +***.</p>
-
-<p>Yours sincerely,</p>
-
-<h3>例 4：</h3>
-
-<p>Dear Professor XXX,</p>
-
-<p>We very much appreciate the careful reading of our manuscript and valuable
-suggestions of the reviewer. We have carefully considered the comments and have
-revised the manuscript accordingly.</p>
-
-<p>The manuscript is revised submission (×××－××××) with new line and
-page numbers in the text, some grammar and spelling errors had also been corrected.
-Furthermore, the relevant regulations had been made in the original manuscript
-according to the comments of reviewers, and the major revised portions were marked
-in red bold. We also responded point by point to each reviewer comments as listed
-below, along with a clear indication of the location of the revision.</p>
-
-<p>Hope these will make it more acceptable for publication.</p>
-
-<p>List of Major Changes:</p>
-
-<pre><code>1).........
-2).........
-3).........
-</code></pre>
-
-<p>Response to Reviewers:</p>
-
-<pre><code>1).........
-2).........
-3).........
-</code></pre>
-
-<h3>例 5：</h3>
-
-<p>Thank you very much for your letter and advice on our manuscript. We have
-resubmited new version of graphsin accordance with recommendations of the
-technical editor. We have addressed the comments raised by the reviewers, and the
-amendments are highlighted in red in the revised manuscript. We hope that the
-revision is acceptable and look forward to hearing from you soon.</p>
-
-<p>Below, please find the comments in black, followed by our responses in red.
-Exact changes in the manuscript are also presented in red font.</p>
-
-<h3>例 6：</h3>
-
-<p>Dear editors,</p>
-
-<p>Thank you for your kind comments on our manuscript entitled “XX 文章名”. We have
-carefully revised the manuscript according to the reviewer’s comments. Based on the
-suggestions, we have made an extensive modification on the revised manuscript.
-Detailed revision was shown as follows. The changes to our manuscript within the
-document were aslo highlighted by using red colored text.</p>
-
-<ol>
-<li><p>As to the related articles published in Asian Pacific Journal of Cancer Prevention,
-we have always been reading the latest papers that were published in APJCP. In fact, several high-quality papers arouse us great interest before we drafted our manuscript. From our intensive reading of these papers published in APJCP, we get better understanding of the hotspots in breast cancer research. We also get a
-wider view of the regulatory networks that contribute to XXXX. For example, one
-paper entitled “XXXX” showed that metastasis-related molecules could be
-regulated by microRNAs in human tumor metastasis process. This paper led us to
-hypothesize that XXX, a metastasis-associated protein, might also be linked to
-microRNA regulations in breast cancer. Hence, this paper provided a novel clue
-for us to uncover the mechanisms underlying XXXX cancer metastasis. Based on
-all these instructive papers, we have herein added these references to our article in
-the revised version (please see P6, Line 15; P12, Line17; P14, Line 21-22; P15,
-Line 1-4).</p></li>
-<li><p>For the reference format within the article, we are sorry for our incorrect citation
-format. And in this revised version, we have checked carefully of all the citations.
-All citations within the article were formatted into “Family Name et al., Year” for
-over two-author papers, or “Family Name, Year” for only one-author papers.</p></li>
-<li><p>For the reference format after the text, we also feel sorry for our carelessness.
-Previously, we didn’t notice the special format of APJCP. In the revised version,
-we have corrected all the reference formats to meet the requirements of APJCP.
-All the detailed corrections could be seen in the Reference section in which
-changes were marked by red.</p></li>
-</ol>
-
-
-<p>Thank you again for your positive comments on our manuscript. APJCP is an
-influential journal which aims to improve our understanding of cancer prevention.
-From all the papers published in your journal, readers have been learning a lot.
-Hopefully, we could have our article been considered of publication in your
-journal. Should there been any other corrections we could make, please feel free
-to contact us.</p>
-
-<p>Name</p>
-
-<p>Date</p>
-
-<p>此文转载与<a href="http://pan.baidu.com/s/1gdEbG4r">实验室万事屋</a></p>
 ]]></content>
   </entry>
   
