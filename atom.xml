@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-12-15T20:40:38-08:00</updated>
+  <updated>2015-12-15T20:42:45-08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -26,7 +26,7 @@
 
 <h3>accept之后的第5个工作日</h3>
 
-<p>Author Services会发一个title为“Track your article [稿号] submitted to 期刊名”的邮件，告诉你可以在<a href="http://authors.elsevier.com/trackarticle%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BD%A0%E6%96%87%E7%AB%A0%E7%9A%84%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%E3%80%82%E5%B9%B6%E4%B8%94%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%80%E4%B8%AA">http://authors.elsevier.com/trackarticle%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BD%A0%E6%96%87%E7%AB%A0%E7%9A%84%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%E3%80%82%E5%B9%B6%E4%B8%94%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%80%E4%B8%AA</a></p>
+<p>Author Services会发一个title为“Track your article [稿号] submitted to 期刊名”的邮件，告诉你可以在<a href="http://authors.elsevier.com/trackarticle">http://authors.elsevier.com/trackarticle</a> 上看到你文章的处理情况。并且告诉你一个</p>
 
 <!--more-->
 
@@ -44,7 +44,7 @@
 <p>Data Administrator用自己的邮箱发一个title为“Your paper [稿号]submitted to 期刊名”的邮件，通知你要填一些表格了。复制他给你的链接，打开Author Forms网页，将网页里链接的第一个网址打开，是JOURNAL PUBLISHING
 AGREEMENT(主要是问你什么来头，是不是某国家的会员)，按你自己的情况填写完毕，点击continue，系统会自动的打开下一个表格给你填写，依次为FUNDING BODY AGREEMENTS(问你有没有国外某著名基金的资助)，ORDER OFFPRINTS(要多少份抽页，似乎是免费赠送的)。全填完之后，它才会有一个finish的按钮。</p>
 
-<p>在收到Data Administrator邮件的同时，你还会收到Ms. Fiona Healy给你发的一份邮件，title为Article tracking[稿号] - Expected dispatch of proofs。通知你你的proofs清样哪天会出，一般是7天后出。在<a href="http://authors.elsevier.com/trackarticle%E4%B8%8A%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E7%8A%B6%E6%80%81%E3%80%82">http://authors.elsevier.com/trackarticle%E4%B8%8A%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E7%8A%B6%E6%80%81%E3%80%82</a></p>
+<p>在收到Data Administrator邮件的同时，你还会收到Ms. Fiona Healy给你发的一份邮件，title为Article tracking[稿号] - Expected dispatch of proofs。通知你你的proofs清样哪天会出，一般是7天后出。在 <a href="http://authors.elsevier.com/trackarticle">http://authors.elsevier.com/trackarticle</a> 上可以看到状态。</p>
 
 <p>当你填写完一系列的agreements之后，你留的corresponding author邮箱里就会依次收到三个协议的确认邮件，还分别给了网址链接。注意，这些agreements需要在清样给出的日期前填写完毕。这些在Author Form中都能看到。</p>
 
