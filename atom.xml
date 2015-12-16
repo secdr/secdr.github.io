@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-12-12T23:53:44-08:00</updated>
+  <updated>2015-12-15T20:40:38-08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[投elsevier旗下的期刊被接收之后，需要做的事情]]></title>
+    <link href="http://secdr.github.io/2015/12/15/tou-elsevierqi-xia-de-qi-kan-bei-jie-shou-zhi-hou-,xu-yao-zuo-de-shi-qing/"/>
+    <updated>2015-12-15T20:30:24-08:00</updated>
+    <id>http://secdr.github.io/2015/12/15/tou-elsevierqi-xia-de-qi-kan-bei-jie-shou-zhi-hou-,xu-yao-zuo-de-shi-qing</id>
+    <content type="html"><![CDATA[<p>许多帖子都介绍了向Elsevier投稿的步骤，但是对于accept之后要做的事情都说得不具体。为了让被accept的战友们心里有底，省下每天刷新邮箱的焦急。我把我的经历贴出来，希望对大家有帮助。</p>
+
+<h3>revision之后的第5个工作日</h3>
+
+<p>编辑用自己的邮箱发了一个title为“Your Submission”的邮件，告诉你你的修改稿被期刊录用了，然后会说一些自己对稿件的comments。这个时候，你的Elsevier Editorial System 登陆系统上显示的status是“accept”。对于编辑的意见可以不回信.</p>
+
+<h3>accept之后的第5个工作日</h3>
+
+<p>Author Services会发一个title为“Track your article [稿号] submitted to 期刊名”的邮件，告诉你可以在<a href="http://authors.elsevier.com/trackarticle%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BD%A0%E6%96%87%E7%AB%A0%E7%9A%84%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%E3%80%82%E5%B9%B6%E4%B8%94%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%80%E4%B8%AA">http://authors.elsevier.com/trackarticle%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BD%A0%E6%96%87%E7%AB%A0%E7%9A%84%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%E3%80%82%E5%B9%B6%E4%B8%94%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%80%E4%B8%AA</a></p>
+
+<!--more-->
+
+
+<ul>
+<li>OUR REFERENCE = ？</li>
+<li>CORRESPONDING AUTHOR&rsquo;S SURNAME = ？</li>
+</ul>
+
+
+<p>在网上登录就能看到。说白了，就是Elsevier收到了你的稿件，通知你一声他们要开始排版了，要你做好准备填copyright和修改proofs等。</p>
+
+<h3>accept之后第二周第1个工作日</h3>
+
+<p>Data Administrator用自己的邮箱发一个title为“Your paper [稿号]submitted to 期刊名”的邮件，通知你要填一些表格了。复制他给你的链接，打开Author Forms网页，将网页里链接的第一个网址打开，是JOURNAL PUBLISHING
+AGREEMENT(主要是问你什么来头，是不是某国家的会员)，按你自己的情况填写完毕，点击continue，系统会自动的打开下一个表格给你填写，依次为FUNDING BODY AGREEMENTS(问你有没有国外某著名基金的资助)，ORDER OFFPRINTS(要多少份抽页，似乎是免费赠送的)。全填完之后，它才会有一个finish的按钮。</p>
+
+<p>在收到Data Administrator邮件的同时，你还会收到Ms. Fiona Healy给你发的一份邮件，title为Article tracking[稿号] - Expected dispatch of proofs。通知你你的proofs清样哪天会出，一般是7天后出。在<a href="http://authors.elsevier.com/trackarticle%E4%B8%8A%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E7%8A%B6%E6%80%81%E3%80%82">http://authors.elsevier.com/trackarticle%E4%B8%8A%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E7%8A%B6%E6%80%81%E3%80%82</a></p>
+
+<p>当你填写完一系列的agreements之后，你留的corresponding author邮箱里就会依次收到三个协议的确认邮件，还分别给了网址链接。注意，这些agreements需要在清样给出的日期前填写完毕。这些在Author Form中都能看到。</p>
+
+<p>等着7天后给你的清样，修改确认一下，就可以等待文章发表了。</p>
+
+<h3>关于通讯作者更换问题</h3>
+
+<p>大多数导师很忙，所以常是由第一作者来完成投稿。建议在注册和文章中通讯作者都写导师，只是把e-mail留成自己的。建议最后更换可以在清样给出后再修改e-mail的地址；或者给Data Administrator回复一封信，告诉他联系方式改变，不过，这样的话proofs就会发到你后改的邮箱中。我采用的是第一种方法。</p>
+
+<p>有些人在修改稿rivision的时候就更换了通讯作者。具体方法请大家按自己的情况来实施。</p>
+
+<p>以上是我的亲身经历，贴出来供大家参考。最后祝愿所有投稿的战友们都获得令人可喜的成绩！</p>
+
+<p>BTW: 文章来自小木虫，但是未找到原文地址。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SCI 投稿全过程信件模板一览]]></title>
@@ -2581,90 +2630,6 @@ to contact us.</p>
 <p>Date</p>
 
 <p>此文转载与<a href="http://pan.baidu.com/s/1gdEbG4r">实验室万事屋</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SCI写作不得不说的经典替换词]]></title>
-    <link href="http://secdr.github.io/2015/05/18/sci-replace-words/"/>
-    <updated>2015-05-18T00:24:38-07:00</updated>
-    <id>http://secdr.github.io/2015/05/18/sci-replace-words</id>
-    <content type="html"><![CDATA[<p>具体规则如下：</p>
-
-<ul>
-<li>individuals, characters, folks 替换 people , persons.</li>
-<li>positive, favorable, rosy, promising, perfect, pleasurable, excellent, outstanding, superior 替换 good.</li>
-<li>dreadful, unfavorable, poor, adverse, ill 替换 bad（如果bad做表语，可以有be less impressive替换。）</li>
-<li>an army of, an ocean of, a sea of, a multitude of, a host of, if not most 替换 many.</li>
-<li>a slice of, quiet a few 替换 some.</li>
-<li>harbor the idea that, take the attitude that, hold the view that, it is widely shared that, it is universally acknowledged that 替换 think。</li>
-</ul>
-
-
-<!--more-->
-
-
-<ul>
-<li>affair, business, matter 替换 thing.</li>
-<li>shared 替换 common .</li>
-<li>reap huge fruits 替换 get many benefits.</li>
-<li>for my part ,from my own perspective 替换 in my opinion.</li>
-<li>Increasing(ly), growing 替换 more and more（注意没有growingly这种形式。所以当修饰名词时用increasing/growing修饰形容词，副词用increasingly.）</li>
-<li>little if anything或little or nothing 替换 hardly.</li>
-<li>beneficial, rewarding 替换 helpful.</li>
-<li>shopper, client, consumer, purchaser 替换 customer.</li>
-<li>overwhelmingly, exceedingly, extremely, intensely 替换 very.</li>
-<li>hardly necessary, hardly inevitable…替换 unnecessary, avoidable.</li>
-<li>indispensable 替换 necessary.</li>
-<li>sth appeals to sb, sth exerts a tremendous fascination on sb 替换sb take interest in / sb. be interested in.</li>
-<li>capture one&rsquo;s attention 替换 attract one&rsquo;s attention.</li>
-<li>facet, demension, sphere 替换 aspet.</li>
-<li>be indicative of, be suggestive of, be fearful of 替换 indicate,suggest, fear.</li>
-<li>give rise to, lead to, result in, trigger 替换 cause.</li>
-<li>There are several reasons behind sth 替换…reasons for sth.</li>
-<li>desire 替换 want.</li>
-<li>pour attention into 替换 pay attention to.</li>
-<li>bear in mind that 替换 remember.</li>
-<li>enjoy, possess 替换 have（注意process是过程的意思）。</li>
-<li>interaction 替换 communication.</li>
-<li>frown on sth 替换 be against , disagree with sth .</li>
-<li>as an example 替换 for example, for instance.</li>
-<li>next to / virtually impossible 替换 nearly / almost impossible.</li>
-<li>regarding / concerning 替换 about.</li>
-<li>crucial /paramount 替换 important.</li>
-<li>第一（in the first place/the first and foremost）；第二（there is one more point, I should touch on, that…）；第三（the last but not the least）.</li>
-<li>assiduous 替换 hard-working.</li>
-<li>arduous 替换 difficult.</li>
-<li>underdeveloped / financially-challenged 替换poor（因为poor通常含有贬义）.</li>
-<li>demonstrate / manifest 替换 show</li>
-<li>invariably 替换 always.</li>
-<li>perilous / hazardous替换 dangerous.</li>
-<li>formidable 替换 difficult</li>
-<li>quintessential 替换 typical（举例时常用，例如：a quintessential example should be cited that=for example; for instance）.</li>
-<li>distinguished 替换 famous.</li>
-<li>feasible 替换 possible.</li>
-<li>consequently, accordingly替换 so.</li>
-<li>通常，由数据推断出一定的结论，用Results indicate, infer, suggest, imply that……</li>
-</ul>
-
-
-<p>最常见的引述别人观点的词汇</p>
-
-<p>Much of the research  in sexual selection in the last two decades  has examined  how a female’s preference that does not influence her immediate reproductive success can still evolve if it is genetically correlated with another character under direct selection.(不要每次写到研究时总用study，可以用些其它的词汇，比如examine，work。)</p>
-
-<p>Two hypotheses  for female preference evolution—runaway sexual selection and good genes selection—state that  preferences evolve indirectly because they are genetically correlated with male traits that are under direct selection; that is, the preferences themselves are not under direct selection.(在引述别人的观点时，如果不能完全同意，使用state 比show更加中立些。)</p>
-
-<p>Studies of receiver biases suggest  that such analogies might not be broadly applicable.(suggest,又一种较为客观的引述观点的表达方法。)</p>
-
-<p>Burley argued that the preference for red beaks is adaptive because it indicates male health, and this preference is then transferred to leg-band color.(argue,引用别人观点的又一表述。)</p>
-
-<p>According to the anti-monotony hypothesis, habituation plays an important role in the evolution of complex vocalizations in songbirds: Increased song complexity reduces habituation of neighboring males and courting females.(根据…)</p>
-
-<p>Previous studies of acoustic and bioluminescent interactions had emphasized potential advantages to group-signaling organization, such as minimizing predation, preserving species-specific signal characters, or increasing the attractiveness of the group.(带有小小的强调)</p>
-
-<p>48.常见的连接词有，However, also, in addition, consequently, afterwards, moreover, Furthermore, further, although, unlike, in contrast, Similarly, Unfortunately, alternatively, parallel results, In order to, despite, For example, Compared with, other results, thus, therefore……用好连接词能使文章层次清楚，意思明确。比如，叙述有时间顺序的事件或文献，最早的文献可用AA advocated it for the first time.接下来可用Then BB further demonstrated that. 再接下来，可用Afterwards, CC……如果还有，可用More recent studies by DD……</p>
-
-<p>原文地址：<a href="http://mp.weixin.qq.com/s?__biz=MjM5NjI5MTI3Mw==&amp;mid=201597125&amp;idx=1&amp;sn=ba98f6ac64cba9cf33fcc2769675f59b">PETD亚洲善待博士组织</a></p>
 ]]></content>
   </entry>
   

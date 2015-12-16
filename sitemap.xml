@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://secdr.github.io/2015/12/15/tou-elsevierqi-xia-de-qi-kan-bei-jie-shou-zhi-hou-,xu-yao-zuo-de-shi-qing/</loc>
+    <lastmod>2015-12-15T20:30:24-08:00</lastmod>
+  </url>
+  <url>
     <loc>http://secdr.github.io/2015/12/12/sci-tou-gao-quan-guo-cheng-xin-jian-mo-ban-%5B%3F%5D-lan/</loc>
     <lastmod>2015-12-12T08:54:28-08:00</lastmod>
   </url>
@@ -159,14 +163,5 @@
   </url>
   <url>
     <loc>http://secdr.github.io/categories/submit/</loc>
-  </url>
-  <url>
-    <loc>http://secdr.github.io/posts/2/</loc>
-  </url>
-  <url>
-    <loc>http://secdr.github.io/posts/3/</loc>
-  </url>
-  <url>
-    <loc>http://secdr.github.io/posts/4/</loc>
   </url>
 </urlset>
