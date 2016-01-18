@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Paper | SecDr]]></title>
   <link href="http://secdr.github.io/categories/paper/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2015-12-15T20:42:45-08:00</updated>
+  <updated>2016-01-18T14:16:50+08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[牛人看外国文献的方法]]></title>
-    <link href="http://secdr.github.io/2015/10/17/niu-ren-kan-wai-guo-wen-xian-de-fang-fa/"/>
-    <updated>2015-10-17T22:20:06-07:00</updated>
-    <id>http://secdr.github.io/2015/10/17/niu-ren-kan-wai-guo-wen-xian-de-fang-fa</id>
+    <link href="http://secdr.github.io/2015/10/18/niu-ren-kan-wai-guo-wen-xian-de-fang-fa/"/>
+    <updated>2015-10-18T13:20:06+08:00</updated>
+    <id>http://secdr.github.io/2015/10/18/niu-ren-kan-wai-guo-wen-xian-de-fang-fa</id>
     <content type="html"><![CDATA[<p>牛人一
 （从Ph.D到现在工作半年,发了12 篇paper, 7 篇first author.）我现在每天还保持读至少2-3 篇的文献的习惯.读文献有不同的读法.但最重要的自己总结概括这篇文献到底说了什么,否则就是白读,读的时候好像什么都明白,一合上就什么都不知道,这是读文献的大忌,既浪费时间,最重要的是,没有养成良好的习惯,导致以后不愿意读文献.</p>
 
@@ -147,9 +147,9 @@
   
   <entry>
     <title type="html"><![CDATA[IEEE S&P 2015会议论文预读]]></title>
-    <link href="http://secdr.github.io/2015/05/05/ieeesp2015papers/"/>
-    <updated>2015-05-05T12:28:40-07:00</updated>
-    <id>http://secdr.github.io/2015/05/05/ieeesp2015papers</id>
+    <link href="http://secdr.github.io/2015/05/06/ieeesp2015papers/"/>
+    <updated>2015-05-06T03:28:40+08:00</updated>
+    <id>http://secdr.github.io/2015/05/06/ieeesp2015papers</id>
     <content type="html"><![CDATA[<p>作者及原文：<a href="http://www.vonwei.com/post/IEEESP2015Papers1.html">微月信-IEEE S&amp;P 2015会议论文预读</a></p>
 
 <p>IEEE S&amp;P是Rank A的国际信息安全顶级会议，又称Oakland会议，尽管今年（2015）的会议召开还在五月份，不过<a href="http://www.ieee-security.org/TC/SP2015/program.html">官网</a>已经给出了会议程序列表，将进行三天，每天4个Session，每个Session都会将相似方向的最新安全研究成果进行展示。关注顶会的论文和Session方向对安全研究人员是非常必要的。在程序列表中，出现了三篇国内相关的文章，一篇一作来自中科院的Le Guan（本科室友，在国内读博期间分别发了两篇顶会了，很不错的成果，恭喜，另一篇在NDSS 2014上）；另一篇一作来自浙江大学的Boyuan He,看了下他们<a href="http://list.zju.edu.cn/">实验室主页</a>，果然也是有真正学术大牛在引导；最后一篇非一作，来自上海交大。</p>
@@ -431,9 +431,9 @@
   
   <entry>
     <title type="html"><![CDATA[优秀资料推荐]]></title>
-    <link href="http://secdr.github.io/2015/05/03/good-papers/"/>
-    <updated>2015-05-03T23:25:28-07:00</updated>
-    <id>http://secdr.github.io/2015/05/03/good-papers</id>
+    <link href="http://secdr.github.io/2015/05/04/good-papers/"/>
+    <updated>2015-05-04T14:25:28+08:00</updated>
+    <id>http://secdr.github.io/2015/05/04/good-papers</id>
     <content type="html"><![CDATA[<p>本页面会定期推荐个人认为一些不错的安全资料：</p>
 
 <h4>1. 优秀论文推荐</h4>
