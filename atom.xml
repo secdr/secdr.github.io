@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2016-10-19T21:35:57+08:00</updated>
+  <updated>2016-11-02T08:50:14+08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[一文读懂国自然申请流程]]></title>
+    <link href="http://secdr.github.io/2016/11/02/%5B%3F%5D-wen-du-dong-guo-zi-ran-shen-qing-liu-cheng/"/>
+    <updated>2016-11-02T08:44:19+08:00</updated>
+    <id>http://secdr.github.io/2016/11/02/[?]-wen-du-dong-guo-zi-ran-shen-qing-liu-cheng</id>
+    <content type="html"><![CDATA[<p>标书的撰写大概在12月底到2月底，申请书递交到基金委大概在3月中旬，基金委开展形式审查大约在4月下旬前，通讯评审大概5月份，项目主任进行分析和归类评审意见表在6月份，然后7月份组织会议评审，8月底到9月初，发正式资助通知。</p>
+
+<p>形式审查：基金委组织人员对项目进行初步审核，被枪毙的主要原因包括申请人不具备申请条件、项目不在资助范围内、项目成员超项、标书撰写不合格、经费分配不合理等。（温馨提示：项目组成员高级职称的太多，容易超项，根据2016年指南：具有高级专业技术职务（职称）的人员，申请（包括申请人和主要参与者）和正在承担（包括负责人和主要参与者）项目总数合计限为3项）。</p>
+
+<!--more-->
+
+
+<p>通讯评审：形式审查通过的送通讯评审，基金委的网络评审是分成领域进行评审的，同一领域的基金申请书分成若干组，每个组送给相同的一批专家进行审稿。在最后会议评审阶段，也是在同领域内部竞争，不同领域之间并不存在明显的竞争。这对于非常热闹的领域来说，竞争就非常激烈，对于某些不大热闹的领域来说，竞争就没有那么激烈。最后可能会出现，有些申请人条件并不是太强，但是由于同领域内具有相对好的竞争力而得到资助，有些尽管条件很好，但是可能强中更有强中手，最终得不到资助。国青送审3个专家，面上送审5个 专家。</p>
+
+<p><img src="http://secdr.github.io/upload/jijin-1.jpg" alt="" /></p>
+
+<p>通讯评审评审表</p>
+
+<p><img src="http://secdr.github.io/upload/jijin-2.jpg" alt="" /></p>
+
+<p>评审后计算分数，计算公式如下：</p>
+
+<p><img src="http://secdr.github.io/upload/jijin-3.jpg" alt="" /></p>
+
+<p>评分后进行排名：排名前12%的为A类项目，12%到35%的为B类项目，其他为C类项目。（温馨提示：原则上，A类项目为必须资助，除非有特殊情况。B类项目大约有一半多点项目可以资助，C类项目不参与会评，自动不予资助。）</p>
+
+<p>会议评审：会评的重点就是决定哪些A类项目有没有异常，哪些B类项目应该得到资助。是否上会完全取决于网评的好坏，C类项目不予上会。专家评审组对上会项目逐项审议并进行无记名投票，获得1/2以上赞成票的项目予以通过。（温馨提示，能走到上会的约30%）</p>
+
+<p>原文地址：<a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU1NjUyNw==&amp;mid=2652325876&amp;idx=1&amp;sn=50b350b0073b6cec7cd4ac7cab0fb8e8&amp;chksm=84a31bf4b3d492e2ce5b786052802eedef891bffd066884c9e6068047448790c1652d6d9c5c1&amp;scene=0#rd">一文读懂国自然申请流程</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[如何做一流的研究]]></title>
@@ -2398,199 +2430,6 @@ Page 9, line 185: eco-friendly disposal….</p>
 
 <p>来源：小木虫
 原文链接：<a href="http://emuch.net/html/201112/3526424.html">http://emuch.net/html/201112/3526424.html</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cover Letter详解及相关模板]]></title>
-    <link href="http://secdr.github.io/2015/06/02/cover-letterxiang-jie-ji-xiang-guan-mo-ban/"/>
-    <updated>2015-06-02T14:52:53+08:00</updated>
-    <id>http://secdr.github.io/2015/06/02/cover-letterxiang-jie-ji-xiang-guan-mo-ban</id>
-    <content type="html"><![CDATA[<p>1、 什么是cover letter？</p>
-
-<p>指的是投稿信</p>
-
-<p>2、cover letter的内容主要包括那些？</p>
-
-<p>应该简述所投稿件的核心内容、主要发现和意义，拟投期刊，对稿件处理有无特殊要求等（如“not to review” list）。另外，请附上主要作者的中文姓名、通讯地址、电话、传真和e-mail地址。此外有的杂志要求推荐几位审稿人及其联系方式。以及谁已经阅读过该文（当然是牛人）。
-我投的那个杂志是要求说明你论文研究的意义，以及与这个杂志的相关性，另外还有的可能要写明你没有一搞多投等。此外临床实验要求写明符合伦理学要求。</p>
-
-<p>3、 如何写cover letter？</p>
-
-<p>各个杂志的具体要求是不一样的，在杂志的guide for authors一般会有要求。如果没有具体的要求，大家可按照通用要求处理。</p>
-
-<!--more-->
-
-
-<p>4、常用模板：</p>
-
-<p>（1）Cover letter</p>
-
-<pre><code>Dear Mr. **
-
-1/. The work described has not been submitted elsewhere for publication, in whole or in part, and all the authors listed have approved the manuscript that is enclosed.
-
-2/. I have read and have abided by the statement of ethical standards for manuscripts submitted to Neuroscience.
-
-kind regards.
-Your sincerely,
-通讯作者
-</code></pre>
-
-<p>（2）</p>
-
-<pre><code>Dear Dr. 主编name:
-We submit our manuscript entitled " 文章title" to 杂志名for publication.
-接着简单介绍你文章的主要创新点和意义，不易过多，但要突出新意和关键点。
-All authors have seen the manuscript and approved to submit to your journal. 
-Thank you very much for your attention and consideration. 
-
-Sincerely yours, 
-通讯作者
-</code></pre>
-
-<p>（3）</p>
-
-<pre><code>Dear Dr. 主编name:
-We submit our manuscript entitled " 文章title" to 杂志名for publication.
-接着简单介绍你文章的主要创新点和意义，不易过多，但要突出新意和关键点。
-All authors have seen the manuscript and approved to submit to your journal. 
-Thank you very much for your attention and consideration. 
-
-Sincerely yours, 
-通讯作者
-</code></pre>
-
-<p>（4）</p>
-
-<pre><code>Dr. ***
-Editor-in-Chief, ***
-(add address) January 22, 2003 
-
-Dear Dr. **,
-
-Enclosed herewith please find 3 copies of a MS by: ‘***. *** and ***’ entitled: “**********”, which we would like to submit for publication in the ‘******'.
-
-Looking forward to your decision,
-With kind personal regards,
-Sincerely yours,
-
-*****
-Professor of ***
-</code></pre>
-
-<p>（5）</p>
-
-<pre><code>Dear Prof. Gil:
-This is a manuscript by**and **entitled “.......”. It is submitted to be considered for publication as a “...” in your journal. This paper is new. Neither the entire paper nor any part of its content has been published or has been accepted elsewhere. It is not being submitted to any other journal.
-We believe the paper may be of particular interest to the readers of your journal as it ........
-Correspondence should be addressed to **at the following address, phone and fax number, and email address:
-...
-Thanks very much for your attention to our paper. 
-Sincerely yours,
-**
-</code></pre>
-
-<p>5、 例文：下面例文都来自丁香园战友，在此一并感谢。</p>
-
-<p>（一）</p>
-
-<pre><code>Date: Sep 15, 2003
-Dear Editors:
-
-On behalf of my co-authors, I am submitting the enclosed material “ TITLE ” for possible publication in JOURNAL. 
-
-We certify that we have participated sufficiently in the work to take public responsibility for the appropriateness of the experimental design and method, and the collection, analysis, and interpretation of the data.
-
-We have reviewed the final version of the manuscript and approve it for publication. To the best of our knowledge and belief, this manuscript has not been published in whole or in part nor is it being considered for publication elsewhere.
-
-Best Regards.
-
-Yours Sincerely,
-
-NAME,ADRESS,EMAIL,FAX
-</code></pre>
-
-<p>（二）</p>
-
-<pre><code>Dear Dr Regino Perez-Polo：
-Enclosed are a manuscript by su jian, yang kun, chen zhihua．Su jian titled“Hypothermia after Acute Ischemic Stroke
-”．It is submitted to be considered for publication as a“review" in your journal．This paper is～•Neither the entire paper nor any part of its content has been published or has been accepted elsewhere ．It is not being submitted to any other journal．
-We believe the paper may be of particular interest to the readers of your journal.
-Correspondence and phone calls about the paper should be directed to Su jian at the following address，phone and fax number，and e-mail address：
-
-Su jian
-Institute:, 
-Adress:
-Tel：
-Fax:
-E-mail：
-Thanks very much for your attention to our paper．
-Sincerely yours，
-Su jian
-</code></pre>
-
-<p>（三）</p>
-
-<pre><code>Dear Editor,
-
-We would like to submit the enclosed manuscript entitled "GDNF Acutely Modulates Neuronal Excitability and A-type Potassium Channels in Midbrain Dopaminergic Neurons", which we wish to be considered for publication in Nature Neuroscience. 
-
-GDNF has long been thought to be a potent neurotrophic factor for the survival of midbrain dopaminergic neurons, which are degenerated in Parkinson’s disease. In this paper, we report an unexpected, acute effect of GDNF on A-type potassium channels, leading to a potentiation of neuronal excitability, in the dopaminergic neurons in culture as well as in adult brain slices. Further, we show that GDNF regulates the K+ channels through a mechanism that involves activation of MAP kinase. Thus, this study has revealed, for the first time, an acute modulation of ion channels by GDNF. Our findings challenge the classic view of GDNF as a long-term survival factor for midbrain dopaminergic neurons, and suggest that the normal function of GDNF is to regulate neuronal excitability, and consequently dopamine release. These results may also have implications in the treatment of Parkinson’s disease. 
-
-Due to a direct competition and conflict of interest, we request that Drs. XXX of Harvard Univ., and YY of Yale Univ. not be considered as reviewers. With thanks for your consideration, I am 
-
-Sincerely yours,
-</code></pre>
-
-<p>（四）</p>
-
-<pre><code>Dear **.
-We would like to submit the enclosed manuscript entitled " *** ", which we wish to be considered for publication in **journal. 
-We believe that two aspects of this manuscript will make it interesting to general readers of **journal. First, ***. Second, ***. Further, ***.
-Thank you very much your considering our manuscript for potential publication. I'm looking forward to hearing from you soon.
-
-Best wishes.
-</code></pre>
-
-<p>（五）</p>
-
-<pre><code>To: SOLA Chief Editor
-Division of Geoenvironmental Sciences
-University of Tsukuba
-Tsukuba 305-8572, JAPAN
-E-Mail: sola@sakura.cc.tsukuba.ac.jp
-Dear Sirs,
-I am sending herewith a copy of the manuscript, which I would like to submit to SOLA, the Electronic Journal of the Meteorological Society of Japan.
-The paper is entitled:
-Energy Spectrum Proportional to the Squared Phase Speed of
-Rossby Modes in the General Circulation of the Atmosphere
-by H. L. Tanaka, Yasushi Watarai, and Takahiro Kanda.
-Copy of the Abstract:
-In this study, energy spectrum of the large-scale atmospheric motions is examined in the framework of the 3D normal mode decomposition. The horizontal scale of disturbance is measured by the phase speed of a Rossby mode c. According to the analysis result for the barotropic component of the atmosphere, we obtain a characteristic energy spectrum with distinct slopes for the turbulence and wave regimes separated by the spherical Rhines speed. In order to explain the observational finding that the energy spectrum is proportional to c^2, we put forward a hypothesis based on the criterion of Rossby wave breaking such that the local meridional gradient of potential vorticity becomes negative, dq/dy &lt; 0, somewhere in the domain. With a constant m describing a total mass of the atmosphere for unit area, we have shown that the barotropic energy spectrum of the general circulation E can be represented as E=mc^2.
-Corresponding Author:
-Dr. Hiroshi L. Tanaka
-Division of Geoenvironmental Sciences
-University of Tsukuba
-Tsukuba 305-8572, JAPAN
-Tel: +81-29-853-4502
-Fax: +81-29-853-6879
-E-Mail: tanaka@sakura.cc.tsukuba.ac.jp
-I hereby certify that this paper consists of original, unpublished work which is not under consideration for publication elsewhere.
-Desired Editors in Charge:
-Kimoto, Masahide University of Tokyo
-Mak, Mankin University of Illinois
-Five Potential Reviewers:
-Name-1, e-mail address-1
-Name-2, e-mail address-2
-Name-3, e-mail address-3
-Name-4, e-mail address-4
-Name-5, e-mail address-5
-The original manuscript and figures will be transferred, following the instruction by the Editorial Committee when the paper is accepted. I hope your favorable consideration for publication to SOLA.
-Sincerely,
-Hiroshi L. Tanaka
-Attachment: PDF file of the manuscript.
-</code></pre>
 ]]></content>
   </entry>
   
