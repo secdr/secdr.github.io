@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Conference | SecDr]]></title>
   <link href="http://secdr.github.io/categories/conference/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2016-11-09T20:10:23+08:00</updated>
+  <updated>2016-11-18T22:08:04+08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -12,6 +12,135 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2016年四大安全顶级会议接收的中国论文汇总]]></title>
+    <link href="http://secdr.github.io/2016/11/18/chinese-papers-accepted-by-top-security-conference-in-2016/"/>
+    <updated>2016-11-18T21:22:23+08:00</updated>
+    <id>http://secdr.github.io/2016/11/18/chinese-papers-accepted-by-top-security-conference-in-2016</id>
+    <content type="html"><![CDATA[<p>整理by: 稀饭&amp;toby</p>
+
+<h4>S&amp;P</h4>
+
+<p>会议相关信息</p>
+
+<pre><code>37th IEEE Symposium on Security and Privacy
+MAY 23-25, 2016 AT THE FAIRMONT, SAN JOSE, CA
+</code></pre>
+
+<ol>
+<li><p>Following Devil&rsquo;s Footprints: Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS</p>
+
+<blockquote><p>Kai Chen (Institute of Information Engineering, Chinese Academy of Sciences), Xueqiang Wang (Indiana University), Yi Chen (Institute of Information Engineering, Chinese Academy of Sciences), Peng Wang, Yeonjoon Lee, and XiaoFeng Wang (Indiana University), Bin Ma and Aohui Wang (Institute of Information Engineering, Chinese Academy of Sciences), and Yingjun Zhang and Wei Zou (Institute of Software, Chinese Academy of Sciences)<!--more--></p></blockquote></li>
+<li><p>Multiple Handshakes Security of TLS 1.3 Candidates<br/>
+Xinyu Li (Trusted Computing and Information Assurance Laboratory, SKLCS, Institute of Software,</p>
+
+<blockquote><p>Chinese Academy of Sciences, Beijing, China and CAS Key Laboratory of Electromagnetic Space Information, University of Science and Technology of China, Hefei, China), Jing Xu, Zhenfeng Zhang, and Dengguo Feng (Trusted Computing and Information Assurance Laboratory, Institute of Software, Chinese Academy of Sciences), and Honggang Hu (Key Laboratory of Electromagnetic Space Information, Chinese Academy of Sciences, University of Science and Technology of China)</p></blockquote></li>
+<li><p>Staying Secure and Unprepared: Understanding and Mitigating the Security Risks of Apple ZeroConf</p>
+
+<blockquote><p>Xiaolong Bai (TNList, Tsinghua University, Beijing), Luyi Xing, Nan Zhang, and XiaoFeng Wang (Indiana University Bloomington), Xiaojing Liao (Georgia Institute of Technology), Tongxin Li (Peking University), and Shi-Min Hu (Tsinghua University)</p></blockquote></li>
+<li><p>No Pardon for the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis</p>
+
+<blockquote><p>Wenrui Diao and Xiangyu Liu (The Chinese University of Hong Kong), Zhou Li (IEEE Member), and Kehuan Zhang (The Chinese University of Hong Kong)</p></blockquote></li>
+</ol>
+
+
+<h4>USENIX Security Symposium</h4>
+
+<p>会议相关信息</p>
+
+<pre><code>25th USENIX Security Symposium
+August 10–12, 2016
+Austin, TX
+</code></pre>
+
+<p>录用的中国论文列表：</p>
+
+<ol>
+<li><p>The Ever-Changing Labyrinth: A Large-Scale Analysis of Wildcard DNS Powered Blackhat SEO</p>
+
+<blockquote><p>Kun Du and Hao Yang, Tsinghua University; Zhou Li, IEEE Member; Haixin Duan, Tsinghua University; Kehuan Zhang, The Chinese University of Hong Kong</p></blockquote></li>
+</ol>
+
+
+<h3>NDSS</h3>
+
+<p>会议相关信息</p>
+
+<pre><code>23rd Annual NDSS Symposium
+San Diego, California
+February 21 -24, 2016
+</code></pre>
+
+<ol>
+<li><p>Forwarding-Loop Attacks in Content Delivery Networks</p>
+
+<blockquote><p>Jianjun Chen, Xiaofeng Zheng, Haixin Duan and Jinjin Liang (Tsinghua University and Tsinghua National Laboratory for Information Science and Technology) and Jian Jiang (University of California, Berkeley) and Kang Li (University of Georgia) and Tao Wan (Huawei Canada) and Vern Paxson (University of California,  Berkeley and International Computer Science Institute)</p></blockquote></li>
+<li><p>A Simple Generic Attack on Text Captchas</p>
+
+<blockquote><p>Haichang Gao (Xidian University), Jeff Yan (Lancaster University), Fang Cao, Zhengya Zhang, Lei Lei, Mengyun Tang, Ping Zhang, Xin Zhou, Xuqin Wang and Jiawei Li (Xidian University)</p></blockquote></li>
+</ol>
+
+
+<h3>CCS</h3>
+
+<p>会议相关信息</p>
+
+<pre><code>23rd ACM Conference on Computer and Communications Security 
+Hofburg Palace, Vienna, Austria
+October 24-28, 2016
+</code></pre>
+
+<ol>
+<li><p>Attacking OpenSSL Implementation of ECDSA with a Few Signatures</p>
+
+<blockquote><p>Shuqin Fan (State Key Laboratory of Cryptology), Wenbo Wang and Qingfeng Cheng (Luoyang University of Foreign Languages)</p></blockquote></li>
+<li><p>Call Me Back! Attacks on System Server and System Apps in Android through Synchronous Callback</p>
+
+<blockquote><p>Kai Wang, Yuqing Zhang (University of Chinese Academy of Sciences, Beijing) and Peng Liu (The Pennsylvania State University)</p></blockquote></li>
+<li><p>Host of Troubles: Multiple Host Ambiguities in HTTP Implementations</p>
+
+<blockquote><p>Jianjun Chen (Tsinghua University), Jian Jiang (University of California, Berkeley), Haixin Duan (Tsinghua University), Concordia UniversityNicholas Weaver (International Computer Science Institute), Tao Wan (Huawei Canada) and Vern Paxson (International Computer Science Institute</p></blockquote></li>
+<li><p>Identity-Concealed Authenticated Encryption and Key Exchange</p>
+
+<blockquote><p>Yunlei Zhao (Fudan University)</p></blockquote></li>
+<li><p>Instant and Robust Authentication and Key Agreement among Mobile Devices</p>
+
+<blockquote><p>Wei Xi (Xi’an Jiaotong University), Chen Qian (University of Kentucky),
+Jinsong Han, Kun Zhao (Xi’an Jiaotong University), Sheng Zhong (Nanjing University), Xiang-Yang Li (University of Science and Technology of China)
+and Jizhong Zhao (Xi’an Jiaotong University)</p></blockquote></li>
+<li><p>Practical Anonymous Password Authentication and TLS with Anonymous Client Authentication</p>
+
+<blockquote><p>Zhenfeng Zhang, Kang Yang (Chinese Academy of Sciences), Xuexian Hu (State Key Laboratory of Mathematical Engineering and Advanced Computing) and Yuchen Wang (Chinese Academy of Sciences)</p></blockquote></li>
+<li><p>Stemming Downlink Leakage from Training Sequences in Multi-User MIMO Networks</p>
+
+<blockquote><p>Yunlong Mao, Yuan Zhang and Sheng Zhong (Nanjing University)</p></blockquote></li>
+<li><p>Targeted Online Password Guessing: An Underestimated Threat</p>
+
+<blockquote><p>Ding Wang, Zijian Zhang, Ping Wang (Peking University), Jeff Yan (Lancaster University) and Xinyi Huang (Fujian Normal University)</p></blockquote></li>
+<li><p>When CSI Meets Public WiFi: Inferring Your Mobile Phone Password via WiFi Signals</p>
+
+<blockquote><p>Mengyuan Li, Yan Meng, Junyi Liu, Haojin Zhu (Shanghai Jiao Tong University), Xiaohui Liang (University of Massachusetts at Boston), Yao Liu (University of South Florida) and Na Ruan (Shanghai Jiao Tong University)</p></blockquote></li>
+<li><p>On Code Execution Tracking via Power Side-Channel</p>
+
+<blockquote><p>Yannan Liu, Lingxiao Wei, Zhe Zhou, Kehuan Zhang (The Chinese University of Hong Kong), Wenyuan Xu (Zhejiang University) and Qiang Xu (The Chinese University of Hong Kong)</p></blockquote></li>
+<li><p>TaintART: A Practical Multi-level Information-Flow Tracking System for Android RunTime</p>
+
+<blockquote><p>Mingshen Sun (The Chinese University of Hong Kong), Tao Wei (Baidu) and John C.S. Lui (The Chinese University of Hong Kong)</p></blockquote></li>
+</ol>
+
+
+<h3>参考链接</h3>
+
+<ul>
+<li><a href="http://www.ieee-security.org/TC/SP2016/program-papers.html">37th IEEE Symposium on Security and Privacy</a></li>
+<li><a href="https://www.usenix.org/conference/usenixsecurity16/technical-sessions">USENIX Security &lsquo;16</a></li>
+<li><a href="http://www.internetsociety.org/events/ndss-symposium-2016">NDSS Symposium 2016</a></li>
+<li><a href="https://www.sigsac.org/ccs/CCS2016/accepted-papers/">ACM CCS 2016</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[国际学术期刊的四大巨头]]></title>
