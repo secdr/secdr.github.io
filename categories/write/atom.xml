@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Write | SecDr]]></title>
   <link href="http://secdr.github.io/categories/write/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2016-11-18T22:08:04+08:00</updated>
+  <updated>2016-11-30T10:00:53+08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -12,6 +12,241 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[论文撰写的注意事项：编辑案例分析]]></title>
+    <link href="http://secdr.github.io/2016/11/30/lun-wen-zhuan-xie-de-zhu-yi-shi-xiang-bian-ji-an-li-fen-xi/"/>
+    <updated>2016-11-30T09:42:32+08:00</updated>
+    <id>http://secdr.github.io/2016/11/30/lun-wen-zhuan-xie-de-zhu-yi-shi-xiang-bian-ji-an-li-fen-xi</id>
+    <content type="html"><![CDATA[<p>一位国际著名期刊副主编在与知社线下交流的时候介绍，来自中国的论文投稿已经占据相当比重，但论文书写质量参差不齐，有相当的比例需要大幅度的修改。而很多作者也反映，编辑要求润色英文的情形也越来越多。知社因此邀请这一出版社的合作伙伴Edanz Editing （理文编辑）为大家介绍英文论文写作的一些技巧和注意事项，包括标题、摘要与关键词、Cover Letters、和图表等，并包含翔实的案例。<!--more--></p>
+
+<h3>写好标题的重要性</h3>
+
+<pre><code>文章的标题是“钓饵”，应该用来吸引读者——“推销”你的文章，给读者浏览目录或研究结果的机会。
+</code></pre>
+
+<p>标题写得差可能使原本感兴趣的读者忽略了你的工作，也可能引起文不对题的情况。相比之下，好的标题可吸引相关的研究人员，提高文章的引用率，这也是期刊编辑所青睐的，因为引用率与期刊影响因子直接挂钩。因此，写好正确的标题是很重要的。</p>
+
+<p>好的标题应尽量简短，同时又能传递文章的主要发现。避免叙述过于繁琐并使用不必要的专业行话和缩略语。标题必须能被科学界的广大读者读懂，因为他们中的一些人可能并不具备你研究的专业领域的具体知识。标题宽泛到什么程度取决于目标期刊——考虑目标期刊的读者情况，这通常会在期刊的网站上有所介绍；撰写的标题应便于被所有读者看懂，而不仅仅局限于你的研究领域。另外，应该查阅目标杂志的《稿约》，确保遵守字数限制的要求以及是否需要提供短标题。</p>
+
+<ul>
+<li>实例：较差的标题</li>
+</ul>
+
+
+<p>“Degeneration of neurons in the CA3 and DG following OA administration: involvement of a MAPK-dependent pathway in regional-specific neuronal degeneration”</p>
+
+<p>这个标题太长，含有非标准的缩略语，内容重复，部分内容太具体。修改如下：“Region-specific neuronal degeneration after okadaic acid administration”。此外，也可使用“MAP kinase-dependent neuronal degeneration after okadaic acid administration”，但要考虑目标杂志的要求，因为缩略语MAP使用广泛，读者可懂。</p>
+
+<h3>摘要与关键词</h3>
+
+<pre><code>文章的摘要十分关键，因为很多研究人员只读摘要而不读全文。
+</code></pre>
+
+<p>因此，摘要提供准确而详尽的研究总结十分重要：它可以帮助研究人员了解你所开展的工作、你的研究目的和研究发现以及研究结果的益处和重要性。摘要必须能够独立成文，具备研究概要的功能，使人不看全文就能读懂。在阅读摘要后对文章细节感兴趣的读者自然会继续阅读全文。因此摘要不必太面面俱到，例如，可不必列举方法细节。</p>
+
+<p>尽管摘要是论文的第一部分，但事实上应最后撰写。在完成其他部分后应尽快写摘要，因为这些内容依然清晰地印在你的脑海中，使你能够对自己的工作进行简明而全面的总结，而不至于忽略任何重要的内容。不同期刊对摘要的撰写要求有所不同，因此应参照目标杂志的《稿约》了解具体要求。尽管杂志要求不同，但依然存在一些普遍应遵守的惯例：</p>
+
+<ul>
+<li>应注意对字数的限制</li>
+</ul>
+
+
+<p>通常来讲摘要的字数限制平均为250个词，但许多杂志要求更短些(如《Nature》和《BBRC》对摘要的篇幅限制为150个字)，而许多杂志(如《BioMed Central》)允许摘要篇幅稍长些。这充分说明了为什么应在写文章之前确定目标杂志。</p>
+
+<ul>
+<li>应避免使用技术行话</li>
+</ul>
+
+
+<p>从而使摘要更易懂，更具可读性。不同目标期刊的“技术行话”取决于杂志的读者情况(可以通过期刊网站查询)。例如：“焦虑测试”一词通常比“高架十字迷宫实验”更容易理解，除非该杂志专门针对行为研究人员。通常摘要因受篇幅所限不能对技术术语进行定义和解释。如果术语使用不可避免，应在首次提到时用简单的措辞加以定义。</p>
+
+<ul>
+<li>尽量不使用缩略语</li>
+</ul>
+
+
+<p>如同技术术语一样，应尽量不使用缩略语，其可用性也取决于不同的目标期刊。例如，大多数杂志接受HIV的使用。相比之下，RT-PCR对于分子生物学技术的杂志是可以接受的，但绝大多数杂志要求在首次使用时给出完整拼写(reverse transcriptase polymerase chain reaction)。许多杂志在网页上列出可使用的缩略语。反复使用三次或以上的必要的缩略语应在首次使用时给出完整拼写。只使用一次或两次的缩略语应使用全称，除非这样做超出了字数要求。摘要中已给出全称的缩略语在正文中首次使用时也应给出全称。</p>
+
+<ul>
+<li>不应在摘要中引用文献</li>
+</ul>
+
+
+<p>尽管一些杂志允许在摘要中引用文献，但绝大多数杂志不允许引用文献。因此，除非你要投稿的杂志允许这样做，否则不应在摘要中引用文献。</p>
+
+<p>以下是BBRC杂志作者须知给出的指导性意见：</p>
+
+<pre><code>-- 摘要应放在第2页，即标题页之后
+-- 摘要应采用一段式，总结文章的主要发现，篇幅不超过150字
+-- 摘要后应列出10个用于收录和检索的关键词
+</code></pre>
+
+<p>一些杂志要求采用结构式摘要，分为背景、目的、方法、结果和结论。临床期刊可能要求额外或不同段落，如“patients”。因此，再次强调，在动笔之前应查阅目标杂志的《稿约》，确定杂志的具体版式或格式要求。</p>
+
+<h3>选择合适的关键词</h3>
+
+<p>摘要后经常需要列出由作者选择的关键词。《稿约》会指出要求列出多少个关键词，甚至提供可供参考的关键词清单。选择合适的关键词很重要，因为他们可作检索之用。选择合适的关键词可以使你的文章更容易被发现和引用。因此，关键词越切合你的文章内容越好，应避免选择多数研究所适用的一般性术语。</p>
+
+<p>实例：
+为这个题目选择合适的关键词：
+“Region-specific neuronal degeneration after okadaic acid administration”</p>
+
+<p>好的关键词：okadoic acid、hippocampus、neuronal degeneration、MAP kinase signaling以及mouse (或是rat或其他实验动物)。</p>
+
+<p>差的关键词：neuron、brain、OA (简写)、regional-specific neuronal degeneration以及signaling。这些词过于笼统。</p>
+
+<h3>如何撰写Cover Letter</h3>
+
+<pre><code>附信（投稿信，cover letter）是你与拟投杂志直接交流的机会。
+</code></pre>
+
+<p>出版空间以及编辑关注度的竞争异常激烈。将原稿投送给杂志编辑，附上一封信“原稿请见附件”是远远不够的。附信（投稿信，cover letter）是你与拟投杂志直接交流的机会。除了写明你的研究与众不同外，还应直接向总编辑说明为什么你的发现很重要及其应该在此杂志上发表的理由。</p>
+
+<p>附信应含有几个重要内容。具体内容可通过 <a href="https://www.liwenbianji.cn/resources/cover-letter-templates%E9%93%BE%E6%8E%A5%E4%B8%8B%E8%BD%BD%E3%80%82%E5%A4%A7%E5%AE%B6%E5%8F%AF%E6%A0%B9%E6%8D%AE%E6%89%B9%E6%B3%A8%E4%B8%AD%E7%9A%84%E5%BB%BA%E8%AE%AE%E8%B5%B7%E8%8D%89%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E9%99%84%E4%BF%A1%EF%BC%8C%E9%80%89%E6%8B%A9%E6%8F%90%E5%87%BA%E7%9A%84%E5%8F%A5%E5%AD%90%E7%B1%BB%E5%9E%8B%E6%9B%BF%E4%BB%A3%E6%8B%AC%E5%8F%B7%E4%B8%AD%E7%9A%84%E5%8F%A5%E5%AD%90%E3%80%82%E9%99%84%E4%BF%A1%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%87%A0%E4%B9%8E%E9%80%82%E7%94%A8%E4%BA%8E%E6%89%80%E6%9C%89%E6%8A%95%E7%A8%BF%EF%BC%9B%E5%BD%93%E7%84%B6%EF%BC%8C%E6%9F%90%E4%BA%9B%E7%B1%BB%E5%88%AB%E7%9A%84%E8%AE%BA%E6%96%87%E9%9C%80%E8%A6%81%E5%8A%A0%E5%85%A5%E9%A2%9D%E5%A4%96%E7%9A%84%E5%86%85%E5%AE%B9%E3%80%82%E4%BE%8B%E5%A6%82%EF%BC%8C%E5%85%B3%E4%BA%8E%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E6%95%B0%E6%8D%AE%E7%9A%84%E5%AD%98%E5%82%A8%E4%BF%A1%E6%81%AF%E9%80%9A%E5%B8%B8%E9%9C%80%E8%A6%81%E9%99%84%E4%B8%8A%E4%B8%80%E4%BB%BD%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%8C%E6%8F%90%E4%BE%9B%E4%BD%A0%E7%9A%84%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E8%BF%9B%E5%85%A5%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82">https://www.liwenbianji.cn/resources/cover-letter-templates%E9%93%BE%E6%8E%A5%E4%B8%8B%E8%BD%BD%E3%80%82%E5%A4%A7%E5%AE%B6%E5%8F%AF%E6%A0%B9%E6%8D%AE%E6%89%B9%E6%B3%A8%E4%B8%AD%E7%9A%84%E5%BB%BA%E8%AE%AE%E8%B5%B7%E8%8D%89%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E9%99%84%E4%BF%A1%EF%BC%8C%E9%80%89%E6%8B%A9%E6%8F%90%E5%87%BA%E7%9A%84%E5%8F%A5%E5%AD%90%E7%B1%BB%E5%9E%8B%E6%9B%BF%E4%BB%A3%E6%8B%AC%E5%8F%B7%E4%B8%AD%E7%9A%84%E5%8F%A5%E5%AD%90%E3%80%82%E9%99%84%E4%BF%A1%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%87%A0%E4%B9%8E%E9%80%82%E7%94%A8%E4%BA%8E%E6%89%80%E6%9C%89%E6%8A%95%E7%A8%BF%EF%BC%9B%E5%BD%93%E7%84%B6%EF%BC%8C%E6%9F%90%E4%BA%9B%E7%B1%BB%E5%88%AB%E7%9A%84%E8%AE%BA%E6%96%87%E9%9C%80%E8%A6%81%E5%8A%A0%E5%85%A5%E9%A2%9D%E5%A4%96%E7%9A%84%E5%86%85%E5%AE%B9%E3%80%82%E4%BE%8B%E5%A6%82%EF%BC%8C%E5%85%B3%E4%BA%8E%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E6%95%B0%E6%8D%AE%E7%9A%84%E5%AD%98%E5%82%A8%E4%BF%A1%E6%81%AF%E9%80%9A%E5%B8%B8%E9%9C%80%E8%A6%81%E9%99%84%E4%B8%8A%E4%B8%80%E4%BB%BD%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%8C%E6%8F%90%E4%BE%9B%E4%BD%A0%E7%9A%84%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E8%BF%9B%E5%85%A5%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82</a></p>
+
+<p>查阅目标杂志的《稿约》是每篇稿件的既定程序，其中很可能含有附信必须写入的内容。另外一个信息来源是杂志的投稿网页。尽管以下列出的内容以及关于“Edanz Cover Letter模版”中描述的内容不一定完全都是这些目标杂志所要求的，但所有这些都是附信中必不可少的，因为这样做可引起编辑对你的关注。以下方法适用于附信的撰写：</p>
+
+<p>一些杂志根据其刊出文章领域的不同进行编辑分工，你可以根据不同的领域，有时也可根据编辑的专业背景选择最合适的编辑。直接称呼收信编辑，如：“Dear Dr. Smith”。如果不能找到合适的编辑，可将附信写给总编辑。
+信的开头应写出文章题目，希望文章在杂志的哪一个栏目或作为哪一个文章类别发表，以及投稿杂志的名称。
+之后简单叙述研究背景与理论基础，说明研究目的以及开展的工作。然后简单描述研究成果。
+接下来的段落很重要。你需要向研究界解释你的发现的意义，特别是对杂志读者的意义。如果你不能解释为什么该杂志读者会对你的发现感兴趣，你需要选择另一家更合适的刊物，因为编辑只将他们认为会引起读者兴趣的文章送同行评议。研究一下你准备投稿杂志的“目标与刊出范围”会对你有帮助。
+附信的最后一段应包含杂志所要求的声明或说明。这些通常包括关于利益冲突、基金资助与资助来源的声明，以及所有作者已阅读过并同意文章的内容以及未一稿多投的声明。每个作者的作者资格确认也是需要的。
+ 最后，留下详细的通讯方式以及礼貌的结束语。</p>
+
+<p>示例：</p>
+
+<p><img src="/upload/write_step_1.jpg" alt="" /></p>
+
+<h3>如何选对期刊</h3>
+
+<p>选好期刊和发表类型至关重要：选对了能立马增加发表的机会和引用率。相反，投到不对的期刊往往造成拒稿。在选择目标期刊前，应综合考虑以下因素：期刊的宗旨和范围；目标读者和近期发表情况；拟投稿件的研究结果有多重要、吸引面有多广；研究类型。</p>
+
+<p>首先应考虑的是：拟投论文的侧重点是什么？谁可能会读它？在撰写论文（尤其是“讨论”部分）时就应予以明确。你的研究是侧重于临床还是基础科学？你的结果是对科学界会产生广泛影响还是只限于一个专门领域？属于初步结果尚需更多工作来验证，还是已经有多种互补的数据来支持你的假说？你是急着马上发表，还是不那么着急从而可以收集更多数据去试投高影响因子期刊？回答了这些问题，你对目标期刊就有了一个基本的概念。接下来，你需要列出个清单。</p>
+
+<p>目标期刊最直接的来源就是你论文的参考文献。与你相似或相关的工作应该被你的论文引用过；研究这些工作和他们所发表的期刊。那些多次出现的期刊就可作为候选。另外一个寻找候选期刊的办法就是用关键词搜索Medline和 Pubmed等数据库。同样，重复出现的期刊可能就是比较合适的投稿对象。此前未发表过此领域论文的期刊可能也会对你的结果感兴趣。最好的办法是翻阅和检索图书馆书架、Thompson ISI数据库 (其中包括SCI)，或者各大出版商的主页(学术期刊出版商很多，下文仅列举了其中几家)。根据你对上述问题的回答，你应该能找出适当的期刊。</p>
+
+<p>至此你已有一个候选期刊的清单，头脑中也已有了适宜期刊的形象。你把这两者放在一起看看他们是否吻合。期刊网站中通常有“宗旨和范围”一栏，有的还会说明该期刊的目标读者范围。通常还有影响因子、论文类型、刊期、接受到见刊周期、拒稿率、发表费等信息。这些因素都需要综合衡量。比如，若你希望迅速发表，就应该专门留意反馈快和见刊时间短的期刊。如果你经费紧张，就不要考虑开放获取(open access)期刊或发表费高的期刊。如果你需要把论文发表在影响因子高于某个值的期刊，就应马上排除低于该值的期刊。认真研究期刊网站，考虑编辑和读者为何会对你的结果有兴趣，在此基础上你能更有针对性地撰写投稿信，也能帮你决定清单中那一种期刊才是传播研究结果的最佳平台。根据这些标准把期刊清单缩减至两三家，随后把它们再按照你的具体要求排序。至此，你就可以开始撰写投稿信和投稿了。</p>
+
+<p>Edanz开发了一个期刊选择工具来帮助您完成这个过程，欢迎试用：
+<a href="http://www.liwenbianji.cn/journal_selector">http://www.liwenbianji.cn/journal_selector</a></p>
+
+<p>几个有用的网站</p>
+
+<pre><code>检索或浏览SCI期刊: http://science.thomsonreuters.com/cgi-bin/jrnlst/jloptions.cgi?PC=K
+Thompson ISI 检索数据库: http://science.thomsonreuters.com/mjl/
+美国国家医学图书馆数据库 PubMed: http://www.ncbi.nlm.nih.gov/pubmed/
+Elsevier 期刊列表: http://www.elsevier.com/wps/find/journal_browse.cws_home
+Science Direct: http://www.sciencedirect.com/
+Wiley-Interscience 期刊: http://www3.interscience.wiley.com/browse/?type=JOURNAL
+Springer期刊: http://www.springer.com/?SGWID=5-102-0-0-0
+</code></pre>
+
+<ul>
+<li>实例</li>
+</ul>
+
+
+<p>我们来做一个撰写论文标题的练习。假定题目是：“Region-specific neuronal degeneration after okadaic acid administration”。该虚构研究显示，动物(假定是小鼠)摄入一种毒素okadoic酸(OA)后，海马区CA3和齿状回区域内的神经元退化。此外，MAP激酶依赖途径也参与了神经退行性疾病。</p>
+
+<p>如果神经细胞变化与功能丧失之间在功能上不存在关联，那么，该研究会被视为停留在初步阶段，很难获得发表机会。那么，再假定我们也进行了行为学研究，且结果显示小鼠摄入毒素后产生了学习和记忆障碍。这样一来，我们就有了组织学、生化和行为学数据。</p>
+
+<p>用关键词检索Pubmed数据库只找到很少几个类似研究(鉴于该案例为虚构，当不足为奇)，不过仍然指出了几个潜在期刊，如《Journal of Neuroscience》，《European Journal of Neuroscience》，《Neuroscience， Biochemical and Biophysical Research Communications》，《Neurobiology of Learning and Memory， Neuropharmacology》和《Journal of the Neurological Sciences》。</p>
+
+<p>其中，《Journal of Neuroscience》和《European Journal of Neuroscience》可能要求更多数据，比如显示与某人类疾症的相关性和/或细胞死亡相关机制的详尽分析，不过后者尚有发表可能，也许值得投去试试。《Journal of the Neurological Sciences》更关注临床，所以只有当OA处理已知是某个疾病的良好模型时，才可考虑投到这个期刊。但是，如果该研究确实显示存在这种关联，这是一个很好的目标期刊。《Biochemical and Biophysical Research Communications》的范围较广，发表各种生物领域的研究；神经生物学属于其兴趣领域，且该期刊表明它致力于迅速传播成果。对于希望尽快从编辑部获得回应或希望尽快发表论文的作者，这可能是一个很好的初步目标期刊。如果行为学数据较为新颖，《Neurobiology of Learning and Memory》也可以是一个很好的目标；该刊的“外联部”的答复速度很快，也很适合需要尽快发表的作者。最后，若结果中揭示“神经系统是如何运作的”等方面的内容，《Neuroscience》就是一个很好的目标期刊，因此，根据终稿的侧重点(如临床vs神经生物学vs行为学)和作者的需求(影响因子和出版时间)，可以将候选期刊按照其适合程度排序。</p>
+
+<h3>论文撰写顺序与IMRaD格式</h3>
+
+<p>科学探索可以用不同形式来表现，因此就有了各种类型的论文，其中包括论著、综述、病例研究、方法学和理论性论文。目前，论著最常见的格式是IMRaD格式，也就是引言、方法、结果和讨论（introduction, methods, results and discussion）的缩写。</p>
+
+<p><img src="/upload/write_step_2.jpg" alt="" /></p>
+
+<p>这些部分一般位于摘要和参考文献之间，但也有些期刊中将“方法”部分居于最后。国际医学期刊编辑委员会(ICMJE) 在其出版的《生物医学期刊投稿统一要求：生物医学论文撰写和编辑》第IV.A.1.a节（“通则”）中IMRaD格式及其目的作了如下说明：</p>
+
+<p>“观察性和实验性论文通常（并非必须）分为以下几部分：引言、方法、结果、 讨论，亦即“IMRaD” 结构。该结构并非强制性的论文格式，但的确能直观地反映科学发现的过程。长篇幅的论文中的某些部分可采用子标题（尤其是“结果”和“讨论”），从而使其内容更加清晰。”</p>
+
+<p>在理文编辑的写作技巧文章里，我们将分别阐述IMRaD各个部分的要点以及一些应避免的常见错误。但要说明的一点是：各部分的撰写顺序和他们在论文中出现的顺序（和我们这里讲述的顺序）是不同的。好的撰写顺序应该使论文尽可能清晰、连贯。</p>
+
+<p>这里推荐如下撰写顺序（外加摘要和标题）：</p>
+
+<p><img src="/upload/write_step_3.jpg" alt="" /></p>
+
+<p>“方法”部分在研究开展过程中就可以写完，标准试验步骤甚至在做试验之前就可以完成。尽早完成“方法”部分使你能发现研究设计中潜在的问题，或之前未考虑到的额外对照。这样做的好处是：方法在实验开始之前还可以调整，避免将来费时费钱地重复做已经做过的试验。</p>
+
+<p>“方法”写好、试验完成之后，接下来就是分析结果来确定它们是否支持你的假设，阐明他们到底揭示了什么。在此阶段就写“引言”属于不得要领，因为你的结果将决定你该如何“编排”你的论文，或者说把你的结果放在哪个背景下予以阐述。因此，第二步应该是分析和撰写“结果”。在这个阶段，你要决定如何表述资料（例如，用表、图、示意图还是照片；参见“图”部分的注意事项），如何分析这些数据（参见“统计学”注意事项），以及他们说明什么。作出上述决定后，你就需要来描述它们。</p>
+
+<p>至此，你应该已清楚你的结果如何支持你的假设，也了解该领域的现有文献。此时如有必要，你尚可修改你的研究问题或更改研究的侧重点；如果你决定要修改，可能也另需重新分析数据和/或补充试验，才能构建出一个完整的研究故事。待这些都完成之后，再写“引言”来说明你工作的背景，然后撰写“讨论”来说明你的结果和背景之间的关联。最后，趁热打铁，完成摘要和标题。摘要和标题的要素请参见理文编辑之前推送的文章。</p>
+
+<ul>
+<li>图表：一图值千字</li>
+</ul>
+
+
+<p>在“摘要”的注意事项中我提到不少读者只读摘要，所以摘要必须能独立成文，并能说明所有主要结果及其意义。有的读者会随后再看一下图表来核实一下摘要中提到的结果，但仍然不读全文。所以，跟摘要一样，论文的图表(外加其标注)也必须能独立成文，不用读正文就能看懂。</p>
+
+<p>图表用于形象地表示正文所述结果。简而言之，他们是表达结果最有效的方式。好的图表可以把获得的结果迅速、准确地传达给读者(远比读正文为快)。对于研究人员来说，一方面他们所处的领域飞速进展，另一方面他们又缺乏足够的时间追踪研究进展，因此，如果你能迅速地把自己的研究结果传递给他们，他们自然感激不尽。期刊编辑和审稿人当然也喜欢简洁明了的论文。所以制作高质量的图表来清楚传达研究结果还是很有必要的。</p>
+
+<p>和其他部分一样，制作图表也有一些“规则”。首先要了解目标期刊允许多少图表，不要超过这个限制。如果限定的图表数目不足以表达你的结果，可以把有些放在“补充信息”（Supplementary Information）部分，或者在正文中叙述并加个说明“(data not shown)”。不过，只有不重要的附属性结果才能这样叙述，而那些支持你假设的结果则必须展现出来。如果你的首选期刊不足以展现你的所有重要数据，你可能需要考虑换个期刊。反之，如果期刊允许的图表数目超过你的需要，也不要加上多余或不必要的图表来凑数。每个图表必须要有明确、必要的目的。</p>
+
+<p>其次，图表中的数据要易于解读。考虑好让每个图表显示多少数据，以及数据如何组织来传递重要信息。所以，与其把各种参数或治疗方法都合并在一个图中，不如考虑分别用一个简单子图表示然后拼成一个组图。图的坐标、表的行列、以及示意图的各部分都要标记清楚。如有趋势线、标尺和统计检验结果，均应予以标明；比如用星号表示显著性，或不同的符号来表示不同的显著性水准。对于大样本，除了报告绝对数值之外还要有变化或差异的百分比。</p>
+
+<p>第三，图表的标注也应该独立成文，并且无需阅读全文就能完全理解。因此，缩写要么不用，要么先定义后才用，同时应该避免使用技术术语。标注应清楚说明做了什么、观察到了什么；也应简述使用了什么统计检验，给出P值，并对所用的符号进行定义。除了其中描述方法的语句，标注和图表标题都应采用现在时。比如，应该写：“Western blot showing an increase in the levels of p53 after…”而不是“Western blotting showed that the levels of p53 increased after…”。</p>
+
+<p>最后，与“结果“部分的注意现项一样，图表和正文之间不应有重复叙述。所以，容易用文字简要描述的就不要用图表，而且图表之间也不应有所重复，例如，图中已有的信息就不要又用表再显示一次。图表和标注不要嵌在正文中间。出版单位会把你的正文和图表合并成一个目标杂志特有格式的“校样”。他们通常要求作者提供单独的图表文件(偶尔可以放在稿件末尾)和单独的正文文件（其中包含图表标注的列表，通常在”参考文献”之后)。参照目标期刊的《稿约》以确定其具体要求。</p>
+
+<p>先制作清楚、高质量的图表，随后就可以轻易地撰写“结果”部分。图表可以按逻辑排列组合来一步步推进你的论证，或巩固你的假设。给每个主要结果分配一个图表和一个小节；小节的标题应和相应的标注相似；小节内的正文简要叙述其相应图表内含结果，其中统计分析结果要叙述完整，需要展示更多细节时告知读者参见图表。</p>
+
+<ul>
+<li>实例</li>
+</ul>
+
+
+<p><img src="/upload/write_step_4.jpg" alt="" /></p>
+
+<p>表格最适合用很少的叙述展现大量数据。上表节选自《The Journal of Clinical Investigation》上的一篇论文(doi:10.1172/JCI37622; 经同意转载)。表中数据非常清楚简练，如果用正文叙述这些数据需要大量文字，用表格则大大节省了文字。正文中只需提一下“患者和肿瘤样本的临床特征见表1”即可。下图来自同一论文，其中包括了本文提及的优秀图表的多项要素，具体请见下面的清单。</p>
+
+<p><img src="/upload/write_step_5.jpg" alt="" /></p>
+
+<p>清单</p>
+
+<ol>
+<li>图表标注要“独立成文”。</li>
+<li>遵守图表数目限制。</li>
+<li>图表之间以及图表和正文之间均无重复叙述。</li>
+<li>各个参数的数据分别用组图中的一个子图表示。</li>
+<li>标出标尺、趋势线和标记；显示统计检验结果。</li>
+<li>符号和缩写要么不用，要么先定义再用。</li>
+<li>对于大样本，给出绝对数和变化/差异的百分比。</li>
+<li>图放在单独的文件中或放在稿件末尾；不要嵌在正文中间。</li>
+<li><p>参照《稿约》确定图表格式、大小、颜色、数目和其他要求。</p></li>
+<li><p>论文类型</p></li>
+</ol>
+
+
+<p>论文种类方面最重要的区别在于原始文献和二手文献。原始文献是指原创性研究首次公开发表之处，这包括大多数期刊论文、会议文集和学位论文。原始文献中的信息经浓缩和整理形成的文献称为二次文献，包括课本、书籍章节、综述、索引和文摘服务以及其他各种形式的信息汇编。原始文献的作用是与更广泛的群体交流最新研究成果。二次文献的作用则在于把原始文献中的信息编辑整理成方便和易懂的格式。有些期刊两类论文都发表，此外还刊登特写、新闻和其他栏目；有些期刊可看作专门的一次期刊(只发表一次文献，即原创性研究成果)；另外一些期刊则可看作二次期刊(专门发表综述)。在选择期刊和与期刊编辑建立关系的时候，应留意这些区别。当你在研究领域内已有一定建树后考虑发表综述的时候，这些区别也值得注意。</p>
+
+<p>原创研究的期刊上的论文又分成多个类型；在开始构思论文的时候应了解他们之间的区别，因为某一类论文类型要比其他类型更适合你的工作。多数学术期刊在自己的网页公布其论文类型。可能的稿件类型包括以下几种：</p>
+
+<ol>
+<li>全长论文</li>
+<li>快讯</li>
+<li>短讯</li>
+<li>读者来信</li>
+<li>病例报告</li>
+<li>技术或实验室短文</li>
+<li>方法学</li>
+</ol>
+
+
+<p>每种论文的格式都略有不同，这些都载于期刊的《稿约》。撰写稿件时请阅读《稿约》并严格遵守。如果你觉得自己的研究成果已达到发表标准，就要决定目标期刊 (见“期刊选择”部分的注意事项)和论文类型。此时，你的“方法”和“结果”部分应该已经写好，因为这些部分在做试验时即可同步完成。除了标号、字体和图表数量还有待调整外，这两部分应该已可随时导入任何类别的论文。为确定哪种论文类型最合适，你需要自我评价一下自己的工作，请同事做个独立评价可能也有帮助。你是否有足够素材来写一篇全长论文？如果是，很好！如果否，短讯或读者来信可能会更合适。你的研究结果是否非常及时和让人兴奋？是否担心你的竞争者提前发表类似结果？如果是，您可能该考虑写一个快讯。不少期刊（如Biochemical and Biophysical Research Communications专门发表这样的文章，并努力缩短见刊周期。</p>
+
+<p>如果你拿不准哪一种论文格式或哪个期刊最适合你的工作，你投稿前随时可以向编辑咨询一下发表的可能性。很多期刊都提供这种服务；即使某期刊不提供此服务，只要你问得有礼貌，编辑照样可能会回复你。你的咨询应该简要介绍你希望发表的工作，并解释为何它很及时并与该刊的读者相关。此外，你应该提及你的论文可能有多少图表，以及每个图表说明什么信息。投稿前咨询与正式投稿 (见“论文发表道德” 部分的注意事项)不同，它可以同时发给多个期刊。如果你收到正面的回应，你就可以开始撰写“引言”、“讨论”和“摘要”，如有必要还要着手调整“方法”和 “结果”部分。这种方法使您可以引用正确数量的参考文献(许多期刊/论文类型都对参考文献的数量做了限制)，并且符合每一部分的字数限制，以避免重写已有文稿。</p>
+
+<p>总之，重要的是要知道文献有不同的种类，每一种类之内又有哪些论文类型。此外，要诚实地评价你的工作并决定哪类论文是最适合的。要事先确定适当的目标期刊和论文类型；目标期刊的《稿约》涉及拟发表论文的类型，因此也要遵守其规定；这才能增加论文被接受的机会，缩短见刊周期。</p>
+
+<p> 理文编辑 知社学术圈：<a href="http://mp.weixin.qq.com/s?__biz=MzA4NDQwNDQ2Nw==&amp;mid=2650476695&amp;idx=2&amp;sn=891e5ecd59266cae51efa5a2a0187b1d&amp;chksm=87e8010bb09f881d0e38c2a959a530d3224baec7f0dccfc835f70708c22066aa31f3acebc8dd&amp;scene=0#rd">论文撰写的注意事项：编辑案例分析</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[英语论文的一些忠告]]></title>
@@ -799,102 +1034,6 @@ achieve（affect、attain、hinder、reach、prevent）a（the）great（remarka
 <p>基因与蛋白质的名称一般用相同词汇表示，但基因名称要用斜体，蛋白质名称要用正体。大小写的规定似乎不严格，但基因名称用小写、蛋白质名称用大写较常见。另外，基因工程中的限制性内切酶名称要用斜体，而且第一个字母要大写，但表示菌株来源及酶编号的英文字母及罗马数字用正体，如EcoRI、BamHI等。</p>
 
 <p>原文地址：<a href="http://blog.sciencenet.cn/blog-281238-386423.html">科技英语写作中的几个小窍门</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[从第一篇论文到JAP副主编: 论文选题, 阅读, 撰写及投稿]]></title>
-    <link href="http://secdr.github.io/2015/07/02/ru-he-xuan-ti/"/>
-    <updated>2015-07-02T15:12:39+08:00</updated>
-    <id>http://secdr.github.io/2015/07/02/ru-he-xuan-ti</id>
-    <content type="html"><![CDATA[<p>学术论文该如何选题、阅读、撰写及投稿？知社学术圈邀请Journal of Applied Physics副主编李江宇教授分享其经验、教训和心得。近日，李教授还将专门从编辑角度谈论文投稿，敬请关注。</p>
-
-<p><img src="http://secdr.github.io/upload/xunti_1.jpeg" alt="" /></p>
-
-<!--more-->
-
-
-<p><img src="http://secdr.github.io/upload/xunti_2.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_3.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_4.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_5.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_6.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_7.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_8.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_9.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_10.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_11.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_12.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_13.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_14.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_15.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_16.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_17.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_18.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_19.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_20.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_21.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_22.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_23.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_24.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_25.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_26.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_27.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_28.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_29.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_30.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_31.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_32.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_33.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_34.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_35.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_36.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_37.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_38.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_39.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_40.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_41.jpeg" alt="" /></p>
-
-<p>「原文地址」<a href="http://mp.weixin.qq.com/s?__biz=MzA4NDQwNDQ2Nw==&amp;mid=206513116&amp;idx=1&amp;sn=e3eab1215a33aa37c085cff4381b8ab5&amp;scene=5#rd">从第一篇论文到JAP副主编: 论文选题, 阅读, 撰写及投稿</a></p>
 ]]></content>
   </entry>
   
