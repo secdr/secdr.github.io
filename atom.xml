@@ -4,7 +4,7 @@
   <title><![CDATA[SecDr]]></title>
   <link href="http://secdr.github.io/atom.xml" rel="self"/>
   <link href="http://secdr.github.io/"/>
-  <updated>2016-11-30T10:25:54+08:00</updated>
+  <updated>2017-06-09T10:02:29+08:00</updated>
   <id>http://secdr.github.io/</id>
   <author>
     <name><![CDATA[SecDr]]></name>
@@ -12,6 +12,163 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[优秀论文的创作之道]]></title>
+    <link href="http://secdr.github.io/2017/06/09/you-xiu-lun-wen-de-chuang-zuo-zhi-dao/"/>
+    <updated>2017-06-09T09:53:44+08:00</updated>
+    <id>http://secdr.github.io/2017/06/09/you-xiu-lun-wen-de-chuang-zuo-zhi-dao</id>
+    <content type="html"><![CDATA[<h4>达人简介</h4>
+
+<p>周浩博士毕业于国防科学技术大学计算机学院，主要研究方向为计算机体系结构与编译优化，曾发表多篇高水平学术论文，其中论文“Exploiting Mixed SIMD Parallelism by Reducing Data Reorganization Overhead” 获得CGO 2016（计算机编译领域顶级会议）的Best Paper Award。</p>
+
+<h4>达人经验谈</h4>
+
+<p>  几个月前，我的好友（Call4Papers的小编们）就尝试让我总结分享些科技论文写作的心得，被我婉拒了几次。说到“分享心得”，我实在不敢当，因为周围的牛人实在太多。但回头想想，若我的经验能让些许人受益，那便不失为一件美事。个人拙见，不为炫技，权当抛砖迎玉。<!--more--></p>
+
+<p>  回想每次投稿前，时常会因临近截稿时间而焦头烂额。很想静下心来再仔细推敲，然而心有余而“时”不足。在此，我的第一个建议就是要有合理的计划，为论文写作预留充足的时间，从而保证写作质量。</p>
+
+<p>  论文不能是“孤芳自赏”。作者心里再清楚，审稿人或其他读者不理解也是白搭。作者在写作时需要和读者进行换位思考。我建议在写作时不妨尝试思考以下问题：</p>
+
+<ol>
+<li><p>文章通顺了么？</p>
+
+<p> 最基本的是语言通顺，然而更重要的是逻辑通顺。论文需要回答“做了什么”、“为什么做”和“怎么做的”这几个问题，逻辑上要一脉相承、前后照应。在叙述具体问题时，可以按照时间推移、空间变换、总体到部分等顺序进行陈述。切记“求顺不乱”。</p></li>
+<li><p>文章明晰了么？</p>
+
+<p> 既要做到框架明晰，还要力求细节明晰。明晰的终极目标是让读者有能力重现文章中的技术方案。论文中任何形式的遮遮掩掩只会给读者带来消极印象。当然，篇幅限制可能不允许作者做到面面俱到，此时则要重点明晰，把最重要的说清楚。切记“求明勿混”。</p></li>
+<li><p>文章新颖了么？</p>
+
+<p> 现在强调创新思维，100%新颖实属难得，部分创新同样值得鼓励。论文内容新颖自然是锦上添花，但也不能强求。有创新的时候一定要突出其不同之处，切记“求新弃同”。</p>
+
+<p> 衷心希望上述建议能够对大家有所帮助，也祝愿大家在未来的投稿过程中捷报频传。期待有更多的朋友能够在这个平台和大家交流互动，也祝福Call4Papers蒸蒸日上。</p></li>
+</ol>
+
+
+<p>原文地址：<a href="https://mp.weixin.qq.com/s?__biz=MzI2MzExNzk4OQ==&amp;mid=2650226809&amp;idx=1&amp;sn=f26801060c7531fb74f0ee139450d164&amp;scene=0#wechat_redirect">【达人分享】优秀论文的创作之道</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[胡晓峰：预研项目评审有感]]></title>
+    <link href="http://secdr.github.io/2017/06/09/hu-xiao-feng-:yu-yan-xiang-mu-ping-shen-you-gan/"/>
+    <updated>2017-06-09T09:53:30+08:00</updated>
+    <id>http://secdr.github.io/2017/06/09/hu-xiao-feng-:yu-yan-xiang-mu-ping-shen-you-gan</id>
+    <content type="html"><![CDATA[<p>评审完100多份预研项目《建议书》，感到有喜有忧。喜的是扩大了申请者范围，引入了新鲜血液，避免了小圈子分项目，激发了相互竞争，长期以往必有收获；忧的是看到的项目建议书参差不齐，整体质量不是太高，眼前一亮的新东西并不是太多。因为这是第一次公开申请，各方面都没有经验，因而值得好好总结，相信以后会逐年提高。好的地方留给领导去总结，我就专门说说存在的问题，一孔之见，供大家参考。我把它概括为七个“不知道”。</p>
+
+<p>第一，不知道要研究的“问题”是什么。上来就是“目标”，而且很多《建议书》都是照抄《指南》，既不分析《指南》为什么要你研究这个问题，也不说目前这个方面的研究已经到了什么程度，倒是说了不少要干的事，但就是不知道要解决问题是什么。技术指标很多也基本照抄《指南》。事实上，任何科学研究解决科学问题才是关键。就像阿尔法狗，“下围棋”是实际问题，“机器学习方法”才是科学问题。很多《建议书》既不知道自己研究的实际问题是什么，更不知道科学问题是什么，空谈了很多研究内容和意义。</p>
+
+<!--more-->
+
+
+<p>第二，不知道研究的起点在哪里。每个项目似乎一切都是从零开始，什么东西都要做，但技术进步在哪儿不知道。研究内容没有聚焦到解决关键技术问题上，其实关键技术的突破才是预研课题要做的主要事情。正是因为不知道起点在哪里，所以也就不知道关键技术是什么，结果很多项目都是低水平重复。这个单位已经做过，那个单位接着又再做，似乎每个单位都在“进步”，但其实技术本身并没有发展。</p>
+
+<p>第三，不知道创新点在哪里。很多《建议书》对创新点的理解不准确，以为自己不知道的就是创新，或者自己单位没搞过的就是创新。因而创新缺乏新意，很多根本就不是创新，只是自己孤陋寡闻而已。没有开阔的科学视野，是很难知道什么是真正的创新的。创新既有“从0到1”的原始创新，也有“从1到N”的增量创新，这两种创新在预研中都存在，但增量创新更多一些，都很重要。要特别推荐有特色的研究，那也是一种创新。</p>
+
+<p>第四，不知道解决问题的技术路线新在哪里。很多关键技术攻关突破与否关键就在技术路线的选择，所以必须要说清楚过去为什么不行，现在为什么行？你的技术路线解决了什么问题。阿尔法狗用的很多方法都是别人发明的，他们重新在技术路线上加以改进，就解决了问题，比如海量样本的生成。光用人类的棋谱最多逼近人类，但用了海量随机博弈产生的样本，才有了战胜人类的可能。这也是重大创新，是技术路线上的创新。</p>
+
+<p>第五，不知道经费的多少约束了啥。一些项目的目标与经费似乎不太匹配，似乎不管多少经费都可以干同样的事。其实，这说明他们既没有想清楚研究需要什么条件，也没有想好这些条件需要花多少钱。明起来看好像不管经费多少我都可以干，但其实还是把拿到经费放在第一位，而不是把解决科学问题放在第一位。而且由于每个项目方向都安排两个以上的项目竞争，所以也存在平衡照顾的问题。但这样的研究项目即使给了钱，估计也得不到好的结果。</p>
+
+<p>第六，不知道预研应该干啥。有些项目建议书不知道预研课题应该干什么，有的就是自己单位正常的工作任务，有的将其混为工程开发、型号研制或基金研究，有的干脆在卖自己公司的代销产品，把产品说明书一抄了事。说到底还是不知道要解决的科学问题、关键技术是什么，难点在哪。更有甚者，直接抄别人的东西还不甚了了，看起来挺唬人，但其实他自己也不懂，估计即使中了标也无法研究下去。</p>
+
+<p>第七，不知道《指南》想要申请者干啥。《指南》的撰写者是各领域的专家，当然知道问题在哪、难点何在，想让申请者干啥，但读《指南》的人却并不知道你那寥寥几语中到底是什么意思。因而申请者不知道要解决的实际问题是什么，只好猜谜似的去写，为了增加猜中的概率，只好越说越大，所以面铺得很开，重点也就不集中不聚焦。“指标”要求也应该结合需解决的问题提，而不是简单地罗列一些数字。</p>
+
+<p>这是建议书中见到最多的问题。因此，有以下建议供科研管理部门和申请预研单位在以后的工作中参考：</p>
+
+<p>1、《指南》中要首先明确解决的实际问题是什么，《建议书》要分析实际问题的原因并找出科学问题，并给出目前的研究现状，以供评审者评估申请者对需要解决问题的理解程度。</p>
+
+<p>2、《指南》中要明确希望达成的目标是什么，最关键的指标是什么，《建议书》要分析达成这个目标的难点在哪里，指标采用什么途径去达成。以供评审者分析申请者的具体技术方案是否合理，技术路线是否可行。</p>
+
+<p>3、对于预研项目来说，要鼓励突破典型的大难题，而不要鼓励突破一堆价值不大的小难题。鼓励突破真正的关键技术，而不要鼓励去完成一大堆工作量式的工程，那不是预研该干的事。就像世界上有一大堆下围棋的软件，结果不如一个阿尔法狗在技术上的突破大。当然，也要能够容忍真正研究了但被证明失败了的项目。按DARPA局长的话，叫做：“既然失败，就来个大失败！”，知道什么不行也是成果。</p>
+
+<p>4、经费应该与解决的实际问题匹配，既不能漫无目的的要钱，更不能漫无目的的做事。根据预研的特点，经费可以考虑分期拨款：前期可以多让几个单位承研，每个单位给一些前期费用，后期根据进展突破大小将资助集中到突破可能性大的项目上去。应该鼓励研究单位的预先研究积累，在评审时应该是鼓励有研究积累的申请者。考评考的重点应该是关键技术的突破，而不应该是整个系统。</p>
+
+<p>5、建议在适当时机组织相关专业组、承研单位和申请者进行培训，就如何写好《指南》和《建议书》进行研讨和说明。或者组织专家撰写相关教材，或者给出《指南》和《建议书》范本，供大家学习。</p>
+
+<p>以上只是参加评审的一点感想，肯定很不全面，也可能并不准确，仅供参考。啰嗦以上一些，只是期望我们的预研工作可以搞得更好！</p>
+
+<p>原文链接：<a href="https://mp.weixin.qq.com/s?__biz=MzA3NDQyNzYyNw==&amp;mid=2650620605&amp;idx=3&amp;sn=6aa05c8638fbf039866622ef3b6ac1cd&amp;scene=0#wechat_redirect">胡晓峰：预研项目评审有感</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[七步写出高水平SCI论文]]></title>
+    <link href="http://secdr.github.io/2017/06/09/qi-bu-xie-chu-gao-shui-ping-scilun-wen/"/>
+    <updated>2017-06-09T09:53:22+08:00</updated>
+    <id>http://secdr.github.io/2017/06/09/qi-bu-xie-chu-gao-shui-ping-scilun-wen</id>
+    <content type="html"><![CDATA[<p>国内比较注重论文数量，一些研究生读博士的时候就能发表不少论文。我在国内读博士的时候也发表不少论文，来新加坡国立大学后，发现他们的评价标准是他引次数除以论文数量，如果别人不引用，论文数越多平均他引次数反而更小，所以很少有人片面追求数量。这里结合自己的一些经验，讲述一下写出高水平论文的一些建议，相信对正苦于如何发表SCI论文的博士们是有借鉴价值的。</p>
+
+<h4>1. 研究方向要在自己擅长的领域选择，或者有擅长该方向的人指导</h4>
+
+<p>选择研究方向是个很头疼的事情，这对研究的成败起着决定性的作用。你研究什么问题，在很大程度上就决定了你能发表怎样水平的文章、有没有人看、有没有人引用，所以这是个很严肃的问题。</p>
+
+<!--more-->
+
+
+<p>研究的对象很大程度上决定着研究的成果，中国两千多年来以孔圣人为研究对象，没有开拓研究对象，所以一直固步自封直到落后挨打，所以研究对象必须对社会发展有重大意义、必须不断开拓新的研究对象。</p>
+
+<p>研究生的研究对象和方向基本由导师决定，自己可选的余地不大，但要知道这个道理。对于博士毕业后仍然从事科研的年轻人来说，一般来说应该以自己擅长的方法、技巧、领域为基础，逐渐扩展。如果自己特别喜欢某一个领域，需要多向熟悉该领域的学者请教、学习，如果能跟着熟悉该领域的成功者干一段时间更好。</p>
+
+<h4>2. 循序渐进掌握英语写作，尽可能自己写，多和导师修改后的论文比较</h4>
+
+<p>英语写作是发表SCI论文必须过的一关，因为国内的中文期刊一般最多EI收录，想发表SCI论文很难。多读一些科技论文写作技巧的书是很有必要的，我当时读过《How to Write &amp; Publish a Scientific Paper》和《How to Publish a Paper in the Top Journal》，这两本书都写得非常好，建议写英文论文有困难的研究生一读。</p>
+
+<p>我读博士的时候，第一篇论文我只写了中文，英文完全是导师翻译，从第二篇论文起我自己翻译成英文，导师修改后发表。做博士后了然后开始独立写论文，从写作到投稿一切都是自己完成，这时候再把当初自己写的英文和导师修改后的比较，发现导师的确比自己高明得多。写英文论文也是一个反复修改的过程，只要自己有耐心，多看几遍、多检查，总能有所改进。</p>
+
+<h4>3. 写论文往往是调研与研究的不断反复</h4>
+
+<p>写论文离不开看文献，无论你是只想发表几篇论文尽快毕业还是想发表一些有影响的论文为自己的学术道路奠定基础，都是需要看大量文献的。</p>
+
+<p>看文献有以下几个目的：</p>
+
+<ul>
+<li>调查别人在做些什么，这些事情有何价值；</li>
+<li>别人是怎么做的，自己可以做些什么；</li>
+<li>学习别人的方法，尝试提出自己的方法，等等。</li>
+</ul>
+
+
+<p>写论文往往是一个调研与研究不断反复的过程，我们在研究过程中遇到新问题需要调研，解决了这个问题继续前进会遇到新问题，继续调研，如此不断反复直至取得成功。最后写论文的时候还需要看文献，检查一下别人是否有人做过类似的研究，确信自己的论文是有新意、有价值的，然后再发表到合适的期刊上。</p>
+
+<h4>4. 写好引言很重要，这直接决定着论文是否被录用，并影响着以后的研究</h4>
+
+<p>大致来说，引言需要包括以下内容：</p>
+
+<ul>
+<li>研究对象的意义和价值；</li>
+<li>回顾相关研究工作（不必全面综述，把特别相关的文献介绍一下即可）；</li>
+<li>该研究领域目前存在的问题，自己做该项研究目的；</li>
+<li>自己解决了什么问题，有何意义。</li>
+</ul>
+
+
+<p>切忌只引用很老的参考文献，这会被编辑或评阅人认为这个领域现在已经没人研究，一方面这给编辑找审稿人带来困难，另外一方面很容易被拒稿。一般情况下，评阅人先看看摘要和结论，看完引言基本就能决定是否接受论文。写引言的过程中会读不少文献的引言，这是了解相关研究的一个过程，如果自己不打算结束这个方向的研究，写完一篇论文的引言基本上就考虑好了下一篇论文写什么。</p>
+
+<h4>5. 注意参考文献，这对自己的论文的发表速度有直接影响</h4>
+
+<p>不少期刊的编辑一般通过作者的参考文献找审稿人，所以引用一些近几年的文献可以给编辑提供方便，自然可以加快自己论文的发表速度。关键的参考文献一定要引用，在引言中对参考文献的评述一定要中肯、恰当，不然会被评阅人认为不了解研究背景，因此把你的论文毙掉。参考文献是论文的最后一部分，也是好多论文的最差的一部分。不少论文的参考文献的书写格式、甚至页码等也有错，这不但是对读者的不负责，也给自己以后查看文献带来困难。把参考文献写好有利于读者查阅相关文献，从而更快的接受你的研究成果，这对增加你的论文的引用率是有意义的。</p>
+
+<h4>6. 合作很重要，这对开拓研究领域和增加论文的数量都很有益</h4>
+
+<p>单靠自己一个人的力量，从调研、研究、写论文至发表，一篇论文一般至少需要一两个月，论文的数量很难上去。如果和别人合作，一人写一部分，合作者的论文数量都会翻升。此外，合作者之间可以互相讨论、互相启发，在知识方面可以互相补充，这比一个人单干效率高得多，而且更容易出大成果。做研究有的时候很枯燥，如果可以和人讨论会增加趣味。合作者之间的关系要处理好，比如署名问题，谁先谁后最好提前讨论好，如果在投稿的时候发生争执对相互的关系影响很大，一些合作者因此结怨。</p>
+
+<h4>7. 敢于投稿，坚持就是胜利</h4>
+
+<p>一些博士生做了几年的研究了，一篇论文都没有，问问缘由，不外是担心自己的研究成果价值不够等等。这需要克服两个困难：</p>
+
+<ul>
+<li>敢于写、敢于投稿，被拒后勤补不足，然后继续投稿。</li>
+<li>多阅读文献，这样会增加自己的信心。</li>
+</ul>
+
+
+<p>我在独立写论文的时候，连续三篇论文都被拒，被拒的原因有论文没价值、语言太差等等，有的期刊的编辑甚至直接告诉我半年内不要再给他们投稿。我勤学英语、勤改论文、发奋学习论文写作技巧，并且在论文的价值方面狠下功夫，第四篇论文就被接受了，然后连续投了几篇论文都被接受了，而且都是力学领域比较权威的期刊。所以，下定决心、坚持不懈，不到半年就可以发表好论文。</p>
+
+<p>这篇博客基本上是我读博士和在国内做博士后期间的一些经验，也有最近在国外学习到的一些经验，希望对广大发表论文有困难的博士们有帮助。</p>
+
+<p>原文地址：<a href="http://blog.sciencenet.cn/home.php?mod=space&amp;uid=535297&amp;do=blog&amp;id=590606">刘波-七步写出高水平SCI论文</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[论文撰写的注意事项：编辑案例分析]]></title>
@@ -2355,276 +2512,6 @@ Page 9, line 185: eco-friendly disposal….</p>
 <p>基因与蛋白质的名称一般用相同词汇表示，但基因名称要用斜体，蛋白质名称要用正体。大小写的规定似乎不严格，但基因名称用小写、蛋白质名称用大写较常见。另外，基因工程中的限制性内切酶名称要用斜体，而且第一个字母要大写，但表示菌株来源及酶编号的英文字母及罗马数字用正体，如EcoRI、BamHI等。</p>
 
 <p>原文地址：<a href="http://blog.sciencenet.cn/blog-281238-386423.html">科技英语写作中的几个小窍门</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[牛人看外国文献的方法]]></title>
-    <link href="http://secdr.github.io/2015/10/18/niu-ren-kan-wai-guo-wen-xian-de-fang-fa/"/>
-    <updated>2015-10-18T13:20:06+08:00</updated>
-    <id>http://secdr.github.io/2015/10/18/niu-ren-kan-wai-guo-wen-xian-de-fang-fa</id>
-    <content type="html"><![CDATA[<p>牛人一
-（从Ph.D到现在工作半年,发了12 篇paper, 7 篇first author.）我现在每天还保持读至少2-3 篇的文献的习惯.读文献有不同的读法.但最重要的自己总结概括这篇文献到底说了什么,否则就是白读,读的时候好像什么都明白,一合上就什么都不知道,这是读文献的大忌,既浪费时间,最重要的是,没有养成良好的习惯,导致以后不愿意读文献.</p>
-
-<ol>
-<li><p>每次读完文献 (不管是细读还是粗读), 合上文献后,想想看,文章最重要的 take home message 是什么, 如果不知道,就从abstract,conclusion 里找, 并且从discuss 里最好确认一下. 这样一来, 一篇文章就过关了. take home message 其实都不会很多, 基本上是一些concepts, 如果你发现你需要记得很多,那往往是没有读到重点.</p></li>
-<li><p>扩充知识面的读法, 重点读introduction, 看人家提出的问题,以及目前的进展 类似的文章, 每天读一两篇,一个月内就基本上对这个领域的某个方向有个大概的了解.读好的review 也行, 但这样人容易懒惰.</p></li>
-<li><p>为了写文章的读法, 读文章的时候, 尤其是看discussion 的时候,看到好的英文句型, 最好有意识的记一下,看一下作者是谁,哪篇文章,哪个期刊, 这样以后照猫画虎写的时候,效率高些.比自己在那里半天琢磨出一个句子强的多. 当然,读的多,写的多,你需要记得句型就越少.其实很简单,有意识的去总结和记亿, 就不容易忘记.</p></li>
-</ol>
-
-
-<!--more-->
-
-
-<p>科研牛人二告诉研究生怎么看文献，怎么写论文</p>
-
-<p>一、先看综述</p>
-
-<p>先读综述,可以更好地认识课题,知道已经做出什么，自己要做什么,,还有什么问题没有解决。对于国内文献一般批评的声音很多.但它是你迅速了解你的研究领域的入口,在此之后,你再看外文文献会比一开始直接看外文文献理解的快得多。而国外的综述多为本学科的资深人士撰写，涉及范围广，可以让人事半功倍。</p>
-
-<p>二、有针对地选择文献</p>
-
-<p>针对你自己的方向,找相近的论文来读,从中理解文章中回答什么问题,通过哪些技术手段来证明,有哪些结论?从这些文章中,了解研究思路,逻辑推论,学习技术方法.</p>
-
-<ol>
-<li><p>关键词、主题词检索：</p>
-
-<p> 关键词、主题词一定要选好，这样，才能保证你所要的内容的全面。因为，换个主题词，可以有新的内容出现。</p></li>
-<li><p>检索某个学者：</p>
-
-<p> 查SCI,知道了某个在这个领域有建树的学者，找他近期发表的文章。</p></li>
-<li><p>参考综述检索：</p>
-
-<p> 如果有与自己课题相关或有切入点的综述，可以根据相应的参考文献找到那些原始的研究论文。</p></li>
-<li><p>注意文章的参考价值：</p>
-
-<p> 刊物的影响因子、文章的被引次数能反映文章的参考价值。但要注意引用这篇文章的其它文章是如何评价这篇文章的</p></li>
-</ol>
-
-
-<p>三、如何阅读文献</p>
-
-<ol>
-<li><p>注重摘要：摘要可以说是一个论文的窗口。多数文章看摘要，少数文章看全文。真正有用的全文并不多，过分追求全文是浪费，不可走极端。当然只看摘要也是不对的。多数文章题目、摘要简单浏览后，直接把几个Figure 及Title 与legend 一看，一般能掌握大部分。</p></li>
-<li><p>通读全文：读第一遍的时候一定要认真，争取明白每句的大意，能不查字典最好先不查字典。因为读论文的目的并不是学英语，而是获取信息，查了字典以后思维会非常混乱，往往读完全文不知所谓。可以在读的过程中将生字标记，待通读全文后再查找其意思。</p></li>
-<li><p>归纳总结：较长的文章，容易遗忘。好在虽然论文的句子都长，但每段的句数并不多，可以每一段用一个词组标一个标题。</p></li>
-<li><p>确立句子的架构，抓住主题：读 英文原版文献有窍门的。我们每个单词都认识读完了却不知他在说什么，这是最大的问题。在阅读的时候一定要看到大量的关系连词，他们承上启下引领了全文。中 国人喜欢罗列事实，给出一个观点然后就是大量的事实，这也是中文文献的特点，我们从小都在读这样的文章，很适应。西方人的文献注重逻辑和推理，从头到尾是 非常严格的，就像GRE 里面的阅读是一样的，进行的是大量重复、新旧观点的支持和反驳，有严格的提纲，尤其是好的杂志体现得越突出。读每一段落都要找到他 的主题，往往是很容易的，大量的无用信息可以一带而过，节约你大量的宝贵时间和精力。</p></li>
-<li><p>增加阅读量：
-由于刚刚接触这一领域，对许多问题还没有什么概念，读起来十分吃力，许多内容也读不懂。后来随着阅读量的增加，最后可以融汇贯通。所以，对新手而言，应当重视阅读文献的数量，积累多了，自然就由量变发展为质变了。</p></li>
-</ol>
-
-
-<p>四．提高阅读的效率</p>
-
-<ol>
-<li><p>集中时间看文献：</p>
-
-<p> 看文献的时间越分散，浪费时间越多。集中时间看更容易联系起来，形成整体印象。</p></li>
-<li><p>做好记录和标记：</p>
-
-<p> 复印或打印的文献，直接用笔标记或批注。pdf 或html 格式的文献，可以用编辑器标亮或改变文字颜色。这是避免时间浪费的又一重要手段。否则等于没看。</p></li>
-<li><p>阅读顺序：</p>
-
-<p> 根据阅读目的选择合适的顺序。一般先看abstract、introduction，然后看discussion，最后看result 和method（结合图表）。</p></li>
-</ol>
-
-
-<p>五、文献的整理</p>
-
-<ol>
-<li>下载电子版文献时（caj，pdf，html），把文章题目粘贴为文件名（文件名不能有特殊符号）</li>
-<li>不同主题存入不同文件夹。文件夹的题目要简短，如：PD，LTP,PKC，NO。</li>
-<li>看过的文献归入子文件夹，最起码要把有用的和没用的分开。</li>
-<li>重要文献根据重要程度在文件名前加001,002，003 编号，然后按名称排列图标，最重要的文献就排在最前了。而且重要文献要注意追踪。运气好，你可以得到更多的线索；运气不好，发现别人抢先了。据此修正你的实验。</li>
-</ol>
-
-
-<p>六、英文文章写作 （阅读文献的副产品）</p>
-
-<ol>
-<li>平时阅读文献，注意总结常用句型和常用短语（注意，文献作者必须是以英文为母语者，文献内容要与你的专业有关）。</li>
-<li>找3-5 篇技术路线和统计方法与你的课题接近的文章，精读。?</li>
-</ol>
-
-
-<p>牛人三</p>
-
-<p>本人英语基础不好，没过六级，所以在硕士的时候基本上看的外文文献很少，现在想想很后悔，2 年的时间少学了很多东西。上了博士，自己给自己的定位也高一些 了，开始打算硬着头皮咬着牙很不情愿的也要多看些外文文献，一开始看比较慢，有些很难理解，到现在大约仔细阅读了100 篇外文文献，泛读了100 篇外文文 章，受益匪浅，现在基本不怎么看中文的了，确实也觉得外文的质量就是高（也有凑数的烂文章），现在自己写外文的也很顺手了。谈几点自己的体会。我是材料专 业的。</p>
-
-<ol>
-<li><p>先找5 篇跟自己论文最相关的外文文章，花一个月的时间认认真真的看，反复看，要求全部读懂，不懂的地方可以和同学和老师交流一下。一个月以后你已经上路了。</p></li>
-<li><p>如何读标题：不要忽视一篇论文的标题，看完标题以后想想要是让你写你怎么用一句话来表达这个标题，根据标题推测一下作者论文可能是什么内容。有时候一句比较长的标题让你写，你可能还不会表达。下次你写的时候就可以借鉴了</p></li>
-<li><p>如何读摘要：快速浏览一遍，这里主要介绍这篇文章做了些什么。也许初看起来不好理解，看不懂，这时候不要气馁，不管它往下看，等你看完这篇文章的时候也许 你都明白了。因为摘要写的很简洁，省略了很多前提和条件，在你第一眼看到摘要而不明白作者意图的时候看不懂是正常的。</p></li>
-<li><p>如何读引言（前言）：当你了解了你的研究领域的一些情况，看引言应该是一件很容易的事情了，都是介绍性的东西，写的应该都差不多，所以看文献多了以后看这部分的内容就很快了，一扫而过。有些老外写得很经典得句子要记下了，下次你写就可以用了。</p></li>
-<li><p>如何读材料及试验：当你文献看多了以后，这部分内容也很简单了，无非就是介绍试验方法，自己怎么做试验的。很快就能把它看完了吧</p></li>
-<li><p>如何看试验结果：看结果这部分一定要结合结果中的图和表看，这样看的快。主要看懂试验的结果，体会作者的表达方法（例如作者用不同的句子结构描述一些数字的结果）。有时看完以后再想想：就这么一点结果，别人居然可以大篇幅的写这么多，要是我可能半页就说完了？</p></li>
-<li><p>如何看分析与讨论：这是一篇文章的重点，也是最花时间的。我一般把前面部分看完以后不急于看分析讨论。我会想要是我做出来这些结果我会怎么来写这部分分析 与讨论呢？然后慢慢看作者的分析与讨论，仔细体会作者观点，为我所用。当然有时候别人的观点比较新，分析比较深刻，偶尔看不懂也是情理之中。当你看的多 了，你肯定会看的越来越懂，自己的idea 越来越多</p></li>
-<li><p>如何看结论：这个时候看结论就一目了然了，作后再反过去看看摘要，其实差不多</p></li>
-<li><p>把下载的论文打印出来，根据与自己课题的相关性分三类，一类要精读，二类要泛读，三类要选择性的读。分别装订在一起</p></li>
-<li><p>看完的文献千万不要丢在一边不管，3－4 个月一定要温习一遍，可以根据需要，对比自己的试验结果来看</p></li>
-<li><p>学会记笔记，重要的结论，经典的句子，精巧的试验方案一定要记下来，供参考和学习</p></li>
-<li><p>有些试验方法相同，结论不同的文献，可以批判性的阅读。我想要是你自己做试验多的话，你应该有这个能力判断谁的更对一点。出现试验方法相同，结论不同的原因有下：试验方法描述不详细，可能方法有差别；试验条件不一样；某些作者夸大结果，瞎编数据</p></li>
-<li><p>有时间还是多看点文献吧，最好定个目标：在学术上超过自己的老板。因为老板一般不看文献，他们都是凭经验做事，很多新东西他们都不知道，慢慢的你老板会觉得你很厉害。反正我觉得多读了，读起来就快了，而且也会慢慢喜欢上看外文文献，收获自然也就多了。</p></li>
-</ol>
-
-
-<p>算起来从05 年读研开始到现在也快三年的时间了。在这段时间里，实验做得不是很多，文献倒是读了不少。原因呢，可能是老板也发现了我这个人属于那种眼高手低的人，干脆就让我做个文献阅读器了。从研一到现在每当老板脑子里出来一个想法，出来几个关键词，好了，下一步的工作就是交给我查阅和整理文献了。大家有空可以看看我发在论坛里的几个ppt，关于光催化、无铅压电陶瓷，微波介质陶瓷，纳米ZnO，此外关于Raman 光谱、多铁性材料。。。算起来前前后后看过——当然只能说看过，因为大部分都只是走马观花，没有精读——的文献应该不下三四百篇了。我估计每个方向单拿出来写个中文综述都差不多够了，可惜中文要版面费，想来老板也不会给出说了这么多废话，进入正题吧。有人也许会问，你是怎么看文献的，特别是一个以前没有接触的陌生领域。我的方法是，先看中文综述，然后是中文博士论文，而后是英文综述，最后是英文期刊文献。这样做的好处是，通过中文综述，你可以首先了解这行的基本名词，基本参量和常用的制备、表征方法。</p>
-
-<p>我觉得这点很重要，因为如果直接英文上手的话，一些基本名词如果简单的想当然的翻译，往往会将你引入误区或造成歧义。同时中文综述里要包含了大量的英文参考文献，这就为后续的查找文献打下一个基础。</p>
-
-<p>中文博士论文，特别是最近几年的，其第一章前言或是绪论所包含的信息量往往大于一篇综述的。因为它会更加详细的介绍该领域的背景以及相关理论知识，同时里面往往会提到国内外在本领域做得比较好的几个科研小组的相关研究方向。通过阅读就可以更清楚理清一个脉络。</p>
-
-<p>英文综述，特别是那种invited paper 或是发表在高if 期刊上的，往往都是本领域的牛人们写的。对此要精读，要分析其文章的构架，特别要关于作者对各个方向的优缺点的评价以及对缺点的改进和展望。通过精读一篇好的英文综述，所获得的不只是对本领域现在发展状况的了解，同时也可以学会很多地道的英文表达。最后就是针对自己的课题查找阅读相关英文文献了。现在各大学图书馆里面的数据库都比较全，即使没有也可以通过网络上多种手段获取文献了。所以说文献的获取不是问题，问题在于查什么样的文献和怎么具体阅读整理文献。根据我的体会，我觉得有以下四类英文文献是我们所需要的：</p>
-
-<ol>
-<li><p>本领域核心期刊的文献。不同的研究方向有不同的核心期刊，这里也不能一概唯if 论了。比如说陶瓷类的核心期刊美陶的IF 也不过1.5 几，但上面的文章特别是feature artical 还是值得仔细阅读的。当然，首先你要了解所研究的核心期刊有哪些，这个就要靠学长、老板或者网上战友的互相帮助了。</p></li>
-<li><p>本领域牛人或者主要课题组的文献。每个领域都有几个所谓的领军人物，他们所从事的方向往往代表目前的发展主流。因此阅读这些组里的文献就可以把握目前的研究重点。这里有人可能要问，我怎么知道谁是牛人呢？这里我个人有两个小方法。第一是在ISI 检索本领域的关键词，不要太多，这样你会查到很多文献，而后利用ISI 的refine 功能，就可以看到哪位作者发表的论文数量比较多，原则上一般发表论文数量较多的人和课题组就是这行里比较主要的了。还有一个方法，就是首先要了解本领域有哪些比较规模大型的国际会议，而后登陆会议主办者的网站一般都能看到关于会议的invited speaker的名字，做为邀请报告的报告人一般来说都是在该行有头有脸的人物了，呵呵</p></li>
-<li><p>高引用次数的文章。一般来说高引用次数（如果不是靠自引堆上去的话）文章都是比较经典的文章，要么思路比较好，要么材料性能比较好，同时其文笔应该也不赖的话。多读这样的文章，体会作者对文章结构的把握和图表分析的处理，相信可以从中领悟很多东西的。</p></li>
-<li><p>最后就是当你有了一定背景知识，开始做实验并准备写论文的时候需要看的文献了。我个人的经验是，首先要明确一点，你所做的实验想解决什么问题？是对原有材料的改进还是创造一种新的材料或者是新的制备方法，还是采用新的表征手段或是计算方法。明确这一点后，就可以有的放矢查找你需要的文献了。而且往往当你找到一篇与你研究方向相近的文章后，通过ISI 的反查，你可以找到引用它的文献和它引用的文献，从而建立一个文献树，更多的获取信息量。</p></li>
-</ol>
-
-
-<p>此外，我想提到的一点就是关于文献的整理。很多时候大家下文献都是很盲目，抱着一种先下来再说的思想。往往下来的文献不少，但只是空占者磁盘空间。不经过整理归类的文献就不是自己的文献，那根据什么来分类呢？</p>
-
-<p>我有一个比较简单实用的方法，适用于那些拥有大量未读文献的。就是只关心三点：文章的前言的最后一部分（一般这部分都是提出作者为什么要进行这项工作，依据和方法），文章中的图表（提出采用的表征方法以及性能变化）和结论（是否实现了既定目标以及是否需要改进）。当然，如果全部精读相信工作量也不小。我的看法是尽可能用50 个字左右来归纳文章，说白了就是文章的目的（如改进某个性能或提出某种方法）＋表征手段（如XRD，IR，TEM 等）＋主要结论（如产物的性能）。当你按照这个方法归纳整理几十篇文献后，自然会有一个大致的了解，而后再根据你的笔记将文献分类整理，当你在写论文需要解释引用时再回头精读，我觉得这样会提高效率不少。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[论文返修一些很有用的套话II]]></title>
-    <link href="http://secdr.github.io/2015/10/03/response-letters/"/>
-    <updated>2015-10-03T13:14:29+08:00</updated>
-    <id>http://secdr.github.io/2015/10/03/response-letters</id>
-    <content type="html"><![CDATA[<p>总结了一部分万能的套话，以体现我们对杂志社编辑和审稿人的尊重。</p>
-
-<p>1、Firstly, we would like to thank you for your kind letter and for reviewers’ constructive comments concerning our article (Manuscript No.:XXXXX).These comments are all valuable and helpful for improving our article. All the authors have seriously discussed about all these comments. According to the reviewers’comments, we have tried best to modify our manuscript to meet with the requirements of your journal. In this revised version, changes to our manuscript within the document were all highlighted by using red colored text.Point-by-point responses to the reviewers are listed below this letter.</p>
-
-<p>2、If there are any other modifications we could make, we would like very much to modify them and we really appreciate your help. Thank you very much for your help.</p>
-
-<p>3、Thanks. We have corrected these mistakes based on your suggestions.</p>
-
-<!--more-->
-
-
-<p>4、Thank you again for your positive comments and valuable suggestions toimprove the quality of our manuscript.</p>
-
-<p>5、we were really sorry for your careless mistakes. Thank you for your reminding.</p>
-
-<p>6、Thanks for your nice suggestions. We have formatted all the references.</p>
-
-<p>7、It is with excitement that I resubmit to you a revised version of manuscript （稿号） for the 杂志名. Thank you for giving me the opportunity to revise and resubmit this manuscript. In keeping with my last communication with you, I am resubmitting this revision before the agreed upondeadline. I appreciate the time and detail provided by each reviewer and by you and have incorporated the suggested changes into the manuscript to the best of my ability. The manuscript has certainly benefited from these insightful revision suggestions. I look forward to working with you and the reviewers to move this manuscript closer to publication in the杂志名. （返修有拖延时用）</p>
-
-<p>8、I have responded specifically to each suggestion below, beginning with your own. To make the changes easier to identify where necessary, I have numbered them.</p>
-
-<p>9、Thank you again for your positive comments on our manuscript. 杂志名 is an influential journal which aims to improve ourunderstanding of cancer prevention/other. From all the papers published in your journal, readers have been learning a lot. Hopefully, we could have our article been considered of publication in your journal. Should there been any other corrections we could make, please feel free to contact us.</p>
-
-<p>10、Thank you for your kind comments on ourmanuscript entitled “文章名”. We have carefully revised the manuscript according to the reviewer’s comments. Based on the suggestions, we have made an extensive modification on the revised manuscript. Detailed revision was shown as follows. The changes to our manuscript within the document were aslo highlighted by using red colored text.</p>
-
-<p>11、We feel great thanks for your professional review work onour article. As you are concerned, there are several problems that need to beaddressed. According to your nice suggestions, we have made extensivecorrections to our previous draft, the detailed corrections are listed below.</p>
-
-<p>12、According to the reviewer’s comments, we have revised the manuscript extensively. If there are any other modifications we could make, we would like very much to modify them and we really appreciate your help. We hope that our manuscript could be considered for publication in your journal. Thank you very much for your help.</p>
-
-<p>13、On behalf of all the contributing authors, I would like to express our sincere appreciations of your letter and reviewers’ constructive comments concerning our article entitled “XXX文章” (Manuscript No.:XXXX). These comments are all valuable and helpful for improving our article. According to the associate editor and reviewers’ comments,we have made extensive modifications to our manuscript and supplemented extra data to make our results convincing. In this revised version, changes to ourmanuscript were all highlighted within the document by using red colored text. Point-by-pointresponses to the nice associate editor and two nice reviewers are listed below this letter.</p>
-
-<p>14、We would like to thank you first for all the positive comments of ourmanuscript (No.: XXXX) entitled “XXXXX”. We really appreciate your help and patience. We also think highly of the comment sof both reviewers who kindly provide professional suggestions on our manuscript.we have seriously thought about them and provided our response to reviewers. Forthe detailed response, please see below.</p>
-
-<p><a href="http://mp.weixin.qq.com/s?__biz=MzA3ODU1NjUyNw==&amp;mid=212599913&amp;idx=1&amp;sn=bfe1661e02ad61c8166724f2845e337c&amp;scene=23&amp;srcid=0930Ad9myRyQ2IGB9frfHWGh#rd">原文地址: 实验万事屋-论文返修（response letter)一些很有用的套话II</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[从第一篇论文到JAP副主编: 论文选题, 阅读, 撰写及投稿]]></title>
-    <link href="http://secdr.github.io/2015/07/02/ru-he-xuan-ti/"/>
-    <updated>2015-07-02T15:12:39+08:00</updated>
-    <id>http://secdr.github.io/2015/07/02/ru-he-xuan-ti</id>
-    <content type="html"><![CDATA[<p>学术论文该如何选题、阅读、撰写及投稿？知社学术圈邀请Journal of Applied Physics副主编李江宇教授分享其经验、教训和心得。近日，李教授还将专门从编辑角度谈论文投稿，敬请关注。</p>
-
-<p><img src="http://secdr.github.io/upload/xunti_1.jpeg" alt="" /></p>
-
-<!--more-->
-
-
-<p><img src="http://secdr.github.io/upload/xunti_2.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_3.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_4.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_5.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_6.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_7.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_8.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_9.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_10.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_11.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_12.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_13.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_14.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_15.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_16.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_17.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_18.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_19.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_20.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_21.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_22.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_23.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_24.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_25.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_26.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_27.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_28.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_29.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_30.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_31.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_32.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_33.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_34.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_35.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_36.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_37.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_38.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_39.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_40.jpeg" alt="" /></p>
-
-<p><img src="http://secdr.github.io/upload/xunti_41.jpeg" alt="" /></p>
-
-<p>「原文地址」<a href="http://mp.weixin.qq.com/s?__biz=MzA4NDQwNDQ2Nw==&amp;mid=206513116&amp;idx=1&amp;sn=e3eab1215a33aa37c085cff4381b8ab5&amp;scene=5#rd">从第一篇论文到JAP副主编: 论文选题, 阅读, 撰写及投稿</a></p>
 ]]></content>
   </entry>
   
